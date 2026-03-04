@@ -1,0 +1,153 @@
+{% extends "base.html" %}
+
+{% block title %}Trends for {{ date }}{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="breadcrumb">
+        <a href="/">Dashboard</a> / <span>{{ date }}</span>
+    </div>
+
+    <div class="page-header">
+        <h2 class="page-title">Tile Trends Report</h2>
+        <div class="page-date">{{ date }}</div>
+        <div style="margin-top: 16px;">
+            <a href="/email/{{ date }}" target="_blank"
+               style="display:inline-block;padding:12px 28px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;text-decoration:none;border-radius:30px;font-weight:700;font-size:14px;box-shadow:0 4px 6px rgba(0,0,0,0.2);transition:all 0.3s;">
+                📧 Open Email Template (Copy & Paste to Gmail)
+            </a>
+        </div>
+    </div>
+
+    <!-- Newsletter Summary -->
+    {% if newsletter %}
+    <div class="newsletter-section">
+        <h3 class="section-title">📰 Executive Summary</h3>
+        <div class="newsletter-card">
+            <div class="newsletter-content">
+                {{ newsletter.summary|safe }}
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- KPIs Section -->
+    <div class="section">
+        <h3 class="section-title">📊 Key Performance Indicators</h3>
+
+        <div class="kpi-grid">
+            <div class="kpi-card">
+                <div class="kpi-label">Total Trends</div>
+                <div class="kpi-value">{{ kpis.total_trends or 0 }}</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">Data Sources</div>
+                <div class="kpi-value">{{ kpis.total_sources or 0 }}</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">Categories</div>
+                <div class="kpi-value">{{ kpis.by_category|length or 0 }}</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">Regions</div>
+                <div class="kpi-value">{{ kpis.by_region|length or 0 }}</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Regional Distribution -->
+    <div class="section">
+        <h3 class="section-title">🌍 Regional Distribution</h3>
+        <div class="region-grid">
+            {% for region, count in kpis.by_region.items() %}
+            <div class="region-card">
+                <div class="region-name">{{ region }}</div>
+                <div class="region-count">{{ count }} trends</div>
+                <div class="region-bar">
+                    <div class="region-bar-fill" style="width: {{ (count / kpis.total_trends * 100)|round }}%"></div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- Trend Categories -->
+    <div class="section">
+        <h3 class="section-title">🎨 Trend Categories</h3>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" data-filter="all">All Categories</button>
+            {% for category in kpis.by_category.keys() %}
+            <button class="filter-btn" data-filter="{{ category }}">{{ category }}</button>
+            {% endfor %}
+        </div>
+
+        <div class="trends-grid">
+            {% for category, items in trends.items() %}
+            <div class="trend-category-card" data-category="{{ category }}">
+                <div class="trend-category-header">
+                    <h4 class="trend-category-title">{{ category }}</h4>
+                    <span class="trend-count-badge">{{ items|length }}</span>
+                </div>
+
+                <div class="trend-items">
+                    {% for item in items[:3] %}
+                    <div class="trend-item">
+                        {% if item.local_image %}
+                        <div class="trend-image">
+                            <img src="/images/{{ date }}/{{ item.local_image }}" alt="{{ item.title }}" loading="lazy"
+                                 onerror="this.parentElement.style.display='none'">
+                        </div>
+                        {% endif %}
+                        <div class="trend-item-content">
+                            <h5 class="trend-item-title">{{ item.title }}</h5>
+                            <div class="trend-item-meta">
+                                <span class="trend-source">📰 {{ item.source }}</span>
+                                <span class="trend-region">🌐 {{ item.region }}</span>
+                                {% if item.priority %}
+                                <span class="priority-badge priority-{{ item.priority }}">{{ item.priority|upper }}</span>
+                                {% endif %}
+                            </div>
+                            {% if item.summary %}
+                            <p class="trend-item-summary">{{ item.summary[:120] }}{% if item.summary|length > 120 %}...{% endif %}</p>
+                            {% endif %}
+                            {% if item.link %}
+                            <a href="{{ item.link }}" target="_blank" rel="noopener" class="trend-link">Read Full Article →</a>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                {% if items|length > 3 %}
+                <a href="/date/{{ date }}/trend/{{ category }}" class="view-all-link">
+                    View all {{ items|length }} trends →
+                </a>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+<script>
+// Filter functionality
+document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', function() {
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        this.classList.add('active');
+
+        const filter = this.dataset.filter;
+        const cards = document.querySelectorAll('.trend-category-card');
+
+        cards.forEach(card => {
+            if (filter === 'all' || card.dataset.category === filter) {
+                card.style.display = 'block';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    });
+});
+</script>
+{% endblock %}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Tile Trends Dashboard{% endblock %}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/dashboard.css') }}">
+    {% block extra_css %}{% endblock %}
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <a href="/" style="text-decoration:none;display:flex;align-items:center;gap:14px;">
+                    <img src="{{ url_for('static', filename='images/logo-johnson.png') }}" alt="Johnson Logo" class="nav-logo">
+                    <h1>🏛️ Tile Trends Intelligence</h1>
+                </a>
+            </div>
+            <div class="nav-menu">
+                <a href="/" class="nav-link">Dashboard</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="main-content">
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <img src="{{ url_for('static', filename='images/logo-johnson.png') }}" alt="Johnson Logo" class="footer-logo">
+                <p>&copy; 2026 Tile Trends Intelligence | H&R Johnson (India). Real-time market insights from 50+ sources.</p>
+            </div>
+        </div>
+    </footer>
+
+    {% block extra_js %}{% endblock %}
+</body>
+</html>

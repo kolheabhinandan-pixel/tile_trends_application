@@ -1,0 +1,68 @@
+{
+  "total_trends": 39,
+  "total_sources": 31,
+  "by_category": {
+    "Marble Look": 1,
+    "General Trend": 10,
+    "Vitrified Tiles": 12,
+    "Market Growth": 3,
+    "Eco-Friendly": 7,
+    "Natural Stone Look": 1,
+    "Wood Look": 1,
+    "Terrazzo": 1,
+    "Digital Printing": 3
+  },
+  "by_region": {
+    "India": 24,
+    "Global": 15
+  },
+  "by_source": {
+    "NITCO Tiles Growth Strategy": 1,
+    "Accio - Tile Design Trends India": 1,
+    "IBEF": 1,
+    "IndexBox": 2,
+    "openPR.com": 2,
+    "Market Data Forecast": 2,
+    "Architect and Interiors India": 3,
+    "ANI News": 1,
+    "TheWire.in": 1,
+    "IBTimes India": 1,
+    "Floor Covering News": 2,
+    "PR Newswire": 1,
+    "House Beautiful": 2,
+    "vocal.media": 1,
+    "Ahmedabad Mirror": 1,
+    "Nature": 2,
+    "Realty Plus Magazine": 1,
+    "PIB": 1,
+    "ET Realty": 1,
+    "lokmattimes.com": 1,
+    "IANS": 1,
+    "Homes and Gardens": 1,
+    "Livingetc": 1,
+    "beaveronline.co.uk": 1,
+    "Vogue": 1,
+    "The Times of India": 1,
+    "IANS LIVE": 1,
+    "scanx.trade": 1,
+    "Fact.MR": 1,
+    "Grand View Research": 1,
+    "CORDIS": 1
+  },
+  "by_priority": {
+    "low": 32,
+    "medium": 6,
+    "high": 1
+  },
+  "by_sentiment": {
+    "neutral": 32,
+    "positive": 7
+  },
+  "trending_up": [
+    "General Trend",
+    "Vitrified Tiles",
+    "Market Growth",
+    "Eco-Friendly",
+    "Digital Printing"
+  ]
+}

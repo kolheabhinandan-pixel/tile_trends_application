@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block title %}{{ trend_category }} - {{ date }}{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="breadcrumb">
+        <a href="/">Dashboard</a> / <a href="/date/{{ date }}">{{ date }}</a> / <span>{{ trend_category }}</span>
+    </div>
+
+    <div class="detail-header">
+        <h2 class="detail-title">{{ trend_category }}</h2>
+        <p class="detail-subtitle">{{ items|length }} trends found for {{ date }}</p>
+    </div>
+
+    <div class="detail-grid">
+        {% for item in items %}
+        <article class="detail-card">
+            {% if item.local_image %}
+            <div class="detail-image">
+                <img src="/images/{{ date }}/{{ item.local_image }}" alt="{{ item.title }}"
+                     onerror="this.parentElement.style.display='none'">
+            </div>
+            {% endif %}
+
+            <div class="detail-content">
+                <h3 class="detail-card-title">{{ item.title }}</h3>
+
+                <div class="detail-meta">
+                    <span class="meta-item">
+                        <strong>📰 Source:</strong> {{ item.source }}
+                    </span>
+                    <span class="meta-item">
+                        <strong>🌐 Region:</strong> {{ item.region }}
+                    </span>
+                    {% if item.priority %}
+                    <span class="priority-badge priority-{{ item.priority }}">
+                        {{ item.priority|upper }}
+                    </span>
+                    {% endif %}
+                </div>
+
+                {% if item.summary %}
+                <p class="detail-summary">{{ item.summary }}</p>
+                {% endif %}
+
+                {% if item.link %}
+                <a href="{{ item.link }}" target="_blank" rel="noopener" class="detail-link-btn">
+                    Read Full Article →
+                </a>
+                {% endif %}
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+
+    <div class="back-link-container">
+        <a href="/date/{{ date }}" class="back-link">← Back to {{ date }} Report</a>
+    </div>
+</div>
+{% endblock %}

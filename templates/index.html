@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block title %}Tile Trends Dashboard - Home{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="hero-section">
+        <h2 class="hero-title">🏛️ Market Intelligence Dashboard</h2>
+        <p class="hero-subtitle">Real-time tile industry trends from 50+ global & Indian sources — updated daily</p>
+    </div>
+
+    <div class="stats-grid">
+        <div class="stat-card">
+            <div class="stat-icon">📊</div>
+            <div class="stat-value">{{ dates|length }}</div>
+            <div class="stat-label">Days Tracked</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-icon">🌍</div>
+            <div class="stat-value">50+</div>
+            <div class="stat-label">Data Sources</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-icon">🔄</div>
+            <div class="stat-value">Daily</div>
+            <div class="stat-label">Auto Updates</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-icon">📈</div>
+            <div class="stat-value">30 Days</div>
+            <div class="stat-label">History</div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h3 class="section-title">Available Reports</h3>
+
+        {% if dates %}
+        <div class="dates-grid">
+            {% for date in dates %}
+            <a href="/date/{{ date }}" class="date-card">
+                <div class="date-card-header">
+                    <span class="date-icon">📅</span>
+                    <span class="date-value">{{ date }}</span>
+                </div>
+                <div class="date-card-body">
+                    <p>View trends, KPIs, images and market insights</p>
+                </div>
+                <div class="date-card-footer">
+                    <span class="view-link">View Report →</span>
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+        {% else %}
+        <div class="empty-state">
+            <div class="empty-icon">📭</div>
+            <h4>No Data Available</h4>
+            <p>Run the daily pipeline to start collecting trends:</p>
+            <code>python daily_pipeline.py</code>
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}
