@@ -36,8 +36,8 @@ jobs:
 
       - name: Commit Changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.name "kolheabhinandan-pixel"
+          git config --global user.email "kolhe.abhinandan@hrjohnsonindia.com"
           git add .
           git commit -m "Daily automated update" || echo "No changes"
           git push
