@@ -2,8 +2,11 @@ name: Daily Tile Trends Pipeline
 
 on:
   schedule:
-    - cron: '30 3 * * *'   # Runs daily at 9:00 AM IST
+    - cron: '30 3 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   run-pipeline:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -19,20 +24,16 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run Bootstrap
-        run: |
-          python bootstrap.py
+        run: python bootstrap.py
 
       - name: Run Daily Pipeline
-        run: |
-          python daily_pipeline.py
+        run: python daily_pipeline.py
 
       - name: Run Scheduler
-        run: |
-          python scheduler.py --now
+        run: python scheduler.py --now
 
       - name: Commit Changes
         run: |
