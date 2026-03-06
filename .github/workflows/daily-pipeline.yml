@@ -33,7 +33,7 @@ jobs:
         run: python daily_pipeline.py
 
       - name: Run Scheduler
-        run: python scheduler.py --now
+        run: python scheduler.py --email-only
 
       - name: Commit Changes
         run: |
