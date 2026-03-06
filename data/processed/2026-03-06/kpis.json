@@ -1,6 +1,6 @@
 {
-  "total_trends": 126,
-  "total_sources": 76,
+  "total_trends": 123,
+  "total_sources": 74,
   "by_category": {
     "Tile Design & Trends": 17,
     "Market & Industry News": 20,
@@ -12,21 +12,21 @@
     "Special Tiles": 2,
     "New Collection Launch": 5,
     "Ceramic Tiles": 18,
-    "General Trend": 12,
+    "General Trend": 11,
     "Sanitaryware": 10,
     "Floor Tiles": 9,
     "Natural Stone Look": 2,
-    "Exhibition & Events": 4,
+    "Exhibition & Events": 3,
     "Bathroom Tiles": 4,
     "3D & Textured Tiles": 1,
-    "Marble & Quartz": 7,
+    "Marble & Quartz": 6,
     "Wood Look": 1,
     "Kitchen Tiles": 2,
     "Terrazzo": 1
   },
   "by_region": {
     "India": 60,
-    "Global": 66
+    "Global": 63
   },
   "by_source": {
     "Kajaria Ceramics": 8,
@@ -60,7 +60,7 @@
     "The Logical Indian": 1,
     "The Economic Times": 1,
     "Prop News Time": 1,
-    "openPR.com": 11,
+    "openPR.com": 10,
     "India Today": 1,
     "Forbes": 1,
     "AOL.com": 5,
@@ -69,10 +69,9 @@
     "Floor Covering Weekly": 2,
     "The National Law Review": 2,
     "Furniture Today": 1,
-    "Stock Titan": 1,
+    "MarketBeat": 1,
     "Yahoo Finance": 1,
     "VoxelMatters": 1,
-    "vietnamnews.vn": 1,
     "Investing.com": 1,
     "The Commercial Appeal": 1,
     "Floor Covering News": 2,
@@ -100,20 +99,19 @@
     "TheCoolist": 1,
     "Esquire": 1,
     "Global Sources": 1,
-    "The Handbook": 1,
     "Dezeen Tiles RSS": 1,
     "GNews Ceramic Tiles": 2,
     "GNews Tile Design": 2,
     "GNews Sanitaryware": 1
   },
   "by_priority": {
-    "low": 27,
-    "medium": 85,
+    "low": 25,
+    "medium": 84,
     "high": 14
   },
   "by_sentiment": {
-    "neutral": 60,
-    "positive": 56,
+    "neutral": 59,
+    "positive": 54,
     "negative": 10
   },
   "trending_up": [
