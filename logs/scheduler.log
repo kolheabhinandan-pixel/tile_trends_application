@@ -1432,3 +1432,254 @@
 2026-03-05 10:41:54,906 - __main__ - INFO - ============================================================
 2026-03-05 10:41:54,906 - __main__ - INFO - ✅ Daily job completed!
 2026-03-05 10:41:54,906 - __main__ - INFO - ============================================================
+2026-03-06 05:53:57,322 - __main__ - INFO - ============================================================
+2026-03-06 05:53:57,322 - __main__ - INFO - 🕐 Starting scheduled job at 2026-03-06 05:53:57
+2026-03-06 05:53:57,322 - __main__ - INFO - ============================================================
+2026-03-06 05:53:57,475 - daily_pipeline - INFO - ============================================================
+2026-03-06 05:53:57,475 - daily_pipeline - INFO - Starting daily pipeline
+2026-03-06 05:53:57,476 - daily_pipeline - INFO - ============================================================
+2026-03-06 05:53:57,476 - bootstrap - INFO - ✓ Created folder structure for 2026-03-06
+2026-03-06 05:53:57,476 - daily_pipeline - INFO - Processing date: 2026-03-06
+2026-03-06 05:53:57,476 - daily_pipeline - INFO - Step 1: Scraping data sources...
+2026-03-06 05:53:57,476 - scrapers.india_scraper - INFO - Scraping Kajaria Ceramics...
+2026-03-06 05:54:08,747 - scrapers.india_scraper - INFO - Scraping Somany Ceramics...
+2026-03-06 05:54:09,022 - scrapers.india_scraper - INFO - Scraping Asian Granito (AGL)...
+2026-03-06 05:54:10,155 - scrapers.india_scraper - INFO - Scraping NITCO Tiles...
+2026-03-06 05:54:12,065 - scrapers.india_scraper - INFO - Scraping Orient Bell...
+2026-03-06 05:54:13,692 - scrapers.india_scraper - INFO - Scraping Cera Sanitaryware...
+2026-03-06 05:54:16,295 - scrapers.india_scraper - INFO - Scraping H&R Johnson...
+2026-03-06 05:54:17,726 - scrapers.india_scraper - INFO - Scraping RAK Ceramics India...
+2026-03-06 05:54:18,221 - scrapers.india_scraper - INFO - Scraping Simpolo Tiles...
+2026-03-06 05:54:19,284 - scrapers.india_scraper - INFO - Scraping Varmora Tiles...
+2026-03-06 05:54:20,681 - scrapers.india_scraper - INFO - Scraping Qutone Tiles...
+2026-03-06 05:54:20,806 - scrapers.india_scraper - INFO - Scraping Nexion Tiles...
+2026-03-06 05:54:40,978 - scrapers.base_scraper - WARNING - Attempt 1 failed for https://www.nexiontiles.com/: HTTPSConnectionPool(host='www.nexiontiles.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.nexiontiles.com', port=443) at 0x7fb1c68a0f70>, 'Connection to www.nexiontiles.com timed out. (connect timeout=20)'))
+2026-03-06 05:55:01,990 - scrapers.base_scraper - WARNING - Attempt 2 failed for https://www.nexiontiles.com/: HTTPSConnectionPool(host='www.nexiontiles.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.nexiontiles.com', port=443) at 0x7fb1c64d8940>, 'Connection to www.nexiontiles.com timed out. (connect timeout=20)'))
+2026-03-06 05:55:01,991 - scrapers.base_scraper - ERROR - Failed to fetch https://www.nexiontiles.com/ after 2 attempts
+2026-03-06 05:55:01,991 - scrapers.india_scraper - INFO - Scraping Exxaro Tiles...
+2026-03-06 05:55:02,066 - scrapers.base_scraper - WARNING - Attempt 1 failed for https://www.exxarotiles.com/: 403 Client Error: Forbidden for url: https://www.exxarotiles.com/
+2026-03-06 05:55:03,158 - scrapers.base_scraper - WARNING - Attempt 2 failed for https://www.exxarotiles.com/: 403 Client Error: Forbidden for url: https://www.exxarotiles.com/
+2026-03-06 05:55:03,159 - scrapers.base_scraper - ERROR - Failed to fetch https://www.exxarotiles.com/ after 2 attempts
+2026-03-06 05:55:03,159 - scrapers.india_scraper - INFO - Scraping Lioli Ceramics...
+2026-03-06 05:55:03,179 - scrapers.base_scraper - WARNING - Attempt 1 failed for https://www.lioli.in/: HTTPSConnectionPool(host='www.lioli.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='www.lioli.in', port=443): Failed to resolve 'www.lioli.in' ([Errno -2] Name or service not known)"))
+2026-03-06 05:55:04,199 - scrapers.base_scraper - WARNING - Attempt 2 failed for https://www.lioli.in/: HTTPSConnectionPool(host='www.lioli.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='www.lioli.in', port=443): Failed to resolve 'www.lioli.in' ([Errno -2] Name or service not known)"))
+2026-03-06 05:55:04,199 - scrapers.base_scraper - ERROR - Failed to fetch https://www.lioli.in/ after 2 attempts
+2026-03-06 05:55:04,199 - scrapers.india_scraper - INFO - Scraping Regalia Ceramics...
+2026-03-06 05:55:04,220 - scrapers.base_scraper - WARNING - Attempt 1 failed for https://www.regaliaceramics.com/: HTTPSConnectionPool(host='www.regaliaceramics.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='www.regaliaceramics.com', port=443): Failed to resolve 'www.regaliaceramics.com' ([Errno -2] Name or service not known)"))
+2026-03-06 05:55:05,237 - scrapers.base_scraper - WARNING - Attempt 2 failed for https://www.regaliaceramics.com/: HTTPSConnectionPool(host='www.regaliaceramics.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='www.regaliaceramics.com', port=443): Failed to resolve 'www.regaliaceramics.com' ([Errno -2] Name or service not known)"))
+2026-03-06 05:55:05,237 - scrapers.base_scraper - ERROR - Failed to fetch https://www.regaliaceramics.com/ after 2 attempts
+2026-03-06 05:55:05,238 - daily_pipeline - INFO - ✓ Scraped 16 trends from Indian sources
+2026-03-06 05:55:05,238 - scrapers.global_scraper - INFO - Scraping Dezeen Tiles...
+2026-03-06 05:55:05,329 - scrapers.global_scraper - INFO - Scraping ArchDaily Tiles...
+2026-03-06 05:55:05,648 - scrapers.global_scraper - INFO - Scraping Tile Magazine...
+2026-03-06 05:55:05,843 - scrapers.global_scraper - INFO - Scraping Tile Letter...
+2026-03-06 05:55:05,914 - scrapers.base_scraper - WARNING - Attempt 1 failed for https://www.tileletter.com/: 403 Client Error: Forbidden for url: https://www.tileletter.com/
+2026-03-06 05:55:06,998 - scrapers.base_scraper - WARNING - Attempt 2 failed for https://www.tileletter.com/: 403 Client Error: Forbidden for url: https://www.tileletter.com/
+2026-03-06 05:55:06,998 - scrapers.base_scraper - ERROR - Failed to fetch https://www.tileletter.com/ after 2 attempts
+2026-03-06 05:55:06,999 - scrapers.global_scraper - INFO - Scraping Marazzi...
+2026-03-06 05:55:27,177 - scrapers.base_scraper - WARNING - Attempt 1 failed for https://www.marazzi.it/en/: HTTPSConnectionPool(host='www.marazzi.it', port=443): Max retries exceeded with url: /en/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.marazzi.it', port=443) at 0x7fb1c6088160>, 'Connection to www.marazzi.it timed out. (connect timeout=20)'))
+2026-03-06 05:55:48,208 - scrapers.base_scraper - WARNING - Attempt 2 failed for https://www.marazzi.it/en/: HTTPSConnectionPool(host='www.marazzi.it', port=443): Max retries exceeded with url: /en/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.marazzi.it', port=443) at 0x7fb1c60887f0>, 'Connection to www.marazzi.it timed out. (connect timeout=20)'))
+2026-03-06 05:55:48,208 - scrapers.base_scraper - ERROR - Failed to fetch https://www.marazzi.it/en/ after 2 attempts
+2026-03-06 05:55:48,209 - scrapers.global_scraper - INFO - Scraping Porcelanosa...
+2026-03-06 05:55:48,481 - scrapers.base_scraper - WARNING - Attempt 1 failed for https://www.porcelanosa.com/: 403 Client Error: Forbidden for url: https://www.porcelanosa.com/
+2026-03-06 05:55:49,544 - scrapers.base_scraper - WARNING - Attempt 2 failed for https://www.porcelanosa.com/: 403 Client Error: Forbidden for url: https://www.porcelanosa.com/
+2026-03-06 05:55:49,544 - scrapers.base_scraper - ERROR - Failed to fetch https://www.porcelanosa.com/ after 2 attempts
+2026-03-06 05:55:49,545 - scrapers.global_scraper - INFO - Scraping Daltile...
+2026-03-06 05:55:50,201 - scrapers.global_scraper - INFO - Scraping Atlas Concorde...
+2026-03-06 05:55:51,736 - scrapers.global_scraper - INFO - Scraping Florim Ceramics...
+2026-03-06 05:55:52,426 - scrapers.global_scraper - INFO - Scraping Laminam...
+2026-03-06 05:55:52,919 - scrapers.global_scraper - INFO - Scraping Casalgrande Padana...
+2026-03-06 05:55:53,847 - scrapers.global_scraper - INFO - Scraping Villeroy & Boch...
+2026-03-06 05:55:53,938 - scrapers.base_scraper - WARNING - Attempt 1 failed for https://www.villeroy-boch.com/: 403 Client Error: Forbidden for url: https://www.villeroy-boch.com/
+2026-03-06 05:55:55,015 - scrapers.base_scraper - WARNING - Attempt 2 failed for https://www.villeroy-boch.com/: 403 Client Error: Forbidden for url: https://www.villeroy-boch.com/
+2026-03-06 05:55:55,015 - scrapers.base_scraper - ERROR - Failed to fetch https://www.villeroy-boch.com/ after 2 attempts
+2026-03-06 05:55:55,015 - scrapers.global_scraper - INFO - Scraping Roca...
+2026-03-06 05:55:55,529 - scrapers.global_scraper - INFO - Scraping Duravit...
+2026-03-06 05:55:55,783 - scrapers.base_scraper - WARNING - Attempt 1 failed for https://www.duravit.com/: 403 Client Error: Forbidden for url: https://www.duravit.com/
+2026-03-06 05:55:56,845 - scrapers.base_scraper - WARNING - Attempt 2 failed for https://www.duravit.com/: 403 Client Error: Forbidden for url: https://www.duravit.com/
+2026-03-06 05:55:56,846 - scrapers.base_scraper - ERROR - Failed to fetch https://www.duravit.com/ after 2 attempts
+2026-03-06 05:55:56,846 - scrapers.global_scraper - INFO - Scraping Kohler...
+2026-03-06 05:55:57,311 - daily_pipeline - INFO - ✓ Scraped 5 trends from global sources
+2026-03-06 05:55:57,311 - scrapers.news_scraper - INFO - ==================================================
+2026-03-06 05:55:57,311 - scrapers.news_scraper - INFO - --- Scraping India News (44 queries) ---
+2026-03-06 05:55:57,311 - scrapers.news_scraper - INFO -   Fetching: H&R Johnson tiles India news
+2026-03-06 05:55:57,852 - scrapers.news_scraper - INFO -   Fetching: Johnson tiles India latest
+2026-03-06 05:55:58,201 - scrapers.news_scraper - INFO -   Fetching: Prism Johnson tiles news
+2026-03-06 05:55:58,450 - scrapers.news_scraper - INFO -   Fetching: Porselano tiles India
+2026-03-06 05:55:58,668 - scrapers.news_scraper - INFO -   Fetching: Marbonite tiles India
+2026-03-06 05:55:58,893 - scrapers.news_scraper - INFO -   Fetching: Endura tiles India
+2026-03-06 05:55:59,111 - scrapers.news_scraper - INFO -   Fetching: Kajaria tiles latest news
+2026-03-06 05:55:59,374 - scrapers.news_scraper - INFO -   Fetching: Kajaria ceramics new collection
+2026-03-06 05:55:59,684 - scrapers.news_scraper - INFO -   Fetching: Somany ceramics tiles news
+2026-03-06 05:55:59,952 - scrapers.news_scraper - INFO -   Fetching: Somany tiles new launch
+2026-03-06 05:56:00,260 - scrapers.news_scraper - INFO -   Fetching: Asian Granito India tiles
+2026-03-06 05:56:00,530 - scrapers.news_scraper - INFO -   Fetching: AGL tiles India news
+2026-03-06 05:56:00,818 - scrapers.news_scraper - INFO -   Fetching: NITCO tiles India news
+2026-03-06 05:56:01,053 - scrapers.news_scraper - INFO -   Fetching: NITCO tiles new collection
+2026-03-06 05:56:01,277 - scrapers.news_scraper - INFO -   Fetching: Orient Bell tiles news
+2026-03-06 05:56:01,533 - scrapers.news_scraper - INFO -   Fetching: Orient Bell tiles design
+2026-03-06 05:56:01,776 - scrapers.news_scraper - INFO -   Fetching: Cera Sanitaryware India news
+2026-03-06 05:56:02,103 - scrapers.news_scraper - INFO -   Fetching: Cera India tiles bathroom
+2026-03-06 05:56:02,362 - scrapers.news_scraper - INFO -   Fetching: RAK Ceramics India tiles
+2026-03-06 05:56:02,620 - scrapers.news_scraper - INFO -   Fetching: Exxaro tiles India news
+2026-03-06 05:56:02,864 - scrapers.news_scraper - INFO -   Fetching: Simpolo tiles India
+2026-03-06 05:56:03,091 - scrapers.news_scraper - INFO -   Fetching: Varmora tiles India
+2026-03-06 05:56:03,311 - scrapers.news_scraper - INFO -   Fetching: Qutone tiles India
+2026-03-06 05:56:03,612 - scrapers.news_scraper - INFO -   Fetching: Nexion tiles India
+2026-03-06 05:56:03,849 - scrapers.news_scraper - INFO -   Fetching: ceramic tiles India industry news
+2026-03-06 05:56:04,354 - scrapers.news_scraper - INFO -   Fetching: vitrified tiles India market
+2026-03-06 05:56:04,622 - scrapers.news_scraper - INFO -   Fetching: tile manufacturing India news
+2026-03-06 05:56:05,054 - scrapers.news_scraper - INFO -   Fetching: India tiles export news
+2026-03-06 05:56:05,376 - scrapers.news_scraper - INFO -   Fetching: India tiles import news
+2026-03-06 05:56:05,775 - scrapers.news_scraper - INFO -   Fetching: morbi tiles Gujarat news
+2026-03-06 05:56:06,122 - scrapers.news_scraper - INFO -   Fetching: morbi ceramic cluster news
+2026-03-06 05:56:06,444 - scrapers.news_scraper - INFO -   Fetching: India construction tiles demand
+2026-03-06 05:56:07,010 - scrapers.news_scraper - INFO -   Fetching: India tile industry growth
+2026-03-06 05:56:07,781 - scrapers.news_scraper - INFO -   Fetching: Indian ceramic industry news
+2026-03-06 05:56:08,243 - scrapers.news_scraper - INFO -   Fetching: bathroom tiles India trends
+2026-03-06 05:56:08,719 - scrapers.news_scraper - INFO -   Fetching: floor tiles India design
+2026-03-06 05:56:09,075 - scrapers.news_scraper - INFO -   Fetching: wall tiles India trends
+2026-03-06 05:56:09,485 - scrapers.news_scraper - INFO -   Fetching: large format tiles India
+2026-03-06 05:56:09,796 - scrapers.news_scraper - INFO -   Fetching: porcelain slab tiles India
+2026-03-06 05:56:10,062 - scrapers.news_scraper - INFO -   Fetching: sanitaryware India market news
+2026-03-06 05:56:10,367 - scrapers.news_scraper - INFO -   Fetching: bath fittings India trends
+2026-03-06 05:56:10,861 - scrapers.news_scraper - INFO -   Fetching: kitchen tiles India design
+2026-03-06 05:56:11,221 - scrapers.news_scraper - INFO -   Fetching: elevation tiles India exterior
+2026-03-06 05:56:11,490 - scrapers.news_scraper - INFO -   Fetching: vitrified tiles India latest
+2026-03-06 05:56:11,786 - scrapers.news_scraper - INFO - --- Scraping Global News (42 queries) ---
+2026-03-06 05:56:11,786 - scrapers.news_scraper - INFO -   Fetching: tile industry news today
+2026-03-06 05:56:12,464 - scrapers.news_scraper - INFO -   Fetching: ceramic tiles global market news
+2026-03-06 05:56:12,966 - scrapers.news_scraper - INFO -   Fetching: porcelain tiles innovation news
+2026-03-06 05:56:13,305 - scrapers.news_scraper - INFO -   Fetching: tile market growth forecast
+2026-03-06 05:56:13,825 - scrapers.news_scraper - INFO -   Fetching: global ceramic tile industry
+2026-03-06 05:56:14,172 - scrapers.news_scraper - INFO -   Fetching: tile manufacturing technology news
+2026-03-06 05:56:14,640 - scrapers.news_scraper - INFO -   Fetching: ceramic tile production news
+2026-03-06 05:56:15,007 - scrapers.news_scraper - INFO -   Fetching: tile industry trends 2026
+2026-03-06 05:56:15,617 - scrapers.news_scraper - INFO -   Fetching: tile design trends latest
+2026-03-06 05:56:16,218 - scrapers.news_scraper - INFO -   Fetching: large format tiles design trend
+2026-03-06 05:56:16,656 - scrapers.news_scraper - INFO -   Fetching: terrazzo tiles trend interior
+2026-03-06 05:56:16,914 - scrapers.news_scraper - INFO -   Fetching: marble look tiles design
+2026-03-06 05:56:17,267 - scrapers.news_scraper - INFO -   Fetching: wood look tiles flooring trend
+2026-03-06 05:56:17,626 - scrapers.news_scraper - INFO -   Fetching: 3D tiles wall design trend
+2026-03-06 05:56:17,933 - scrapers.news_scraper - INFO -   Fetching: textured tiles interior design
+2026-03-06 05:56:18,294 - scrapers.news_scraper - INFO -   Fetching: mosaic tiles art design
+2026-03-06 05:56:18,646 - scrapers.news_scraper - INFO -   Fetching: outdoor tiles patio design
+2026-03-06 05:56:19,016 - scrapers.news_scraper - INFO -   Fetching: luxury tiles interior design
+2026-03-06 05:56:19,458 - scrapers.news_scraper - INFO -   Fetching: bathroom tile design trends
+2026-03-06 05:56:19,880 - scrapers.news_scraper - INFO -   Fetching: kitchen backsplash tile trends
+2026-03-06 05:56:20,296 - scrapers.news_scraper - INFO -   Fetching: sustainable tiles eco-friendly
+2026-03-06 05:56:20,758 - scrapers.news_scraper - INFO -   Fetching: digital printing tiles technology
+2026-03-06 05:56:21,514 - scrapers.news_scraper - INFO -   Fetching: Cersaie tiles exhibition news
+2026-03-06 05:56:21,762 - scrapers.news_scraper - INFO -   Fetching: Coverings tile expo news
+2026-03-06 05:56:22,055 - scrapers.news_scraper - INFO -   Fetching: Cevisama tiles fair news
+2026-03-06 05:56:22,270 - scrapers.news_scraper - INFO -   Fetching: tile exhibition 2026 news
+2026-03-06 05:56:22,671 - scrapers.news_scraper - INFO -   Fetching: Marazzi tiles new collection
+2026-03-06 05:56:22,885 - scrapers.news_scraper - INFO -   Fetching: Porcelanosa tiles news
+2026-03-06 05:56:23,114 - scrapers.news_scraper - INFO -   Fetching: Daltile new products tiles
+2026-03-06 05:56:23,419 - scrapers.news_scraper - INFO -   Fetching: Mohawk tile flooring news
+2026-03-06 05:56:23,711 - scrapers.news_scraper - INFO -   Fetching: Villeroy Boch tiles news
+2026-03-06 05:56:23,975 - scrapers.news_scraper - INFO -   Fetching: Roca tiles sanitaryware news
+2026-03-06 05:56:24,192 - scrapers.news_scraper - INFO -   Fetching: Laminam porcelain slab news
+2026-03-06 05:56:24,454 - scrapers.news_scraper - INFO -   Fetching: Atlas Concorde tiles news
+2026-03-06 05:56:24,737 - scrapers.news_scraper - INFO -   Fetching: Florim ceramics tiles news
+2026-03-06 05:56:24,969 - scrapers.news_scraper - INFO -   Fetching: Iris Ceramica tiles news
+2026-03-06 05:56:25,220 - scrapers.news_scraper - INFO -   Fetching: sanitaryware global market news
+2026-03-06 05:56:25,528 - scrapers.news_scraper - INFO -   Fetching: bath fittings design trends global
+2026-03-06 05:56:26,108 - scrapers.news_scraper - INFO -   Fetching: countertop marble quartz trends
+2026-03-06 05:56:26,446 - scrapers.news_scraper - INFO -   Fetching: Kohler bathroom products news
+2026-03-06 05:56:26,767 - scrapers.news_scraper - INFO -   Fetching: Grohe bath fittings news
+2026-03-06 05:56:27,024 - scrapers.news_scraper - INFO -   Fetching: Duravit sanitaryware news
+2026-03-06 05:56:27,314 - scrapers.news_scraper - INFO - --- Scraping Brand News (20 queries) ---
+2026-03-06 05:56:27,314 - scrapers.news_scraper - INFO -   Fetching: Kajaria ceramics tiles new launch 2026
+2026-03-06 05:56:27,586 - scrapers.news_scraper - INFO -   Fetching: Somany tiles new collection launch
+2026-03-06 05:56:27,972 - scrapers.news_scraper - INFO -   Fetching: Orient Bell tiles design collection
+2026-03-06 05:56:28,233 - scrapers.news_scraper - INFO -   Fetching: AGL tiles new range launch
+2026-03-06 05:56:28,466 - scrapers.news_scraper - INFO -   Fetching: NITCO tiles collection launch
+2026-03-06 05:56:28,705 - scrapers.news_scraper - INFO -   Fetching: Cera India sanitaryware new product
+2026-03-06 05:56:29,016 - scrapers.news_scraper - INFO -   Fetching: Johnson tiles India collection launch
+2026-03-06 05:56:29,333 - scrapers.news_scraper - INFO -   Fetching: RAK Ceramics tiles new design
+2026-03-06 05:56:29,600 - scrapers.news_scraper - INFO -   Fetching: Simpolo tiles launch collection
+2026-03-06 05:56:29,818 - scrapers.news_scraper - INFO -   Fetching: Prism Johnson tiles news update
+2026-03-06 05:56:30,108 - scrapers.news_scraper - INFO -   Fetching: Varmora tiles new collection
+2026-03-06 05:56:30,434 - scrapers.news_scraper - INFO -   Fetching: Qutone tiles launch India
+2026-03-06 05:56:30,659 - scrapers.news_scraper - INFO -   Fetching: Exxaro tiles new range
+2026-03-06 05:56:30,891 - scrapers.news_scraper - INFO -   Fetching: Nexion tiles India launch
+2026-03-06 05:56:31,115 - scrapers.news_scraper - INFO -   Fetching: Marazzi new tile collection launch
+2026-03-06 05:56:31,351 - scrapers.news_scraper - INFO -   Fetching: Porcelanosa new product launch
+2026-03-06 05:56:31,600 - scrapers.news_scraper - INFO -   Fetching: Daltile new collection 2026
+2026-03-06 05:56:31,943 - scrapers.news_scraper - INFO -   Fetching: Atlas Concorde new tiles
+2026-03-06 05:56:32,185 - scrapers.news_scraper - INFO -   Fetching: Laminam new slab collection
+2026-03-06 05:56:32,428 - scrapers.news_scraper - INFO -   Fetching: Roca new sanitaryware launch
+2026-03-06 05:56:32,648 - scrapers.news_scraper - INFO - --- Scraping Niche Tile News (20 queries) ---
+2026-03-06 05:56:32,648 - scrapers.news_scraper - INFO -   Fetching: porcelain slab countertop news
+2026-03-06 05:56:32,953 - scrapers.news_scraper - INFO -   Fetching: sintered stone surface news
+2026-03-06 05:56:33,247 - scrapers.news_scraper - INFO -   Fetching: terrazzo flooring design news
+2026-03-06 05:56:33,510 - scrapers.news_scraper - INFO -   Fetching: mosaic tile art design news
+2026-03-06 05:56:33,837 - scrapers.news_scraper - INFO -   Fetching: subway tile design trends
+2026-03-06 05:56:34,139 - scrapers.news_scraper - INFO -   Fetching: hexagonal tile design trends
+2026-03-06 05:56:34,392 - scrapers.news_scraper - INFO -   Fetching: penny tile bathroom design
+2026-03-06 05:56:34,679 - scrapers.news_scraper - INFO -   Fetching: encaustic cement tile design
+2026-03-06 05:56:34,903 - scrapers.news_scraper - INFO -   Fetching: zellige tile moroccan design
+2026-03-06 05:56:35,156 - scrapers.news_scraper - INFO -   Fetching: handmade ceramic tile artisan
+2026-03-06 05:56:35,420 - scrapers.news_scraper - INFO -   Fetching: swimming pool tile design
+2026-03-06 05:56:35,837 - scrapers.news_scraper - INFO -   Fetching: outdoor patio tile trends
+2026-03-06 05:56:36,159 - scrapers.news_scraper - INFO -   Fetching: fireplace tile surround design
+2026-03-06 05:56:36,418 - scrapers.news_scraper - INFO -   Fetching: shower tile waterproofing
+2026-03-06 05:56:36,677 - scrapers.news_scraper - INFO -   Fetching: commercial kitchen tile
+2026-03-06 05:56:37,065 - scrapers.news_scraper - INFO -   Fetching: hospital tile flooring
+2026-03-06 05:56:37,434 - scrapers.news_scraper - INFO -   Fetching: hotel lobby tile design
+2026-03-06 05:56:37,789 - scrapers.news_scraper - INFO -   Fetching: retail store tile flooring
+2026-03-06 05:56:38,240 - scrapers.news_scraper - INFO -   Fetching: restaurant tile design
+2026-03-06 05:56:38,654 - scrapers.news_scraper - INFO -   Fetching: spa bathroom tile luxury
+2026-03-06 05:56:39,075 - scrapers.news_scraper - INFO - --- Scraping Direct RSS Feeds (15 feeds) ---
+2026-03-06 05:56:39,075 - scrapers.news_scraper - INFO -   Fetching RSS: Dezeen Tiles RSS
+2026-03-06 05:56:39,420 - scrapers.news_scraper - INFO -   Fetching RSS: Dezeen Bathrooms RSS
+2026-03-06 05:56:39,919 - scrapers.news_scraper - INFO -   Fetching RSS: ArchDaily Tiles RSS
+2026-03-06 05:56:40,235 - scrapers.news_scraper - INFO -   Fetching RSS: ArchDaily Ceramics RSS
+2026-03-06 05:56:40,676 - scrapers.news_scraper - INFO -   Fetching RSS: Construction World India
+2026-03-06 05:56:42,996 - scrapers.news_scraper - INFO -   Fetching RSS: Tile Magazine RSS
+2026-03-06 05:56:43,141 - scrapers.news_scraper - INFO -   Fetching RSS: GNews Ceramic Tiles
+2026-03-06 05:56:43,751 - scrapers.news_scraper - INFO -   Fetching RSS: GNews Tile Design
+2026-03-06 05:56:44,416 - scrapers.news_scraper - INFO -   Fetching RSS: GNews Sanitaryware
+2026-03-06 05:56:44,884 - scrapers.news_scraper - INFO -   Fetching RSS: GNews India Tiles
+2026-03-06 05:56:45,374 - scrapers.news_scraper - INFO -   Fetching RSS: GNews Morbi Tiles
+2026-03-06 05:56:45,831 - scrapers.news_scraper - INFO -   Fetching RSS: GNews Large Format
+2026-03-06 05:56:46,380 - scrapers.news_scraper - INFO -   Fetching RSS: GNews Bath Fittings
+2026-03-06 05:56:47,057 - scrapers.news_scraper - INFO -   Fetching RSS: GNews Tile Exhibition
+2026-03-06 05:56:47,441 - scrapers.news_scraper - INFO -   Fetching RSS: GNews Flooring Trends
+2026-03-06 05:56:48,093 - scrapers.news_scraper - INFO - ==================================================
+2026-03-06 05:56:48,093 - scrapers.news_scraper - INFO - Total sources queried: 141
+2026-03-06 05:56:48,093 - scrapers.news_scraper - INFO - Total news trends collected: 291
+2026-03-06 05:56:48,093 - daily_pipeline - INFO - ✓ Scraped 291 trends from news sources (50+ queries)
+2026-03-06 05:56:48,093 - daily_pipeline - INFO - Total trends collected: 312
+2026-03-06 05:56:48,098 - daily_pipeline - INFO - Step 2: Cleaning, deduplicating, and filtering for relevance...
+2026-03-06 05:56:48,111 - processors.trend_cleaner - INFO - Cleaned 312 trends → 126 relevant unique trends (rejected 182 irrelevant articles)
+2026-03-06 05:56:48,111 - daily_pipeline - INFO - ✓ Relevant trends after cleaning: 126
+2026-03-06 05:56:48,111 - daily_pipeline - INFO - Step 3: Classifying trends into Johnson product categories...
+2026-03-06 05:56:48,118 - daily_pipeline - INFO - ✓ Re-classified 126 trends
+2026-03-06 05:56:48,118 - daily_pipeline - INFO - Step 4: Adding sentiment and priority...
+2026-03-06 05:56:48,119 - daily_pipeline - INFO - ✓ Classified trends: 126
+2026-03-06 05:56:48,119 - daily_pipeline - INFO - Step 5: Downloading article images...
+2026-03-06 05:56:48,120 - daily_pipeline - INFO - ✓ Downloaded 10 article images
+2026-03-06 05:56:48,120 - daily_pipeline - INFO - Step 6: Fetching category images for trends without images...
+2026-03-06 05:56:48,686 - scrapers.image_downloader - INFO - ✓ Fetched Picsum image for Marble & Quartz
+2026-03-06 05:56:48,688 - daily_pipeline - INFO - ✓ Total images: 126
+2026-03-06 05:56:48,688 - daily_pipeline - INFO - Step 7: Summarizing trends by category...
+2026-03-06 05:56:48,688 - daily_pipeline - INFO - ✓ Created summaries for 21 categories
+2026-03-06 05:56:48,688 - daily_pipeline - INFO - Step 8: Generating KPIs...
+2026-03-06 05:56:48,688 - daily_pipeline - INFO - ✓ Generated KPIs
+2026-03-06 05:56:48,688 - daily_pipeline - INFO - Step 9: Building newsletter...
+2026-03-06 05:56:48,689 - daily_pipeline - INFO - ✓ Newsletter created
+2026-03-06 05:56:48,692 - daily_pipeline - INFO - ============================================================
+2026-03-06 05:56:48,692 - daily_pipeline - INFO - ✅ Daily pipeline completed successfully!
+2026-03-06 05:56:48,692 - daily_pipeline - INFO -    Relevant trends: 126
+2026-03-06 05:56:48,692 - daily_pipeline - INFO -    Categories: 21
+2026-03-06 05:56:48,692 - daily_pipeline - INFO -    Images: 126
+2026-03-06 05:56:48,692 - daily_pipeline - INFO - ============================================================
+2026-03-06 05:56:48,692 - __main__ - INFO - Pipeline result: {'status': 'success', 'date': '2026-03-06', 'total_trends': 126, 'categories': 21, 'images_downloaded': 126}
+2026-03-06 05:56:48,886 - email_newsletter - INFO - Logo attached as CID inline image
+2026-03-06 05:56:49,479 - email_newsletter - ERROR - ❌ SMTP Authentication failed!
+2026-03-06 05:56:49,479 - __main__ - WARNING - ⚠️ Email not sent (check SMTP config)
+2026-03-06 05:56:49,479 - __main__ - INFO - ============================================================
+2026-03-06 05:56:49,479 - __main__ - INFO - ✅ Daily job completed!
+2026-03-06 05:56:49,479 - __main__ - INFO - ============================================================
