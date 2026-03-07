@@ -2415,3 +2415,5 @@
 2026-03-06 09:04:36,023 - __main__ - INFO - ============================================================
 2026-03-06 09:04:36,023 - __main__ - INFO - ✅ Daily job completed!
 2026-03-06 09:04:36,023 - __main__ - INFO - ============================================================
+2026-03-07 05:54:39,684 - email_newsletter - INFO - Logo attached as CID inline image
+2026-03-07 05:54:40,317 - email_newsletter - ERROR - ❌ SMTP Authentication failed!
