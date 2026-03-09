@@ -2419,3 +2419,5 @@
 2026-03-07 05:54:40,317 - email_newsletter - ERROR - ❌ SMTP Authentication failed!
 2026-03-08 05:18:30,955 - email_newsletter - INFO - Logo attached as CID inline image
 2026-03-08 05:18:32,363 - email_newsletter - INFO - ✅ Newsletter sent successfully to kolhe.abhinandan@hrjohnsonindia.com
+2026-03-09 05:38:39,803 - email_newsletter - INFO - Logo attached as CID inline image
+2026-03-09 05:38:41,134 - email_newsletter - INFO - ✅ Newsletter sent successfully to kolhe.abhinandan@hrjohnsonindia.com
