@@ -1,6 +1,6 @@
 {
   "total_trends": 128,
-  "total_sources": 77,
+  "total_sources": 78,
   "by_category": {
     "Tile Design & Trends": 18,
     "Market & Industry News": 24,
@@ -11,22 +11,22 @@
     "Technology & Innovation": 3,
     "Special Tiles": 1,
     "New Collection Launch": 5,
-    "Ceramic Tiles": 24,
+    "Ceramic Tiles": 25,
     "General Trend": 8,
     "Sanitaryware": 9,
     "Floor Tiles": 13,
     "Exhibition & Events": 3,
     "Bathroom Tiles": 3,
     "Wood Look": 1,
-    "Kitchen Tiles": 3,
+    "Kitchen Tiles": 2,
     "Marble & Quartz": 3,
     "Natural Stone Look": 1,
     "Terrazzo": 1,
     "Wall Tiles": 1
   },
   "by_region": {
-    "India": 65,
-    "Global": 63
+    "India": 64,
+    "Global": 64
   },
   "by_source": {
     "Kajaria Ceramics": 8,
@@ -60,8 +60,8 @@
     "Vibes Of India": 1,
     "Deccan Herald": 1,
     "MSN": 2,
-    "The Logical Indian": 1,
     "Reuters": 1,
+    "The Logical Indian": 1,
     "Ahmedabad Mirror": 1,
     "DeshGujarat": 1,
     "Telangana Tribune": 1,
@@ -77,11 +77,12 @@
     "The National Law Review": 1,
     "Investing.com": 1,
     "The Commercial Appeal": 1,
+    "Rediff": 1,
     "The Spruce": 1,
     "Yahoo": 1,
     "Homes To Love": 2,
     "Statesboro Herald": 1,
-    "AOL.com": 5,
+    "AOL.com": 4,
     "Kitchen & Bath Design News": 2,
     "House Beautiful": 1,
     "marthastewart.com": 1,
@@ -108,14 +109,14 @@
     "GNews Large Format": 1
   },
   "by_priority": {
-    "low": 29,
-    "medium": 87,
+    "low": 28,
+    "medium": 88,
     "high": 12
   },
   "by_sentiment": {
     "neutral": 53,
-    "positive": 57,
-    "negative": 18
+    "positive": 56,
+    "negative": 19
   },
   "trending_up": [
     "Tile Design & Trends",
@@ -129,7 +130,6 @@
     "Floor Tiles",
     "Exhibition & Events",
     "Bathroom Tiles",
-    "Kitchen Tiles",
     "Marble & Quartz"
   ]
 }

@@ -8,7 +8,7 @@
       "image_url": "",
       "summary": "",
       "trend": "Tile Design & Trends",
-      "timestamp": 1773034546.247913,
+      "timestamp": 1773034944.1946638,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/tile_design_and_trends_1.jpg"
@@ -21,7 +21,7 @@
       "image_url": "https://www.kajariaceramics.com/storage/blog/tiles-designs.jpg",
       "summary": "",
       "trend": "Tile Design & Trends",
-      "timestamp": 1773034546.24778,
+      "timestamp": 1773034944.1945386,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/img_b152913dcd6a.jpg"
@@ -117,7 +117,7 @@
       "image_url": "https://www.orientbell.com/twitterLogo.jpg",
       "summary": "Explore Orientbell, India's leading tile brand, with 100% Tiles, 0% Celebs. Get style & class with a wide range of premium quality tiles at the best price. Shop now!",
       "trend": "Tile Design & Trends",
-      "timestamp": 1773034551.4483318,
+      "timestamp": 1773034949.2255473,
       "sentiment": "positive",
       "priority": "low",
       "local_image": "images/img_c13d05f6507a.jpg"
@@ -130,7 +130,7 @@
       "image_url": "",
       "summary": "",
       "trend": "Tile Design & Trends",
-      "timestamp": 1773034546.247605,
+      "timestamp": 1773034944.1943717,
       "sentiment": "neutral",
       "priority": "low",
       "local_image": "images/tile_design_and_trends_0.jpg"
@@ -143,7 +143,7 @@
       "image_url": "https://www.kajariaceramics.com/storage/blog/high002437.jpg",
       "summary": "",
       "trend": "Tile Design & Trends",
-      "timestamp": 1773034546.247264,
+      "timestamp": 1773034944.1940393,
       "sentiment": "neutral",
       "priority": "low",
       "local_image": "images/img_6635e4409451.jpg"
@@ -260,7 +260,7 @@
       "query": "bath fittings India trends",
       "sentiment": "neutral",
       "priority": "high",
-      "local_image": "images/market_and_industry_news_17.jpg"
+      "local_image": "images/market_and_industry_news_16.jpg"
     },
     {
       "title": "Why Kajaria Tiles Are Preferred by Designers & Architects",
@@ -270,7 +270,7 @@
       "image_url": "",
       "summary": "",
       "trend": "Market & Industry News",
-      "timestamp": 1773034546.2482045,
+      "timestamp": 1773034944.1949518,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/market_and_industry_news_0.jpg"
@@ -283,7 +283,7 @@
       "image_url": "https://www.kajariaceramics.com/storage/blog/kajaria-film-veiled-volumes-youtube-12-18-2025-03-03-pm.png",
       "summary": "",
       "trend": "Market & Industry News",
-      "timestamp": 1773034546.248078,
+      "timestamp": 1773034944.1948273,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/img_b7b29260ca17.png"
@@ -381,7 +381,7 @@
       "trend": "Market & Industry News",
       "timestamp": 1772795254.0,
       "summary": "India's ceramics and tiles industry faces shutdown as Middle East conflict disrupts fuel&nbsp;&nbsp;Reuters",
-      "query": "morbi ceramic cluster news",
+      "query": "morbi tiles Gujarat news",
       "sentiment": "negative",
       "priority": "medium",
       "local_image": "images/market_and_industry_news_14.jpg"
@@ -398,7 +398,21 @@
       "query": "large format tiles India",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_16.jpg"
+      "local_image": "images/market_and_industry_news_15.jpg"
+    },
+    {
+      "title": "Constrained-layer Damping (CLD) Tiles Market Forecast - openPR.com",
+      "source": "openPR.com",
+      "region": "Global",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTERzaC1tdlBqYWpqTjA5XzFrSjY2NmxRbTdVVDJkNzJtY0xuT1pNSk8wdkd0a2J4U2hlb1FHeUFSajFyY2xKV1FNSWdnM21iZ3hSMmIzSm1RX0xnMlVTNnlxWWx2RUl0bnZVa0lYSExvOFM0NzhRQ1VvS3cycnAtOUFLaDhyMWt4WFdmRE9oc04?oc=5",
+      "image_url": "",
+      "trend": "Market & Industry News",
+      "timestamp": 1772789585.0,
+      "summary": "Constrained-layer Damping (CLD) Tiles Market Forecast&nbsp;&nbsp;openPR.com",
+      "query": "tile market growth forecast",
+      "sentiment": "neutral",
+      "priority": "medium",
+      "local_image": "images/market_and_industry_news_18.jpg"
     },
     {
       "title": "Somany Ceramics Faces Gas Supply Challenge - Devdiscourse",
@@ -455,20 +469,6 @@
       "sentiment": "neutral",
       "priority": "medium",
       "local_image": "images/market_and_industry_news_9.jpg"
-    },
-    {
-      "title": "Global Carpet Tile Market Size, Growth, Trends & Forecast to 2033 Interface, Milliken Group, Mohawk Group - openPR.com",
-      "source": "openPR.com",
-      "region": "India",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZDg3UVNlZVpKOXFRWkhILW5YMFZsU2NnY0NONGV3YXlib1BDaVN5UnBDNGhwd1VTUDJucXp4MUJ0QTVGY3dMVFFkTmZ0ZkpfeWdxbTV2WG1BZVpOTTQ4V21GM3lhamI0VWlzc29LQ1lCVXZtS2taU1E5VExrel8xMEJaQnRwb2EycDFBMi1hLWxhSHc2cTNtU0dzY1h6QQ?oc=5",
-      "image_url": "",
-      "trend": "Market & Industry News",
-      "timestamp": 1772452515.0,
-      "summary": "Global Carpet Tile Market Size, Growth, Trends & Forecast to 2033 Interface, Milliken Group, Mohawk Group&nbsp;&nbsp;openPR.com",
-      "query": "India tile industry growth",
-      "sentiment": "positive",
-      "priority": "medium",
-      "local_image": "images/market_and_industry_news_15.jpg"
     },
     {
       "title": "Kajaria Ceramics Announces Participation in UBS Emerging India Mid-Caps Corporate Day - scanx.trade",
@@ -551,7 +551,7 @@
       "query": "tile market growth forecast",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/market_and_industry_news_18.jpg"
+      "local_image": "images/market_and_industry_news_17.jpg"
     },
     {
       "title": "600 Units, 4 Lakh Workers: The Iran War Impact On Gujarat Tiles Industry - NDTV",
@@ -591,7 +591,7 @@
       "image_url": "",
       "summary": "",
       "trend": "Large Format Tiles",
-      "timestamp": 1773034546.248577,
+      "timestamp": 1773034944.1952565,
       "sentiment": "positive",
       "priority": "high",
       "local_image": "images/large_format_tiles_0.jpg"
@@ -604,7 +604,7 @@
       "image_url": "https://www.kajariaceramics.com/storage/blog/big-tiles.jpg",
       "summary": "",
       "trend": "Large Format Tiles",
-      "timestamp": 1773034546.2483902,
+      "timestamp": 1773034944.1951294,
       "sentiment": "positive",
       "priority": "high",
       "local_image": "images/img_bae3059c88b4.jpg"
@@ -647,7 +647,7 @@
       "image_url": "",
       "summary": "",
       "trend": "Bath Fittings",
-      "timestamp": 1773034553.9214077,
+      "timestamp": 1773034952.23524,
       "sentiment": "neutral",
       "priority": "low",
       "local_image": "images/bath_fittings_0.jpg"
@@ -662,7 +662,7 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/6904/6695/f582/e27b/7538/0f1f/slideshow/favekers-tailor-made-tiled-facade-brings-personality-and-efficiency-to-the-new-muskiz-secondary-school_14.jpg?1761896099&format=webp&width=640&height=580",
       "summary": "",
       "trend": "Elevation Tiles",
-      "timestamp": 1773034568.6140525,
+      "timestamp": 1773034963.389742,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/img_20577af213ac.jpg"
@@ -677,7 +677,7 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/68a9/27a1/325f/9301/8cf9/900b/slideshow/reimagining-lisbons-azulejos-regenerative-biomaterial-tiles-from-the-tagus-river_1.jpg?1755916236&format=webp&width=640&height=580",
       "summary": "",
       "trend": "Eco-Friendly & Sustainability",
-      "timestamp": 1773034568.6143801,
+      "timestamp": 1773034963.3900852,
       "sentiment": "neutral",
       "priority": "low",
       "local_image": "images/img_c52a5c72ebfd.jpg"
@@ -706,7 +706,7 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/684c/2f81/1dcf/f36a/c993/1f41/slideshow/the-benefits-of-extruded-tile-technology-in-modern-architecture_7.jpg?1749823424&format=webp&width=640&height=580",
       "summary": "",
       "trend": "Technology & Innovation",
-      "timestamp": 1773034568.6146796,
+      "timestamp": 1773034963.39037,
       "sentiment": "positive",
       "priority": "low",
       "local_image": "images/img_4ced3b095e7c.jpg"
@@ -735,7 +735,7 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/67e5/7485/8da1/ef01/8749/5840/slideshow/revamping-pool-design-and-safety-with-porcelain-solutions_7.jpg?1743090931&format=webp&width=640&height=580",
       "summary": "",
       "trend": "Special Tiles",
-      "timestamp": 1773034568.614955,
+      "timestamp": 1773034963.3906407,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/img_530868b524f3.jpg"
@@ -853,7 +853,7 @@
       "summary": "Otto Tiles and Design Introduces New Handmade Ceramic Tiles Collections Blending Traditional Craftsmanship with Modern Design&nbsp;&nbsp;El Paso Times",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/ceramic_tiles_21.jpg"
+      "local_image": "images/ceramic_tiles_22.jpg"
     },
     {
       "title": "Fuel Crisis Threatens Morbi’s Ceramic Industry as Propane Supply Disruptions Mount - Telangana Tribune",
@@ -901,7 +901,7 @@
       "title": "100 ceramic units closed in Gujarat amid US-Iran conflict, 400 more likely to shut down | India News - Hindustan Times",
       "source": "Hindustan Times",
       "region": "India",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRmc1Z0FHaV9Hcl9BbXp3UVRpSHV6dUJPRS03SWUtOTd6cUFMV2FvWnFlRDlHbnNWM1JVV2FuTmFQcjVVVEpvbXVFSXhvQlQwLU1yOUd1aHRIdjd6STNyYlN4S21EYUVLaWVneFl6MjgtNUQxa1NWMzJHY3dFUm0tTThmR2lfN2VWaE1XYkNZWmk1ZnZWc2U0QXFQSWZDNjZMdXNxQjJfMUk2Tm0zVWY1dXEzNDBmanVhelI3OTJwRXVHV0JYSUN6X3RTNk9rQU1OZUI4aDdpVFNZN1poaFJzVG9lRWdlcUdq0gHoAUFVX3lxTFBGZzVnQUdpX0dyX0FtendRVGlIdXp1Qk9FLTdJZS05N3pxQUxXYW9acWVEOUduc1YzUlVXYW5OYVByNVVUSm9tdUVJeG9CVDAtTXI5R3VodEh2N3pJM3JiU3hLbURhRUtpZWd4WXoyOC01RDFrU1YzMkdjd0VSbS1NOGZHaV83ZVZoTVdiQ1laaTVmdlZzZTRBcVBJZkM2Nkx1c3FCMl8xSTZObTNVZjV1cTM0MGZqdWF6Ujc5MnBFdUdXQlhJQ3pfdFM2T2tBTU5lQjhoN2lUU1k3WmhoUnNUb2VFZ2VxR2o?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd2ljVkhTZ1FxbHpHbHBqSVRQd3dhcTZXaFd2RVpuSmo5TEVvdEVfRjlsbTdnYklVN1QybFcxbXJrcVQtUXpROENYdDhwa2JNdGF0bmNhWEdHR0tuWkhUUlZzaVVuLVdpeldOOGFBZE53a2NKNDZENGhtRG92d2hvT2pKUmxlXy1RNE91dW9pdjFqT2FuTDA0ajlKNVN3dXlNcDNXeDNMZERfSHQ2anlPQ3diT3lWYnFxcGRLQUN1TWJtWlZ5bkRmbEcxbUh6OEdId0paVVBjb08zUGF0SEhJVTdrVdIB6AFBVV95cUxQRmc1Z0FHaV9Hcl9BbXp3UVRpSHV6dUJPRS03SWUtOTd6cUFMV2FvWnFlRDlHbnNWM1JVV2FuTmFQcjVVVEpvbXVFSXhvQlQwLU1yOUd1aHRIdjd6STNyYlN4S21EYUVLaWVneFl6MjgtNUQxa1NWMzJHY3dFUm0tTThmR2lfN2VWaE1XYkNZWmk1ZnZWc2U0QXFQSWZDNjZMdXNxQjJfMUk2Tm0zVWY1dXEzNDBmanVhelI3OTJwRXVHV0JYSUN6X3RTNk9rQU1OZUI4aDdpVFNZN1poaFJzVG9lRWdlcUdq?oc=5",
       "image_url": "",
       "trend": "Ceramic Tiles",
       "timestamp": 1772804042.0,
@@ -915,10 +915,10 @@
       "title": "Iran conflict: Nearly 100 ceramic units in Gujarat's Morbi shut due to fuel supply disruption - Deccan Herald",
       "source": "Deccan Herald",
       "region": "India",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU044Zk1ab0dpa3l4a2syekFzNmtBU3NVaFBBdmlvX24wWWlvQV9jMHZjRjVqUEQtdkEwTTZVR3ZVa3JQN18tUkJlNWJzOW5OSHRjTFNxMlo1Q3l4aVBrSzdOeUhBSDVMOFd0bnp1YWJYUWxKZ3pVR2NrZEZfZ3lQQWVCLUVKV2NUc19HRUFKc05TRy1BNHRudEJPSVlRMkV1QWdWZDJ6UG5ZZkdpUVlRSzdLbnRZTXZlcGFheFZ5RUlwelc1cjRKeUFGNXdJZDdrLVcyTWp2R1Z3R3RNM0xN?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWHBNOEUyMTdHQWMtOEZ0MXhvODlfX1NxRGVmdVdQal9Ob0lJVzUtNGpaeUFxYlFjeGdDTTlrbmZlX3ptWkNPS2NudVloR2w3WGNaMnB0bHVlOVc2eExQWjFtWm5BTmRfaUZCY0M2LUNRQl9kZTZwc1BRVThibnAwSER4djZJajZ4YlNIQzJBUTdaaUprMjA4XzRXTk5fSEpjRHRubEUzX0hjbnNrX3RjVGZwZ1pPTlZwQU5HTXJGWXR3S1AyalNVemtieGd3WFU?oc=5",
       "image_url": "",
       "trend": "Ceramic Tiles",
-      "timestamp": 1772802120.0,
+      "timestamp": 1772802143.0,
       "summary": "Iran conflict: Nearly 100 ceramic units in Gujarat's Morbi shut due to fuel supply disruption&nbsp;&nbsp;Deccan Herald",
       "query": "India tiles export news",
       "sentiment": "neutral",
@@ -994,6 +994,20 @@
       "sentiment": "negative",
       "priority": "medium",
       "local_image": "images/ceramic_tiles_4.jpg"
+    },
+    {
+      "title": "Morbi Ceramic Industry Faces Shutdown on Gas Crisis - Rediff",
+      "source": "Rediff",
+      "region": "Global",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWtkb0NlT2s5dXh1OWozWi1GS0NTZFY2YVlnTTl4UllCTHJRMTREYVQyN2RuMF9XdVZ2VVFVTGNOX2RVVkpxSVJERFdxRlV2eV9ra25fM2VNYlhRYm5NVjBkYVlCU3ZGT0lHUGpHVFhYRmpLVmlrT2RvQWZVNktXeFRFMmRmZ2xQQ1BnOGNJbmxzVVlEOHlsa1ZIdU9VVXZfbGJnbUZn0gGrAUFVX3lxTE1iX2swdnZ5RkdUMl96MHAyNDFDdFYtR2xRcGNFMjU1TWNjNk83UXNRQmp5a3BwczB1aDd5Mncyc1VZY3d3RnJ1ck5YTUczZVFvd3Q0dUMtempvOVEyUmlRcTFMcS1LZWV2anBqaHVNemdOc2xQbkJ0R1I3WE5qZlNfMF9zVUl1dHZPdmFfN0FlckNmYnpabERmZmI4S0dPTW45VXlpaElyTWpJbw?oc=5",
+      "image_url": "",
+      "trend": "Ceramic Tiles",
+      "timestamp": 1772725532.0,
+      "summary": "Morbi Ceramic Industry Faces Shutdown on Gas Crisis&nbsp;&nbsp;Rediff",
+      "query": "ceramic tile production news",
+      "sentiment": "negative",
+      "priority": "medium",
+      "local_image": "images/ceramic_tiles_21.jpg"
     },
     {
       "title": "Iran war disrupts propane gas supply at Morbi: Ceramic units may shut in 48 hours; livelihoods of workers a... - Bhaskar English",
@@ -1090,7 +1104,7 @@
       "summary": "Riad Tile Expands Design Possibilities With Ceramic Tile Collection&nbsp;&nbsp;The Commercial Appeal",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/ceramic_tiles_22.jpg"
+      "local_image": "images/ceramic_tiles_23.jpg"
     },
     {
       "title": "Otto Tiles and Design Introduces New Handmade Ceramic Tiles Collections Blending Traditional Craftsmanship with Modern Design - The Commercial Appeal",
@@ -1145,7 +1159,7 @@
       "summary": "United States' Ceramic Tile Market to See Modest Growth With Value CAGR of +1.7% Through 2035&nbsp;&nbsp;IndexBox",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/ceramic_tiles_23.jpg"
+      "local_image": "images/ceramic_tiles_24.jpg"
     }
   ],
   "General Trend": [
@@ -1275,7 +1289,7 @@
       "query": "sanitaryware India market news",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/sanitaryware_2.jpg"
+      "local_image": "images/sanitaryware_3.jpg"
     },
     {
       "title": "CERA Sanitaryware Eyes Retail Expansion Across Key Markets. - News on Projects",
@@ -1328,10 +1342,10 @@
       "trend": "Sanitaryware",
       "timestamp": 1772689020.0,
       "summary": "Cera Sanitaryware Receives 50% Gas Supply Cut Notice Due to West Asian Crisis&nbsp;&nbsp;scanx.trade",
-      "query": "sanitaryware India market news",
+      "query": "Cera Sanitaryware India news",
       "sentiment": "negative",
       "priority": "medium",
-      "local_image": "images/sanitaryware_3.jpg"
+      "local_image": "images/sanitaryware_2.jpg"
     },
     {
       "title": "Cera Sanitaryware Faces 50% Gas Cut; GAIL Supply Offers Buffer - Whalesbook",
@@ -1690,21 +1704,7 @@
       "query": "zellige tile moroccan design",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/kitchen_tiles_2.jpg"
-    },
-    {
-      "title": "The Bold Backsplash Idea Inspired By HGTV's Tarek El Moussa's Kitchen - AOL.com",
-      "source": "AOL.com",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLVJSZHI4TXhONG1EbjhlalNrZzBVbG9BdVdLdFJsVUJnYjJ4ZUlTcHJBVlAwNm5lRXB3MzdHVWxweUxBdGFiY3QzaUhMUG04NzNkM1pnTmttS25FN1g3OVVyMFk4N0ZXcjZoUk5ZZzVCWHJQUTZMUGNhWmRMX3VqTXVVNC1KUQ?oc=5",
-      "image_url": "",
-      "trend": "Kitchen Tiles",
-      "timestamp": 1772784000.0,
-      "summary": "The Bold Backsplash Idea Inspired By HGTV's Tarek El Moussa's Kitchen&nbsp;&nbsp;AOL.com",
-      "query": "3D tiles wall design trend",
-      "sentiment": "neutral",
-      "priority": "low",
-      "local_image": "images/kitchen_tiles_0.jpg"
+      "local_image": "images/kitchen_tiles_1.jpg"
     },
     {
       "title": "How to Install a Mosaic Tile Backsplash in Your Kitchen (and Pick the Perfect Shade) - marthastewart.com",
@@ -1718,7 +1718,7 @@
       "query": "textured tiles interior design",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/kitchen_tiles_1.jpg"
+      "local_image": "images/kitchen_tiles_0.jpg"
     }
   ],
   "Marble & Quartz": [
