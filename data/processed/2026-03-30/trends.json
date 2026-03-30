@@ -8,7 +8,7 @@
       "image_url": "",
       "summary": "",
       "trend": "General Trend",
-      "timestamp": 1774864970.2836702,
+      "timestamp": 1774867293.2764468,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/general_trend_0.jpg"
@@ -21,7 +21,7 @@
       "image_url": "https://www.kajariaceramics.com/storage/blog/800x800-imagejpg-1.jpeg",
       "summary": "",
       "trend": "General Trend",
-      "timestamp": 1774864970.2833214,
+      "timestamp": 1774867293.2761145,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/img_aab2fb604e84.jpeg"
@@ -83,20 +83,6 @@
       "local_image": "images/general_trend_8.jpg"
     },
     {
-      "title": "GST impact was definitely felt because of the last quarter: Ashok Kajaria, Kajaria Ceramics - The Economic Times",
-      "source": "The Economic Times",
-      "region": "India",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdk5TRldHaTUwWWtwdEd4NE1TSzBldHJGQ3liU1hVVm1PWFlyMnNWcVZ0bXdPME5HU2lGRnlfZ1c2V291aUw5S2l2clVub0M5TWhJemUwOVpHa2Zza2FCSml1bkJjM3VYWDlFeUIyVENNWWV6cF8wdGI3d1NXVzhvY3NMck94cy1hUVNKRFIwQUdTRzlkd0NZQVcwVTRBLUowU09PRXY4SHg3ZDBXMDh4STJtSHE1X01YSXZ6cmVGUzh6TFpBMnNGME1xRjYtc3YxcnJBWGtPNEpXeGRiRjFZS2l2UFBmd3JyT2FGcGNhMkJfS3PSAfgBQVVfeXFMTUE5UG5qbk1rOEhfZEVFSjRWeDN4ZC04OHczUS1rS0FyNG10SmJfUU1VWFdad09kZVhsRnJ2OUhlcXpBYm9HTG9Qd1N4elQwZzFHenpWTG9BXzR0clF4b3lIWFdDenNxNkZzTm9RNGhfME8zc2JrendKZnBUVWZwWDd5Q1ZqdUlpSUNiMnZYZXZpeTdIeGM4MHZuYkNhc1dYSUJVYVQtcm05QWhDa0Z3YVc1OXUwYldWOTYzeE0wb1U0b3dPM3c0c1V4b0Fod0lTSXFmZTlMQmlFZHAxMGY0dkI1WTFGeGRIMG9nUEVyRURCc0huU2FLQ0E?oc=5",
-      "image_url": "",
-      "trend": "General Trend",
-      "timestamp": 1774594800.0,
-      "summary": "GST impact was definitely felt because of the last quarter: Ashok Kajaria, Kajaria Ceramics&nbsp;&nbsp;The Economic Times",
-      "query": "Kajaria ceramics new collection",
-      "sentiment": "neutral",
-      "priority": "medium",
-      "local_image": "images/general_trend_6.jpg"
-    },
-    {
       "title": "Kajaria brings Ranveer Singh and Rashmika Mandanna together for its latest campaign - Daily Excelsior",
       "source": "Daily Excelsior",
       "region": "India",
@@ -111,18 +97,32 @@
       "local_image": "images/general_trend_5.jpg"
     },
     {
-      "title": "Kajaria brings Ranveer Singh and Rashmika Mandanna together for its latest campaign - indiasnews.net",
-      "source": "indiasnews.net",
+      "title": "Kajaria brings Ranveer Singh and Rashmika Mandanna together for its latest campaign - India's News.net",
+      "source": "India's News.net",
       "region": "India",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNckRsX1hiOUhFckktaGh4UFVIbVZJNXRuXzBZVFA5ZVY4QjBxWGVVaU4zM0o3TVdmeEtvRnRscEhfc0FtbkpaQWF5RmRwM05rcUxoMHRlLTVadVhEZm0xVVpkLURqYkFSVHZnR0JUN1Q2bFJZUkdycDVxLUpIMTl2MW13aUt0OE1yRFd0SVFOcTJnQk5nbEJiQXFlVTJybDNjN3V0dzdOV25oRjgtMTlKbExmYlg0X1hYSUVxa00xeWxzYkk?oc=5",
       "image_url": "",
       "trend": "General Trend",
       "timestamp": 1774536300.0,
-      "summary": "Kajaria brings Ranveer Singh and Rashmika Mandanna together for its latest campaign&nbsp;&nbsp;indiasnews.net",
+      "summary": "Kajaria brings Ranveer Singh and Rashmika Mandanna together for its latest campaign&nbsp;&nbsp;India's News.net",
       "query": "floor tiles India design",
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/general_trend_17.jpg"
+    },
+    {
+      "title": "Kajaria brings Ranveer Singh and Rashmika Mandanna together for its latest campaign - Business Standard",
+      "source": "Business Standard",
+      "region": "India",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQLUFTVkNQb1p4T180b2tMbklEX3Atc2NOLWRkU3BfQkt1dlFyZy1HNEcxMkFZN09IdnBYeXpBVm02Si1IZ25qOElxWHVUT2tBSm1oMzhZSVlPLXMwU3ZnYmxFQmtXOVpVQ2pQT21yeG5oRWRyWGQ2YnlMaXJWMXA0RWhFdHdmajJwdVE5c014ODhVa01SaFR0Q2s1ajhuNkp4WGpEb294OXFqRUhtWDZ1RFo4WGNiUlk0TDMzOTlNQ2E3UzB1SHprb2hOajZDZ2s4b1lQR3RDSE1abGVRa1UySFFpRlR0UVg0c09rbllseG40RGptZTNVVTdlUjXSAfwBQVVfeXFMUC1BU1ZDUG9aeE9fNG9rTG5JRF9wLXNjTi1kZFNwX0JLdXZRcmctRzRHMTJBWTdPSHZwWHl6QVZtNkotSGduajhJcVh1VE9rQUptaDM4WUlZTy1zMFN2Z2JsRUJrVzlaVUNqUE9tcnhuaEVkclhkNmJ5TGlyVjFwNEVoRXR3ZmoycHVROXNNeDg4VWtNUmhUdENrNWo4bjZKeFhqRG9veDlxakVIbVg2dURaOFhjYlJZNEwzMzk5TUNhN1MwdUh6a29oTmo2Q2drOG9ZUEd0Q0hNWmxlUWtVMkhRaUZUdFFYNHNPa25ZbHhuNERqbWUzVVU3ZVI1?oc=5",
+      "image_url": "",
+      "trend": "General Trend",
+      "timestamp": 1774523414.0,
+      "summary": "Kajaria brings Ranveer Singh and Rashmika Mandanna together for its latest campaign&nbsp;&nbsp;Business Standard",
+      "query": "Kajaria tiles latest news",
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/general_trend_1.jpg"
     },
     {
       "title": "Kajaria's Star-Studded Campaign: 'Log Toh Poochenge Hi' - Devdiscourse",
@@ -151,20 +151,6 @@
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/general_trend_18.jpg"
-    },
-    {
-      "title": "Kajaria brings Ranveer Singh and Rashmika Mandanna together for its latest campaign - Tribune India",
-      "source": "Tribune India",
-      "region": "India",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNGJjSVJYS3lQUDJEWjhnZkV4UTJGWHhncGl6QWRSd2dVWFJLZVQ3eUxpbFlrSFRJd3RZZ21MWGJuTkNrdVVwM3lzYUwya2kxSTlPQ1ZZVXd4TUdiOW8zRWVDVHJKTzFEd3FUbmV6LVZjVk5CMG5fRS1FVDhZenN4Qm1UdlJyb2RMSVJjTTQtbkVJNV92cWhHZUZFbDV4OXBQTHdDbHpHX2owYmxxVkNNYlFMcXppRmxJb0UxYmpLZHdzVGdLRnc?oc=5",
-      "image_url": "",
-      "trend": "General Trend",
-      "timestamp": 1774516225.0,
-      "summary": "Kajaria brings Ranveer Singh and Rashmika Mandanna together for its latest campaign&nbsp;&nbsp;Tribune India",
-      "query": "Kajaria tiles latest news",
-      "sentiment": "positive",
-      "priority": "medium",
-      "local_image": "images/general_trend_1.jpg"
     },
     {
       "title": "NITCO Promoter Files Insider Trading Disclosure for Warrant Conversion - scanx.trade",
@@ -249,6 +235,20 @@
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/general_trend_23.jpg"
+    },
+    {
+      "title": "Kajaria Ceramics Makes Kajaria Surfaces a Wholly Owned Subsidiary - TipRanks",
+      "source": "TipRanks",
+      "region": "India",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHNyaVl3SmNNOUlLbVo2SkFJU0EzclhQaUg1OFpkengwbUIxMTBocUZPdEdncVI3TTYtUDhLUldKQjh2UzF2TWNYZUxJQzZaQURPUlRWMTY0V0dYNFVGMTFoRUgyRWRadk95UGxkblc5cUdKT2I5am9SUzJ5Sncyd1RyR0dNR0VZMnAxakh1Wm9NdU5tdjA0Z0dJYUVRTUZHT1FXM0IwQ1VLU1pJQjN2TFR5ZHF1MGdx?oc=5",
+      "image_url": "",
+      "trend": "General Trend",
+      "timestamp": 1774384752.0,
+      "summary": "Kajaria Ceramics Makes Kajaria Surfaces a Wholly Owned Subsidiary&nbsp;&nbsp;TipRanks",
+      "query": "Kajaria ceramics new collection",
+      "sentiment": "neutral",
+      "priority": "medium",
+      "local_image": "images/general_trend_6.jpg"
     },
     {
       "title": "NITCO Limited Announces Resignation of CFO Bikash Jain Effective March 31, 2026 - scanx.trade",
@@ -348,14 +348,14 @@
       "local_image": "images/general_trend_20.jpg"
     },
     {
-      "title": "How to turn your shower into a private spa retreat - telegraph.co.uk",
-      "source": "telegraph.co.uk",
+      "title": "How to turn your shower into a private spa retreat - The Telegraph",
+      "source": "The Telegraph",
       "region": "Global",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRk9NNHVzZGNkZ05nQTJ0TGpFckZ0aEV6UWNCMFFBd0w4cVpjVlhWb3EzTGw2anFiR3pkcEI0bUNMQUszTFBBdWpNNWZIazE3YWNaX3ZDRzFsT3JhQW9xd2J0S1pkcUNHZ2NGLXltQjdEMVRxU0ZMQXJBOVdwbmRXTQ?oc=5",
       "image_url": "",
       "trend": "General Trend",
       "timestamp": 1774532460.0,
-      "summary": "How to turn your shower into a private spa retreat&nbsp;&nbsp;telegraph.co.uk",
+      "summary": "How to turn your shower into a private spa retreat&nbsp;&nbsp;The Telegraph",
       "query": "spa bathroom tile luxury",
       "sentiment": "neutral",
       "priority": "low",
@@ -392,20 +392,6 @@
   ],
   "Tile Design & Trends": [
     {
-      "title": "Indian tile makers feel heat of Mideast war energy crunch - Caledonian Record",
-      "source": "Caledonian Record",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQVlqSTlMbXpReTVHaHFyQXh5V183V0tlNFFYM09kTjlUb1dOb3RnVVJGM25HSlJFS202d0EyS21taDlaRXFDNXpiZWIxTTFHQ21zZFRiZWU4WmZDUHlfZVotbzhmdDJ3REpmTXUtbjRaLUl0bVlUWVZKdElHRjM3Q3Rrb3BhUTA1Q3dHelpCMEVwM05vMVJxMU5aOXBoOEVhN3NRcnp6SG9ENU15QXlaYm5LZ0YtQ09ReDVPMmxIRU5SQ0tONjAyVGV5RUk1S3FhWWpwd2ZsbjFqYmdwLWFTVFhGamxaa2puMEE?oc=5",
-      "image_url": "",
-      "trend": "Tile Design & Trends",
-      "timestamp": 1774750676.0,
-      "summary": "Indian tile makers feel heat of Mideast war energy crunch&nbsp;&nbsp;Caledonian Record",
-      "query": "tile industry trends 2026",
-      "sentiment": "positive",
-      "priority": "high",
-      "local_image": "images/tile_design_and_trends_18.jpg"
-    },
-    {
       "title": "6 Timeless Tile Designs That Never Go Out of Style",
       "source": "Kajaria Ceramics",
       "region": "India",
@@ -413,7 +399,7 @@
       "image_url": "",
       "summary": "",
       "trend": "Tile Design & Trends",
-      "timestamp": 1774864970.2842681,
+      "timestamp": 1774867293.2770667,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/tile_design_and_trends_1.jpg"
@@ -426,24 +412,10 @@
       "image_url": "https://www.kajariaceramics.com/storage/blog/tiles-designs.jpg",
       "summary": "",
       "trend": "Tile Design & Trends",
-      "timestamp": 1774864970.2841296,
+      "timestamp": 1774867293.2769327,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/img_b152913dcd6a.jpg"
-    },
-    {
-      "title": "7 Tile Trends Interior Designers Are Loving Right Now - AOL.com",
-      "source": "AOL.com",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyakR3b3BGNWVwdmhhOVQzRjB1Nm5rVEJRRkxmcG45TjBEN2ltbzJnY2Zhdm1aWTVuelNSN1pmZFhBMkpDTVc3UFdkMVpkWWtCRHp1Y2lhUXQtd3JENHFlVEJvU0tOYnNRT190eks0V3ljRUV3UUE?oc=5",
-      "image_url": "",
-      "trend": "Tile Design & Trends",
-      "timestamp": 1774861749.0,
-      "summary": "7 Tile Trends Interior Designers Are Loving Right Now&nbsp;&nbsp;AOL.com",
-      "query": "large format tiles design trend",
-      "sentiment": "positive",
-      "priority": "medium",
-      "local_image": "images/tile_design_and_trends_20.jpg"
     },
     {
       "title": "Penn Elcom White Steel Ceiling Tile – 600x600mm Plain Panel For Suspended Grid Systems - ruhrkanal.news",
@@ -457,7 +429,7 @@
       "query": "commercial kitchen tile",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/tile_design_and_trends_25.jpg"
+      "local_image": "images/tile_design_and_trends_23.jpg"
     },
     {
       "title": "Indian tile makers feel heat of Mideast war energy crunch - Newsbug.info",
@@ -471,7 +443,7 @@
       "query": "tile manufacturing India news",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/tile_design_and_trends_7.jpg"
+      "local_image": "images/tile_design_and_trends_6.jpg"
     },
     {
       "title": "Indian tile makers feel heat of Mideast war energy crunch - Barron News-Shield",
@@ -485,21 +457,7 @@
       "query": "tile manufacturing India news",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/tile_design_and_trends_8.jpg"
-    },
-    {
-      "title": "Indian tile makers feel heat of Mideast war energy crunch - wyomingnewsnow.tv",
-      "source": "wyomingnewsnow.tv",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOWROaTlTc0JOaHc4VnRYQkR2b010UDQzN2hhRmd0cFBqR1hsSGZKN3BSdzJRVGtoM19SWm1FdXVGdGhXLTc1TGV2d2hJbndWN2p2Yms5RGVqLVVMUkgxVUdZMWh4ZzktbWsxNFVvb0FlTzBmb0d1RGppTGVaVWNXeGE0NTVjZnlZRlViemRLNzZqTG1PZ2xBY1pZVU1Zb0Z3YlBTRXVOVE1qck1ickJNc0RNUVIteXoxNUhFdy1XNDdCRlJVYnNJcjExdWwtZDN3SnljZWN5S095NTJtYVZHRWtYSUZ5Zw?oc=5",
-      "image_url": "",
-      "trend": "Tile Design & Trends",
-      "timestamp": 1774750676.0,
-      "summary": "Indian tile makers feel heat of Mideast war energy crunch&nbsp;&nbsp;wyomingnewsnow.tv",
-      "query": "tile industry trends 2026",
-      "sentiment": "positive",
-      "priority": "medium",
-      "local_image": "images/tile_design_and_trends_17.jpg"
+      "local_image": "images/tile_design_and_trends_7.jpg"
     },
     {
       "title": "Ceramic & Porcelain Shares (EGS3C111C019): Exploring the Egyptian Tile Maker's Business Model and In - AD HOC NEWS",
@@ -513,7 +471,7 @@
       "query": "porcelain tiles innovation news",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/tile_design_and_trends_15.jpg"
+      "local_image": "images/tile_design_and_trends_14.jpg"
     },
     {
       "title": "Baker Ross Glass Mosaic Tiles - 500g Assorted Colors In Storage Tub, 10mm Squares For Kids Arts & Crafts - ruhrkanal.news",
@@ -525,6 +483,20 @@
       "timestamp": 1774722307.0,
       "summary": "Baker Ross Glass Mosaic Tiles - 500g Assorted Colors In Storage Tub, 10mm Squares For Kids Arts & Crafts&nbsp;&nbsp;ruhrkanal.news",
       "query": "mosaic tiles art design",
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/tile_design_and_trends_18.jpg"
+    },
+    {
+      "title": "100PCS Silver Mirror Mosaic Tiles – 50x50mm Self-Adhesive Glass Stickers For DIY Wall Art & Decor - ruhrkanal.news",
+      "source": "ruhrkanal.news",
+      "region": "Global",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVjRKYXVLVF9acVNHWDhGOTQxeWt5Vms5M3dHcEc1Szk0Ykt3Q2xHb19SbEhRMXJfcTdsNFRCVENSTzVJV3JOX2I5d05BbFQ0LXdjdzRSZU9VMWZRMHFheWNjcm5Ldm53OWwtWk5nczBBRUJ3bXEzSmVUVVRURmhJbVVHekU0S1pFLXJNT0owWnY?oc=5",
+      "image_url": "",
+      "trend": "Tile Design & Trends",
+      "timestamp": 1774711493.0,
+      "summary": "100PCS Silver Mirror Mosaic Tiles – 50x50mm Self-Adhesive Glass Stickers For DIY Wall Art & Decor&nbsp;&nbsp;ruhrkanal.news",
+      "query": "mosaic tile art design news",
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/tile_design_and_trends_21.jpg"
@@ -555,7 +527,7 @@
       "query": "mosaic tile art design news",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/tile_design_and_trends_23.jpg"
+      "local_image": "images/tile_design_and_trends_20.jpg"
     },
     {
       "title": "7 Tile Trends Interior Designers Are Loving Right Now - StyleBlueprint",
@@ -569,7 +541,7 @@
       "query": "tile design trends latest",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/tile_design_and_trends_19.jpg"
+      "local_image": "images/tile_design_and_trends_17.jpg"
     },
     {
       "title": "Best Tiles Company in India - Leading Tile Brand | Orientbell Tiles",
@@ -579,7 +551,7 @@
       "image_url": "https://www.orientbell.com/twitterLogo.jpg",
       "summary": "Explore Orientbell, India's leading tile brand, with 100% Tiles, 0% Celebs. Get style & class with a wide range of premium quality tiles at the best price. Shop now!",
       "trend": "Tile Design & Trends",
-      "timestamp": 1774864974.6763043,
+      "timestamp": 1774867300.5988817,
       "sentiment": "positive",
       "priority": "low",
       "local_image": "images/img_c13d05f6507a.jpg"
@@ -592,7 +564,7 @@
       "image_url": "",
       "summary": "",
       "trend": "Tile Design & Trends",
-      "timestamp": 1774864970.2839677,
+      "timestamp": 1774867293.2767642,
       "sentiment": "neutral",
       "priority": "low",
       "local_image": "images/tile_design_and_trends_0.jpg"
@@ -605,7 +577,7 @@
       "image_url": "https://www.kajariaceramics.com/storage/blog/high002437.jpg",
       "summary": "",
       "trend": "Tile Design & Trends",
-      "timestamp": 1774864970.2838397,
+      "timestamp": 1774867293.2766135,
       "sentiment": "neutral",
       "priority": "low",
       "local_image": "images/img_6635e4409451.jpg"
@@ -650,7 +622,7 @@
       "query": "Indian ceramic industry news",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/tile_design_and_trends_10.jpg"
+      "local_image": "images/tile_design_and_trends_9.jpg"
     },
     {
       "title": "Indian tile makers feel heat of Mideast war energy crunch - NST Online",
@@ -675,10 +647,10 @@
       "trend": "Tile Design & Trends",
       "timestamp": 1774750982.0,
       "summary": "Indian tile makers feel heat of Mideast war energy crunch&nbsp;&nbsp;Digital Journal",
-      "query": "tile manufacturing India news",
+      "query": "ceramic tiles India industry news",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/tile_design_and_trends_6.jpg"
+      "local_image": "images/tile_design_and_trends_5.jpg"
     },
     {
       "title": "Indian tile makers feel heat of Mideast war energy crunch - Key Biscayne Portal",
@@ -692,21 +664,7 @@
       "query": "tile industry news today",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/tile_design_and_trends_12.jpg"
-    },
-    {
-      "title": "Indian Tile Makers Feel Heat Of Mideast War Energy Crunch - Barron's",
-      "source": "Barron's",
-      "region": "India",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVnZXSkRiTFd0MjNRSUtKZl9ld1IwWU80bkhhNDdLQmQ2eThYekxVZ29MWlFIaXFLS3RnRjRnUlJjNmFLVWZMbWRGRi11cmRuTEZ3RVl3YjVDa0w0ZDdWc0hiVGF6cGV1cEZmQmtzUm1rSHpHSkx4TlhhVXlLQTRfdmxvSXAwbklkbzZCVDRzNkFnZGJnaTZBZmJRaw?oc=5",
-      "image_url": "",
-      "trend": "Tile Design & Trends",
-      "timestamp": 1774750620.0,
-      "summary": "Indian Tile Makers Feel Heat Of Mideast War Energy Crunch&nbsp;&nbsp;Barron's",
-      "query": "ceramic tiles India industry news",
-      "sentiment": "neutral",
-      "priority": "low",
-      "local_image": "images/tile_design_and_trends_5.jpg"
+      "local_image": "images/tile_design_and_trends_10.jpg"
     },
     {
       "title": "Indian tile makers feel heat of Mideast war energy crunch - Yahoo Finance UK",
@@ -720,7 +678,21 @@
       "query": "India tiles export news",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/tile_design_and_trends_9.jpg"
+      "local_image": "images/tile_design_and_trends_8.jpg"
+    },
+    {
+      "title": "Indian Tile Makers Feel Heat Of Mideast War Energy Crunch - Barron's",
+      "source": "Barron's",
+      "region": "Global",
+      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNdG5xRS1yMFo2V0JKUGZaMmFETGJMdHhoS2tFZXdfTnVjRTlNVzczOWZ3ajNhdGRqT0RxTG9sSW9ldkZaUWNMTzFxakpkb056dmJ2Nmd5MWJHSTU0bG1lY2NVN0czM2VubHJ2YkM2V21ZODdiSEN0Z0wzbnRnMG93bWpfbzJDOGJuRXpmVkF0UmlUNjItTHI0VXlsbmJEYk8zLVpNLUJ5Vi1MRE90R3ZXa2Y4dENyXzc2R2s4Ymg3aGN1SnU4NzR6R0FaT0N1Ri1xeTNJekpKMFpZWGNTNTZIOEw0SkpidGJkOFB0S2l4cEtLSWFHd09pRklpZWxlSnZXNkgtQ1hMdnhqQ2VWTGgtZ1A1M2Rwd2JTTF9QYThqLTcyQ2luR3B0QlN1ZGxmanFJblZ4X1NsRVhEaFQ3VEx2VWU3UHhzOTdEQkI1OUhnRTFodWZJS3B2dHNsMTM0Y1RZMEhNdVpNcklVNDV6YWVZYmJHX2Qwc2R6Mi11Q2FKTWM0eEJKOGpCcXdselhma3ljdVh1c05MNW50QnNvaElrTERfMzBVYWEtWkRhMmpGVEdsZmdKRlktbWZFa0I4ZDA?oc=5",
+      "image_url": "",
+      "trend": "Tile Design & Trends",
+      "timestamp": 1774750620.0,
+      "summary": "Indian Tile Makers Feel Heat Of Mideast War Energy Crunch&nbsp;&nbsp;Barron's",
+      "query": "tile manufacturing technology news",
+      "sentiment": "neutral",
+      "priority": "low",
+      "local_image": "images/tile_design_and_trends_16.jpg"
     },
     {
       "title": "This Tiny Tweak Is Making Subway Tile The Star Of 2026 Kitchens - AOL.com",
@@ -734,7 +706,7 @@
       "query": "subway tile design trends",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/tile_design_and_trends_24.jpg"
+      "local_image": "images/tile_design_and_trends_22.jpg"
     },
     {
       "title": "World in a square foot: Tiles, power, and the quiet crisis in Morbi - theweek.in",
@@ -748,7 +720,7 @@
       "query": "global ceramic tile industry",
       "sentiment": "negative",
       "priority": "low",
-      "local_image": "images/tile_design_and_trends_16.jpg"
+      "local_image": "images/tile_design_and_trends_15.jpg"
     },
     {
       "title": "Tilenga and EACOP Projects: Acting Transparently - TotalEnergies.com",
@@ -762,7 +734,7 @@
       "query": "tile industry news today",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/tile_design_and_trends_13.jpg"
+      "local_image": "images/tile_design_and_trends_12.jpg"
     },
     {
       "title": "Vitrex makes the perfect tile cut easy - DIY Week",
@@ -776,7 +748,7 @@
       "query": "porcelain tiles innovation news",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/tile_design_and_trends_14.jpg"
+      "local_image": "images/tile_design_and_trends_13.jpg"
     },
     {
       "title": "The Best British Tile Brands For 2026 - Country and Town House",
@@ -790,7 +762,7 @@
       "query": "luxury tiles interior design",
       "sentiment": "positive",
       "priority": "low",
-      "local_image": "images/tile_design_and_trends_22.jpg"
+      "local_image": "images/tile_design_and_trends_19.jpg"
     }
   ],
   "Market & Industry News": [
@@ -805,7 +777,7 @@
       "summary": "Asian Granito to NITCO: Why India’s Rs 53,000-crore tile industry is facing a freight shock&nbsp;&nbsp;The Financial Express",
       "sentiment": "neutral",
       "priority": "high",
-      "local_image": "images/market_and_industry_news_21.jpg"
+      "local_image": "images/market_and_industry_news_20.jpg"
     },
     {
       "title": "550 factories halt production in Morbi: Gas crisis now paralyses India's ₹750 billion industry - Business Today",
@@ -818,7 +790,7 @@
       "summary": "550 factories halt production in Morbi: Gas crisis now paralyses India's ₹750 billion industry&nbsp;&nbsp;Business Today",
       "sentiment": "negative",
       "priority": "high",
-      "local_image": "images/market_and_industry_news_20.jpg"
+      "local_image": "images/market_and_industry_news_19.jpg"
     },
     {
       "title": "Why Kajaria Tiles Are Preferred by Designers & Architects",
@@ -828,7 +800,7 @@
       "image_url": "",
       "summary": "",
       "trend": "Market & Industry News",
-      "timestamp": 1774864970.284579,
+      "timestamp": 1774867293.2773564,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/market_and_industry_news_0.jpg"
@@ -841,7 +813,7 @@
       "image_url": "https://www.kajariaceramics.com/storage/blog/kajaria-film-veiled-volumes-youtube-12-18-2025-03-03-pm.png",
       "summary": "",
       "trend": "Market & Industry News",
-      "timestamp": 1774864970.2844324,
+      "timestamp": 1774867293.2772307,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/img_b7b29260ca17.png"
@@ -858,7 +830,7 @@
       "query": "ceramic tile production news",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_16.jpg"
+      "local_image": "images/market_and_industry_news_14.jpg"
     },
     {
       "title": "The tile industry developed in Gujarat due to the availability of clay and good transport connections, but it relies on overseas energy to fire - IslanderNews.com",
@@ -872,7 +844,7 @@
       "query": "tile industry news today",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_13.jpg"
+      "local_image": "images/market_and_industry_news_12.jpg"
     },
     {
       "title": "Energy crisis shuts over 400 ceramics factories, workers sent home as gas supply tightens - The Financial Express",
@@ -900,7 +872,7 @@
       "query": "India construction tiles demand",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_11.jpg"
+      "local_image": "images/market_and_industry_news_10.jpg"
     },
     {
       "title": "Orient Bell Promoter Mahendra K. Daga Increases Shareholding to 21% Through Open Market Purchase - scanx.trade",
@@ -917,18 +889,18 @@
       "local_image": "images/market_and_industry_news_5.jpg"
     },
     {
-      "title": "Global Carpet Tiles Market Size, Growth, Trends & Forecast to 2033 Milliken, Interface, Beaulieu, Balsan - openpr.com",
-      "source": "openpr.com",
+      "title": "Global Carpet Tiles Market Size, Growth, Trends & Forecast to 2033 Milliken, Interface, Beaulieu, Balsan - openPR.com",
+      "source": "openPR.com",
       "region": "India",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFVYVDNjNmNHTF9HeENTT3A4YUZMYm0zbEJjT3UybUNMMFd3TC1QbE5Ea0pyN1ZURVN6Nk1IcmtLNzB5amhRellNUVJhajFfOFI4Y0t5clhqejN1YXNURHpYYl84dVl5d2phanNaMkg2eEVaS1l4dlNoSWZvcHdTd2JKMU9yUzhDM1FjVFF5bG9PaU1u?oc=5",
       "image_url": "",
       "trend": "Market & Industry News",
       "timestamp": 1774521827.0,
-      "summary": "Global Carpet Tiles Market Size, Growth, Trends & Forecast to 2033 Milliken, Interface, Beaulieu, Balsan&nbsp;&nbsp;openpr.com",
+      "summary": "Global Carpet Tiles Market Size, Growth, Trends & Forecast to 2033 Milliken, Interface, Beaulieu, Balsan&nbsp;&nbsp;openPR.com",
       "query": "India tile industry growth",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_12.jpg"
+      "local_image": "images/market_and_industry_news_11.jpg"
     },
     {
       "title": "GROHE Start Single Lever Bath/Shower Mixer Trim Kit For Concealed Installation - Includes Valve Body, Chrome Finish - ruhrkanal.news",
@@ -942,7 +914,7 @@
       "query": "Grohe bath fittings news",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_18.jpg"
+      "local_image": "images/market_and_industry_news_16.jpg"
     },
     {
       "title": "Duravit wins Good Design Award for range designed by Antonio Citterio - KBBFocus",
@@ -954,20 +926,6 @@
       "timestamp": 1774451878.0,
       "summary": "Duravit wins Good Design Award for range designed by Antonio Citterio&nbsp;&nbsp;KBBFocus",
       "query": "bath fittings design trends global",
-      "sentiment": "positive",
-      "priority": "medium",
-      "local_image": "images/market_and_industry_news_17.jpg"
-    },
-    {
-      "title": "Global Luxury Vinyl Tiles Market to Grow at 10.5% CAGR, Reaching - openPR.com",
-      "source": "openPR.com",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUHUyZzBIeE4xUjlQdHB2V2ZtSXg5dThIcmZGRExCU1FsQ1VlSVUycGpkNGJSRk1SQTdKcUNnemxyX2VvUGk0OEEyaXk2YTdIdDVRRGlueW84dlFGSUh2ZkpjbVBkbG5GR3htYmt1ZWFsaUhiRmJNTTdlWG03eVNHX25ZQ1ZvLVZiME1qMFMyeG9GVjlxQ1BjVE83WXJmRDg?oc=5",
-      "image_url": "",
-      "trend": "Market & Industry News",
-      "timestamp": 1774437401.0,
-      "summary": "Global Luxury Vinyl Tiles Market to Grow at 10.5% CAGR, Reaching&nbsp;&nbsp;openPR.com",
-      "query": "tile manufacturing technology news",
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/market_and_industry_news_15.jpg"
@@ -1043,31 +1001,17 @@
       "local_image": "images/market_and_industry_news_1.jpg"
     },
     {
-      "title": "Ceiling Tiles Market Outlook 2034: Growth Drivers, Trends, and Opportunities Shaping the Industry - vocal.media",
-      "source": "vocal.media",
-      "region": "India",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2FMRkRYeC1kTFExcmhWODlYWDQ0SFlEcjd6SUNhMXpfYjJ1TG1WWXl2bTJuS1BNQ0RvTC15Tk1jMVdpeVhnVGFjNUtQVVhVc3pBU3NIRVAwSlpQV0NPR1IyZGp5WUVOeG9iVWVUWDhVSm0yOFp6ZEN1UFcwenZKdnB3anN5NERSd3d4elVoMU1MLVJpQVJzYW9seGYwMDJnRGhRT3d2bG5sRzhLS252Rlc4Vm5zU0ZHVndseU5n?oc=5",
-      "image_url": "",
-      "trend": "Market & Industry News",
-      "timestamp": 1774261583.0,
-      "summary": "Ceiling Tiles Market Outlook 2034: Growth Drivers, Trends, and Opportunities Shaping the Industry&nbsp;&nbsp;vocal.media",
-      "query": "India construction tiles demand",
-      "sentiment": "positive",
-      "priority": "medium",
-      "local_image": "images/market_and_industry_news_10.jpg"
-    },
-    {
-      "title": "Gujarat Hardlook | West Asia conflict chokes energy supply, uncertainty looms, ceramic capital presses pause - The Indian Express",
+      "title": "Gujarat Hardlook | West Asia conflict chokes energy supply, uncertainty looms, ceramic capital presses pause - indianexpress.com",
       "source": "GNews Morbi Tiles",
       "region": "India",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZnZ0QVdQbDNreENSTURDc2FZVW4tbXBZTGN2SlN6V2t0dnNER1pIMFJHeUN1Q0ZFVkNLRktkaXdVeE9aR25kdEI4X1RIUEtaTER5SjNtOHpTMUpVbzVOTVhZT2lDMTdkbDlMcXRZdEFuN09jU19QUVRCbGtsdDBkOUlyc0xLOHZLbjFzWFllbWY4SEZLNUt5cnl3alBYRDljQjJKQU9PR1FvNC15MnZSQlRXSG0xQlNnLWFjaUptX21pZmdxNGxzMWFR0gHQAUFVX3lxTE5BN1I1ZVdRWXRPMDNGbUplekl6ZG41YVVKTzhNazlpUUJrRnFGZ003cTU4WWlNM3Y0cjFwQ1JjWFp5R3NWWkwyZnJyb0tvOU1SNUpKZS1ZTmpVY0FubEQ0Zl82YzhTc096UUZwazVYdFVXcTRVSDd4LTZLQUhRUUl2cHM5WWp4cHJzR3JHN0FUWGJzdmJ6RE9TVFNmZjMwdHBHcG9OR2QtazV4TVVUNmZxdngyM1JOYkd3bjNrS3FaXzBycVJWbVF3WExKZDFySlE?oc=5",
       "image_url": "",
       "trend": "Market & Industry News",
       "timestamp": 1774232111.0,
-      "summary": "Gujarat Hardlook | West Asia conflict chokes energy supply, uncertainty looms, ceramic capital presses pause&nbsp;&nbsp;The Indian Express",
+      "summary": "Gujarat Hardlook | West Asia conflict chokes energy supply, uncertainty looms, ceramic capital presses pause&nbsp;&nbsp;indianexpress.com",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_22.jpg"
+      "local_image": "images/market_and_industry_news_21.jpg"
     },
     {
       "title": "India's ceramics and tiles industry faces shutdown as Middle East conflict disrupts fuel - MSN",
@@ -1080,7 +1024,21 @@
       "summary": "India's ceramics and tiles industry faces shutdown as Middle East conflict disrupts fuel&nbsp;&nbsp;MSN",
       "sentiment": "negative",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_19.jpg"
+      "local_image": "images/market_and_industry_news_18.jpg"
+    },
+    {
+      "title": "Schluter Kerdi-Line Linear Shower Drain - Matte Black Grate, Adjustable For Tile & Stone, 40\" Length - aplusme.me",
+      "source": "aplusme.me",
+      "region": "Global",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlV0YW13VDBPdUN2RDN3eTU1LWhReFQ2cnB0cUVJTEdIbzVRbVAwZDJNV0RabGhpZndjaDF1bWlGN2ZOXzNTeHdlRnRTOXZ1aFB1d01pSm4ycHE4Y0VQb2JYMklqbkRDZ1FnbVMwTzFfMmJXNUpPeHNjdm1jWFFjTFVrY2puV0gtYlVNRE5QM28xQ2NEalE?oc=5",
+      "image_url": "",
+      "trend": "Market & Industry News",
+      "timestamp": 1774810158.0,
+      "summary": "Schluter Kerdi-Line Linear Shower Drain - Matte Black Grate, Adjustable For Tile & Stone, 40\" Length&nbsp;&nbsp;aplusme.me",
+      "query": "shower tile waterproofing",
+      "sentiment": "neutral",
+      "priority": "low",
+      "local_image": "images/market_and_industry_news_17.jpg"
     },
     {
       "title": "Heritage Mangaluru tile industry faces extinction as clay crisis deepens - The Times of India",
@@ -1122,7 +1080,7 @@
       "query": "tile market growth forecast",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/market_and_industry_news_14.jpg"
+      "local_image": "images/market_and_industry_news_13.jpg"
     }
   ],
   "Bath Fittings": [
@@ -1162,7 +1120,7 @@
       "image_url": "",
       "summary": "",
       "trend": "Bath Fittings",
-      "timestamp": 1774864977.7907057,
+      "timestamp": 1774867302.8785405,
       "sentiment": "neutral",
       "priority": "low",
       "local_image": "images/bath_fittings_0.jpg"
@@ -1177,7 +1135,7 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/6904/6695/f582/e27b/7538/0f1f/slideshow/favekers-tailor-made-tiled-facade-brings-personality-and-efficiency-to-the-new-muskiz-secondary-school_14.jpg?1761896099&format=webp&width=640&height=580",
       "summary": "",
       "trend": "Elevation Tiles",
-      "timestamp": 1774865003.4075248,
+      "timestamp": 1774867332.0093546,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/img_20577af213ac.jpg"
@@ -1234,7 +1192,7 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/68a9/27a1/325f/9301/8cf9/900b/slideshow/reimagining-lisbons-azulejos-regenerative-biomaterial-tiles-from-the-tagus-river_1.jpg?1755916236&format=webp&width=640&height=580",
       "summary": "",
       "trend": "Eco-Friendly & Sustainability",
-      "timestamp": 1774865003.4078588,
+      "timestamp": 1774867332.0097353,
       "sentiment": "neutral",
       "priority": "low",
       "local_image": "images/img_c52a5c72ebfd.jpg"
@@ -1249,7 +1207,7 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/684c/2f81/1dcf/f36a/c993/1f41/slideshow/the-benefits-of-extruded-tile-technology-in-modern-architecture_7.jpg?1749823424&format=webp&width=640&height=580",
       "summary": "",
       "trend": "Technology & Innovation",
-      "timestamp": 1774865003.4081426,
+      "timestamp": 1774867332.010037,
       "sentiment": "positive",
       "priority": "low",
       "local_image": "images/img_4ced3b095e7c.jpg"
@@ -1278,20 +1236,20 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/67e5/7485/8da1/ef01/8749/5840/slideshow/revamping-pool-design-and-safety-with-porcelain-solutions_7.jpg?1743090931&format=webp&width=640&height=580",
       "summary": "",
       "trend": "Special Tiles",
-      "timestamp": 1774865003.4084342,
+      "timestamp": 1774867332.0103114,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/img_530868b524f3.jpg"
     },
     {
-      "title": "Industry Leaders Highlight Standards for Durability and Safety in Commercial Pool Tile Manufacturing - The National Law Review",
-      "source": "The National Law Review",
+      "title": "Industry Leaders Highlight Standards for Durability and Safety in Commercial Pool Tile Manufacturing - natlawreview.com",
+      "source": "natlawreview.com",
       "region": "Global",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlRZZkQ2NndhMkRrTldzemZGdGNIZzN6ei01TzVtbnJXaElJYlVXZnlSaThrR0tZcXVwRlZwTEhvN2dZR3BTbkpiVGd4aHRPam1VZ3FHUDV5MS04TGJmSXZUR0t3OE5wRzlEc1BSb0tuNWpFdUt1RDZPWmIzSENOZElkdkVoVXMtY2diUm03UkI5RHlScl96Z3kyd1FBR0tObnB4ZFZmcDdrQXF6YWoyLWRFTnI?oc=5",
       "image_url": "",
       "trend": "Special Tiles",
       "timestamp": 1774435329.0,
-      "summary": "Industry Leaders Highlight Standards for Durability and Safety in Commercial Pool Tile Manufacturing&nbsp;&nbsp;The National Law Review",
+      "summary": "Industry Leaders Highlight Standards for Durability and Safety in Commercial Pool Tile Manufacturing&nbsp;&nbsp;natlawreview.com",
       "query": "swimming pool tile design",
       "sentiment": "neutral",
       "priority": "low",
@@ -1328,18 +1286,32 @@
       "local_image": "images/floor_tiles_0.jpg"
     },
     {
-      "title": "Global Clear Floor Tiles Market Expands in Europe as Kingspan, Tarkett & Interface Drive Demand Growth - openpr.com",
-      "source": "openpr.com",
+      "title": "Global Clear Floor Tiles Market Expands in Europe as Kingspan, Tarkett & Interface Drive Demand Growth - openPR.com",
+      "source": "openPR.com",
       "region": "India",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMUt6OU16LTNScFVnOGRuUGR4enAtRHIyR1c4M2txWkxtQ0FDcWtaZHlYN3Z4NEZ6bmpRV05NRVNtX0VmYnNMNGMzSWpSTHF5M29tUmhsZGs1Q3hzWmVSVUVlTGlPN3lDcG9JYUZrejZ1b1RJTVNZNlQ0RS0zMENoTC1ZM1VveHdwRzg2OEtQY0pEbWJOZzNLY1FpM1ZPdw?oc=5",
       "image_url": "",
       "trend": "Floor Tiles",
       "timestamp": 1774518372.0,
-      "summary": "Global Clear Floor Tiles Market Expands in Europe as Kingspan, Tarkett & Interface Drive Demand Growth&nbsp;&nbsp;openpr.com",
+      "summary": "Global Clear Floor Tiles Market Expands in Europe as Kingspan, Tarkett & Interface Drive Demand Growth&nbsp;&nbsp;openPR.com",
       "query": "vitrified tiles India market",
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/floor_tiles_1.jpg"
+    },
+    {
+      "title": "DOMOTEX asia/CHINAFLOOR 2026 Info & Events | News | Tise 2026 - Floor Covering Weekly",
+      "source": "Floor Covering Weekly",
+      "region": "Global",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSlhoamllanl0R0xiT0JNOUU3aFJzV1huZG54Umd1bTh3cDRnc0RPQk1JTzlwWHdGNGxXem80SFQtOXNycDhwa0wyWlhaQTBLamQ3VjVTNXd1ZnBnZWhJMkVBR2pHdnpiTHdZekduRHpORDd2V2NhVnVjTXh5bFU5bGw5MHBENUhiVi1wbkQxWDhUR0FyZ2treHh3M2pILUE?oc=5",
+      "image_url": "",
+      "trend": "Floor Tiles",
+      "timestamp": 1774464428.0,
+      "summary": "DOMOTEX asia/CHINAFLOOR 2026 Info & Events | News | Tise 2026&nbsp;&nbsp;Floor Covering Weekly",
+      "query": "tile industry trends 2026",
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/floor_tiles_5.jpg"
     },
     {
       "title": "IPA Launches ANSI tile testing - Floor Covering News",
@@ -1350,7 +1322,7 @@
       "trend": "Floor Tiles",
       "timestamp": 1774453250.0,
       "summary": "IPA Launches ANSI tile testing&nbsp;&nbsp;Floor Covering News",
-      "query": "India tiles import news",
+      "query": "porcelain slab tiles India",
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/floor_tiles_2.jpg"
@@ -1381,20 +1353,6 @@
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/floor_tiles_6.jpg"
-    },
-    {
-      "title": "DOMOTEX asia/CHINAFLOOR 2026 Info & Events - Floor Covering Weekly",
-      "source": "Floor Covering Weekly",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbkVGd0FnUElJZ1AzTWRkZWZPU3p2a0tnZ3RtV0F2S1dVZV9sSGc2NVBfOXVYRnFKSUJHaEZvN1dUV1dZTlpZcjlucGxUbFc1SVZsenY3QjZSNTlxRWxHUE1XelpOY1lkN0pjem56QV91LWMyNnpYUjMzblhlRHJXSFpqZmw5WUtZR183MmNuOFNMOGU0LWY2VVZB?oc=5",
-      "image_url": "",
-      "trend": "Floor Tiles",
-      "timestamp": 1774457963.0,
-      "summary": "DOMOTEX asia/CHINAFLOOR 2026 Info & Events&nbsp;&nbsp;Floor Covering Weekly",
-      "query": "tile industry trends 2026",
-      "sentiment": "neutral",
-      "priority": "low",
-      "local_image": "images/floor_tiles_5.jpg"
     }
   ],
   "Sanitaryware": [
@@ -1426,14 +1384,14 @@
       "local_image": "images/img_403c73de4049.jpg"
     },
     {
-      "title": "Sanitary Ware Market - Industry Analysis & Investment Outlook - openpr.com",
-      "source": "openpr.com",
+      "title": "Sanitary Ware Market - Industry Analysis & Investment Outlook - openPR.com",
+      "source": "openPR.com",
       "region": "India",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVzZoeEo5dzhKbVVxQ1l5Z2ZTLU8teXhfTUdtQVJoeTdTOHUwWFJaZmgtNTE3MnZIWXoybmZBRUZqQ0ZhcC01WkVtT25udFpyWDdCamQ3VkdjVUdQUE93UWM1VjF5SS00RXgyakRzaWlTNTY1a2JwdmZyRHlwOWtGMEVrSUVMam92dTFxVXVPMWQxazBGQ05tTA?oc=5",
       "image_url": "",
       "trend": "Sanitaryware",
       "timestamp": 1774609199.0,
-      "summary": "Sanitary Ware Market - Industry Analysis & Investment Outlook&nbsp;&nbsp;openpr.com",
+      "summary": "Sanitary Ware Market - Industry Analysis & Investment Outlook&nbsp;&nbsp;openPR.com",
       "query": "sanitaryware India market news",
       "sentiment": "neutral",
       "priority": "medium",
@@ -1674,14 +1632,14 @@
   ],
   "New Collection Launch": [
     {
-      "title": "EeasyTile Wholesale Limited Announces Launch of Emotionally Inspired Home Tile Collection - manilatimes.net",
-      "source": "manilatimes.net",
+      "title": "EeasyTile Wholesale Limited Announces Launch of Emotionally Inspired Home Tile Collection - The Manila Times",
+      "source": "The Manila Times",
       "region": "Global",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTVhGaEcyeDQ0c0k4ZDMzNDBaTkxOZy1ZbDRQRGdwRHpDRTBZTlQxdnNmMk1fX0VvczlYaVFHY1ZUeERXbFR4N0ZpSEZpVFR2c2RiOEFnei1nU2ZjdmVyTktpdkxGaVVGbC1kM3RTc2loU25BVENHRVYyMTJ1dW45VUFJaU9PUmZvemhiVHA4TkthOFRCdU41NDg2MlltV0FzQjhDZkZsamFCQU9oMVpnYi1DSlVvWWlDZ1VERThCV0xvMU0taS1PekRNS3U2aERBQk5WN09uLUFvV3h2QzVmX2VPbFNzNDZib1pQYng4VjZ0ekZhM0HSAfsBQVVfeXFMUFAxU3puekNVOXd3RmhtMG5VUEFOVWZfZGFyek9LMGpBX1dRWHZKOUJVV0Z4ZVpDUGQyR0hPY1JIOTJLY2p1Mmo0UGR5VldmWVluRS1RN2hUVTRPZDdxLWt5cUtrN25wWXdpT05GNzFWWXU1czRVUEFpNERDOU11ZnQtZnNRYk5fMUpvc2lBSWFLblE3X0ZhNnd0SW9jOEJ6WTNtMVk1b0FBOXc4bk1YOFZNanExM2FsT0VCUDl6ZGlnMExlb3ZmcGdVSTdKaF91NVFoLUVpQTJHNC1WSk1GNWpQVm4wNFMtZnN6Y3hFMU94ZlRoeUNXQXRkdUk?oc=5",
       "image_url": "",
       "trend": "New Collection Launch",
       "timestamp": 1774580958.0,
-      "summary": "EeasyTile Wholesale Limited Announces Launch of Emotionally Inspired Home Tile Collection&nbsp;&nbsp;manilatimes.net",
+      "summary": "EeasyTile Wholesale Limited Announces Launch of Emotionally Inspired Home Tile Collection&nbsp;&nbsp;The Manila Times",
       "query": "large format tiles design trend",
       "sentiment": "positive",
       "priority": "medium",
@@ -1718,14 +1676,14 @@
   ],
   "Bathroom Tiles": [
     {
-      "title": "Bergen Bath Studio Experts Explain How Paramus Bathroom Design Trends Stand Out Across New Jersey in 2026 - openpr.com",
-      "source": "openpr.com",
+      "title": "Bergen Bath Studio Experts Explain How Paramus Bathroom Design Trends Stand Out Across New Jersey in 2026 - openPR.com",
+      "source": "openPR.com",
       "region": "India",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONVk0dmFjNEdkdGFNTHdZTmRJQ3hYUm9PbTRoWnhHVzJzejlpU3VlUHh5MVM5R2RUSWxiVEhsS3lVZjhSNm9UVF8tcDhEY3pnOUtOMndjY2VIYUw3TVNEZTRLckF6UExnelJGa1FiQW9lUUtGcHRUQWdxaVExZ0NfTzNsTlF2R1ZQUGtlOU5XRUFEUFV0ZENUd0VIRDEtb1k?oc=5",
       "image_url": "",
       "trend": "Bathroom Tiles",
       "timestamp": 1774307644.0,
-      "summary": "Bergen Bath Studio Experts Explain How Paramus Bathroom Design Trends Stand Out Across New Jersey in 2026&nbsp;&nbsp;openpr.com",
+      "summary": "Bergen Bath Studio Experts Explain How Paramus Bathroom Design Trends Stand Out Across New Jersey in 2026&nbsp;&nbsp;openPR.com",
       "query": "bathroom tiles India trends",
       "sentiment": "positive",
       "priority": "medium",
@@ -1733,6 +1691,20 @@
     }
   ],
   "Exhibition & Events": [
+    {
+      "title": "Coverings Kicks Off in Las Vegas - FloorDaily.net",
+      "source": "FloorDaily.net",
+      "region": "Global",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YbkVLNWRZc3NmVEMyZlJRTWVKNDNpaWNRaDluZmNWVUM5TmE3NVZVcWVsQjI4SzVIWUxPd1g0YVlEZTdFeFhGNERYTWgxcEdEaWlSN3R2SGNZXzJ6VnE1MkZaVWZ4RWxpSjExYmY1WVoyd21HR3lUZm5aU2s5Zw?oc=5",
+      "image_url": "",
+      "trend": "Exhibition & Events",
+      "timestamp": 1774866487.0,
+      "summary": "Coverings Kicks Off in Las Vegas&nbsp;&nbsp;FloorDaily.net",
+      "query": "tile exhibition 2026 news",
+      "sentiment": "neutral",
+      "priority": "high",
+      "local_image": "images/exhibition_and_events_3.jpg"
+    },
     {
       "title": "Meet the 2026 Coverings Rock Stars and Champions honorees - designerstoday.com",
       "source": "designerstoday.com",
@@ -1748,14 +1720,14 @@
       "local_image": "images/exhibition_and_events_0.jpg"
     },
     {
-      "title": "MSI Debuts Latest Tile, LVT, and Quartz Innovations at Coverings 2026 - GlobeNewswire",
-      "source": "GlobeNewswire",
+      "title": "MSI Debuts Latest Tile, LVT, and Quartz Innovations at Coverings 2026 - globenewswire.com",
+      "source": "globenewswire.com",
       "region": "Global",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSGZRbG1aVloxNHNIOHh5ci1kM0FCbUVKMFR0MU4taXY5TUFST1lIcW42VHZJZWM4TnBoc0tCUEtGRTVZRzlUUDlCV3AxWGQzNGJ2TjJRWnNBMm40MTNnUDdodVF1Ym9NVmFSYW1NX3pxTWVsV29CU2JBektpVEthNG5BOHREbXpGVHlFOERCMUpqRmpXOXcxVElXSDI1SzFWZC1Cd2F5TEpFUXgtSG5EVUg3WWF6QS1ubGphQ0R0TnZ3UVRONTNOQnJvVjdOR1hoeU43NzRn?oc=5",
       "image_url": "",
       "trend": "Exhibition & Events",
       "timestamp": 1774380660.0,
-      "summary": "MSI Debuts Latest Tile, LVT, and Quartz Innovations at Coverings 2026&nbsp;&nbsp;GlobeNewswire",
+      "summary": "MSI Debuts Latest Tile, LVT, and Quartz Innovations at Coverings 2026&nbsp;&nbsp;globenewswire.com",
       "query": "porcelain tiles innovation news",
       "sentiment": "positive",
       "priority": "high",
@@ -1847,6 +1819,20 @@
       "local_image": "images/kitchen_tiles_3.jpg"
     },
     {
+      "title": "Gray Glass Subway Tiles – 3x6 Inch Textured Backsplash Tiles For Kitchen & Bathroom (Pack Of 32) - aplusme.me",
+      "source": "aplusme.me",
+      "region": "Global",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVnY4bGpmU01USS01aGRlUERSdTd6VFlDM0pkU3VFSlZVclF5Y1JsRUpNaXg2QVU4T0twZGdiT25CcTk2UzZQQS1TMFZGVENYT1dnd29VYmtoNjkzUUo3YUVoVm9ocHU3UjBaclVocDFIMFF5eDFha0xCNmljb1hMV1F1RklKOWFDWHB6bWFVbkY?oc=5",
+      "image_url": "",
+      "trend": "Kitchen Tiles",
+      "timestamp": 1774827077.0,
+      "summary": "Gray Glass Subway Tiles – 3x6 Inch Textured Backsplash Tiles For Kitchen & Bathroom (Pack Of 32)&nbsp;&nbsp;aplusme.me",
+      "query": "commercial kitchen tile",
+      "sentiment": "neutral",
+      "priority": "low",
+      "local_image": "images/kitchen_tiles_5.jpg"
+    },
+    {
       "title": "28 Kitchen Floor Tile Ideas for 2026 That Turn “Just Flooring” Into Something You Notice Every Day - TheCoolist",
       "source": "TheCoolist",
       "region": "Global",
@@ -1891,14 +1877,14 @@
       "local_image": "images/marble_and_quartz_1.jpg"
     },
     {
-      "title": "Skip The Natural Stone: Jasmine Roth Has A Better Idea For Beautiful Countertops - shopping.yahoo.com",
-      "source": "shopping.yahoo.com",
+      "title": "Skip The Natural Stone: Jasmine Roth Has A Better Idea For Beautiful Countertops - Yahoo",
+      "source": "Yahoo",
       "region": "Global",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHdhQ3NVZU1iZTh0V0dWNjVzU0I5YTk5Q0tkVUVwcFRMVm8xQlFsTnQ4UXVkWFJmakUzS1lvaGZiQ25fVFFBNjVicUhFWlltNnhhNTFOZVZLQmdlUmtPR3hSU2hIbllGWEhWUFZQN202Nmg3clo1ck9rWWhBR2RkQlA1OWlXLVdEMXlrMk1BWDk4TVNGbHdUZ2ZRTmczTDlsWXF4SQ?oc=5",
       "image_url": "",
       "trend": "Marble & Quartz",
       "timestamp": 1774717200.0,
-      "summary": "Skip The Natural Stone: Jasmine Roth Has A Better Idea For Beautiful Countertops&nbsp;&nbsp;shopping.yahoo.com",
+      "summary": "Skip The Natural Stone: Jasmine Roth Has A Better Idea For Beautiful Countertops&nbsp;&nbsp;Yahoo",
       "query": "porcelain slab countertop news",
       "sentiment": "neutral",
       "priority": "low",
