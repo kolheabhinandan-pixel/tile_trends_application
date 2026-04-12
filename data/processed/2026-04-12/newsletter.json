@@ -1,0 +1,122 @@
+{
+  "date": "2026-04-12",
+  "title": "Tile Trends Newsletter - 2026-04-12",
+  "summary": "📊 Daily Tile Intelligence Report — 2026-04-12\n\nToday we tracked 8 tile trends from 4 sources across India and global markets.\n\n🇮🇳 India: 2 trends | 🌍 Global: 6 trends\n\n🔥 Top Category: Tile Design & Trends (2 mentions)\n\n📈 Key Highlights:\n• 4 unique data sources monitored\n• 0 categories trending up\n• 0 high-priority trends detected\n\nThis report covers the latest developments in tile design, manufacturing, market growth, and innovation from 50+ sources including Google News, industry RSS feeds, and company websites.",
+  "top_trends": [
+    {
+      "title": "Revamping Pool Design and Safety with Porcelain Solutions",
+      "source": "ArchDaily Tiles",
+      "region": "Global",
+      "link": "",
+      "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/67e5/7485/8da1/ef01/8749/5840/slideshow/revamping-pool-design-and-safety-with-porcelain-solutions_7.jpg?1743090931&format=webp&width=640&height=580",
+      "summary": "",
+      "trend": "Special Tiles",
+      "timestamp": 1775968018.1809864,
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/img_530868b524f3.jpg"
+    },
+    {
+      "title": "Faveker’s Tailor-Made Tiled Facade Brings Personality and Efficiency to the New Muskiz Secondary School",
+      "source": "ArchDaily Tiles",
+      "region": "Global",
+      "link": "",
+      "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/6904/6695/f582/e27b/7538/0f1f/slideshow/favekers-tailor-made-tiled-facade-brings-personality-and-efficiency-to-the-new-muskiz-secondary-school_14.jpg?1761896099&format=webp&width=640&height=580",
+      "summary": "",
+      "trend": "Elevation Tiles",
+      "timestamp": 1775968018.1800373,
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/img_20577af213ac.jpg"
+    },
+    {
+      "title": "Elements Texture tiles by Casalgrande Padana",
+      "source": "Dezeen Tiles RSS",
+      "region": "Global",
+      "link": "https://www.dezeen.com/2026/04/01/elements-texture-tiles-casalgrande-padana-dezeen-showroom/",
+      "image_url": "https://static.dezeen.com/uploads/2026/03/elements-texture-tiles-casalgrande-padana-design_dezeen_2364_sq-852x852.jpg",
+      "trend": "Tile Design & Trends",
+      "timestamp": 1775048444.0,
+      "summary": "Dezeen Showroom: Italian brand Casalgrande Padana aimed to bring new softness and depth to block-coloured tiles with its Elements Texture porcelain stoneware range. The Elements Texture tiles feature subtly cloudy matt surfaces in a choice of six neu",
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/img_54bc14e06a6c.jpg"
+    },
+    {
+      "title": "Elements Texture Canneté tile by Casalgrande Padana",
+      "source": "Dezeen Tiles RSS",
+      "region": "Global",
+      "link": "https://www.dezeen.com/2026/03/31/elements-texture-cannete-casalgrande-padana-dezeen-showroom/",
+      "image_url": "https://static.dezeen.com/uploads/2026/03/elements-texture-cannete-tile-casalgrande-padana-design_dezeen_2364_sq-852x852.jpg",
+      "trend": "New Collection Launch",
+      "timestamp": 1774962036.0,
+      "summary": "Dezeen Showroom: soft neutral colours meet a slatted, wood-inspired surface in the Elements Texture Canneté tile by Italian brand Casalgrande Padana. Part of the Elements collection of porcelain stoneware, the Texture tiles shape space through gentle",
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/img_7684135e24ce.jpg"
+    },
+    {
+      "title": "The Benefits of Extruded Tile Technology in Modern Architecture",
+      "source": "ArchDaily Tiles",
+      "region": "Global",
+      "link": "",
+      "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/684c/2f81/1dcf/f36a/c993/1f41/slideshow/the-benefits-of-extruded-tile-technology-in-modern-architecture_7.jpg?1749823424&format=webp&width=640&height=580",
+      "summary": "",
+      "trend": "Technology & Innovation",
+      "timestamp": 1775968018.1807125,
+      "sentiment": "positive",
+      "priority": "low",
+      "local_image": "images/img_4ced3b095e7c.jpg"
+    }
+  ],
+  "regional_insights": {
+    "India": {
+      "count": 2,
+      "top_category": "Tile Design & Trends",
+      "sources": [
+        "Orient Bell",
+        "Cera Sanitaryware"
+      ]
+    },
+    "Global": {
+      "count": 6,
+      "top_category": "Elevation Tiles",
+      "sources": [
+        "ArchDaily Tiles",
+        "Dezeen Tiles RSS"
+      ]
+    }
+  },
+  "kpis": {
+    "total_trends": 8,
+    "total_sources": 4,
+    "by_category": {
+      "Tile Design & Trends": 2,
+      "Bath Fittings": 1,
+      "Elevation Tiles": 1,
+      "Eco-Friendly & Sustainability": 1,
+      "Technology & Innovation": 1,
+      "Special Tiles": 1,
+      "New Collection Launch": 1
+    },
+    "by_region": {
+      "India": 2,
+      "Global": 6
+    },
+    "by_source": {
+      "Orient Bell": 1,
+      "Cera Sanitaryware": 1,
+      "ArchDaily Tiles": 4,
+      "Dezeen Tiles RSS": 2
+    },
+    "by_priority": {
+      "low": 4,
+      "medium": 4
+    },
+    "by_sentiment": {
+      "positive": 6,
+      "neutral": 2
+    },
+    "trending_up": []
+  }
+}
