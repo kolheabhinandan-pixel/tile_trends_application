@@ -2541,3 +2541,5 @@
 2026-05-01 05:06:58,106 - email_newsletter - INFO - ✅ Newsletter sent successfully to kolhe.abhinandan@hrjohnsonindia.com
 2026-05-02 04:40:07,783 - email_newsletter - INFO - Logo attached as CID inline image
 2026-05-02 04:40:08,834 - email_newsletter - ERROR - ❌ Failed to send email: (451, b'4.3.0 Mail server temporarily rejected message. For more information, go to\n4.3.0  https://support.google.com/a/answer/3221692 6a1803df08f44-8b5395c5b4csm46691306d6.16 - gsmtp')
+2026-05-03 04:59:07,205 - email_newsletter - INFO - Logo attached as CID inline image
+2026-05-03 04:59:09,077 - email_newsletter - INFO - ✅ Newsletter sent successfully to kolhe.abhinandan@hrjohnsonindia.com
