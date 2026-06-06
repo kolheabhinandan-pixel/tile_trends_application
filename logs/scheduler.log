@@ -2611,3 +2611,5 @@
 2026-06-04 06:17:20,996 - email_newsletter - ERROR - ❌ SMTP Authentication failed!
 2026-06-05 05:58:02,116 - email_newsletter - INFO - Logo attached as CID inline image
 2026-06-05 05:58:02,828 - email_newsletter - ERROR - ❌ SMTP Authentication failed!
+2026-06-06 05:13:38,557 - email_newsletter - INFO - Logo attached as CID inline image
+2026-06-06 05:13:39,195 - email_newsletter - ERROR - ❌ SMTP Authentication failed!
