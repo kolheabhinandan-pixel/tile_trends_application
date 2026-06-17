@@ -8,7 +8,7 @@
       "image_url": "https://www.orientbell.com/twitterLogo.jpg",
       "summary": "Orientbell is a leading tiles company in India with 48 years of trust, 2000+ stores and 4000+ tile designs with price. Try TriaLook 3D preview or shop tiles online today.",
       "trend": "Tile Design & Trends",
-      "timestamp": 1781678023.4837308,
+      "timestamp": 1781689187.3649807,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/img_c13d05f6507a.jpg"
@@ -26,20 +26,6 @@
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/tile_design_and_trends_4.jpg"
-    },
-    {
-      "title": "John Lennon Elevated His '60s Pool With Concrete Planters, Checkered Tiles, and Olive Trees – Now, His Technique is Trending For 2026 - Homes and Gardens",
-      "source": "Homes and Gardens",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObDZvZ2c2aFNWSFprQXdWVGszT0I1QUFxXzg3WjF1Wm4wUVpld2VBRmkzMEtQY2tXWVVhR1RJQy1qX0libUdIVDNUd2J3bGNxQ2xncU1TTnZvVUdzZFdseXd0cEdDYm9iajUzUlY5WUNGNU1CcDlzT3l3OF9Ra0ViSEh0OVBtUQ?oc=5",
-      "image_url": "",
-      "trend": "Tile Design & Trends",
-      "timestamp": 1781377200.0,
-      "summary": "John Lennon Elevated His '60s Pool With Concrete Planters, Checkered Tiles, and Olive Trees – Now, His Technique is Trending For 2026&nbsp;&nbsp;Homes and Gardens",
-      "query": "outdoor tiles patio design",
-      "sentiment": "positive",
-      "priority": "medium",
-      "local_image": "images/tile_design_and_trends_10.jpg"
     },
     {
       "title": "SOMANY TempShield Tiles Offer Smarter Cooling for Energy-Efficient Buildings - Realty Plus Magazine",
@@ -64,10 +50,10 @@
       "trend": "Tile Design & Trends",
       "timestamp": 1781236122.0,
       "summary": "Looking for expert pool tiling in Gold Coast? Call Avid Tiling&nbsp;&nbsp;Knoxville News Sentinel",
-      "query": "luxury tiles interior design",
+      "query": "swimming pool tile design",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/tile_design_and_trends_11.jpg"
+      "local_image": "images/tile_design_and_trends_9.jpg"
     },
     {
       "title": "SOMANY TempShield Tiles: A Smarter Way to Keep Buildings Cooler - SMEStreet",
@@ -94,20 +80,6 @@
       "summary": "The '60s tile trend that's making a big comeback in 2026&nbsp;&nbsp;MSN",
       "query": "terrazzo tiles trend interior",
       "sentiment": "neutral",
-      "priority": "medium",
-      "local_image": "images/tile_design_and_trends_7.jpg"
-    },
-    {
-      "title": "New bio- and waste-based tiles could cut embodied carbon by 94 percent - Building Design",
-      "source": "Building Design",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNW9zbmFUM1pKRDVGbzNfNWpkUjNNLXI4UlRFUG45MUxualF3Z3dPbVpaYW5teDBTVlNqQ2ZiM0F6ekxINnVrOTZCZTdhX3dhcnFoMjQwWGdILTF1TVBqMEk4Vk9wUDJMWjBSMGtOZmxDVHMyeWdOX2NXSUxRZ0lUdHYwRXhzS3l3cnVYQXV6MS00N01UZjJ4dkRDRk1hTXMwaGxEcUd2eWNjM29DekRFa01VTno5VWRwRFlEUm9yX3lZNF9WUWthZnJCb1ZSMXRKdTdFWFNBc2Y3QS14VmhkVQ?oc=5",
-      "image_url": "",
-      "trend": "Tile Design & Trends",
-      "timestamp": 1781074800.0,
-      "summary": "New bio- and waste-based tiles could cut embodied carbon by 94 percent&nbsp;&nbsp;Building Design",
-      "query": "tile manufacturing technology news",
-      "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/tile_design_and_trends_6.jpg"
     },
@@ -150,7 +122,7 @@
       "query": "handmade ceramic tile artisan",
       "sentiment": "positive",
       "priority": "low",
-      "local_image": "images/tile_design_and_trends_12.jpg"
+      "local_image": "images/tile_design_and_trends_8.jpg"
     },
     {
       "title": "Exxaro Tiles Ltd leads losers in 'B' group - Business Standard",
@@ -181,6 +153,20 @@
       "local_image": "images/tile_design_and_trends_3.jpg"
     },
     {
+      "title": "8 Steam Cleaners We Tested for Sparkling Oven Doors, Showers, Tile Floors, and More - The Spruce",
+      "source": "The Spruce",
+      "region": "Global",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nMktFWHl3VEc0MmxndGJNbmpUR1N6U1JpMWx6MjRaYnZiS0QwMGJpS2tLYmRQZnNBek00STNoejZZWTR5d1JnLUUtbDROUEpRT1N5MWE2U3FKekpia0NjNC1maw?oc=5",
+      "image_url": "",
+      "trend": "Tile Design & Trends",
+      "timestamp": 1781161200.0,
+      "summary": "8 Steam Cleaners We Tested for Sparkling Oven Doors, Showers, Tile Floors, and More&nbsp;&nbsp;The Spruce",
+      "query": "commercial kitchen tile",
+      "sentiment": "neutral",
+      "priority": "low",
+      "local_image": "images/tile_design_and_trends_10.jpg"
+    },
+    {
       "title": "Pasta-inspired decor is here! Think macaroni tiles and lasagna lighting - architecturaldigest.in",
       "source": "architecturaldigest.in",
       "region": "Global",
@@ -192,21 +178,7 @@
       "query": "mosaic tiles art design",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/tile_design_and_trends_9.jpg"
-    },
-    {
-      "title": "What Professional Cleaners Use to Remove Dirt and Stains From Tile and Grout Fast - The Spruce",
-      "source": "The Spruce",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcGVWQlg5bXpNb2Ftd3J2Z09Wd0pWeUx4NERsSHVKajQzSnlhZnhoVWxTdnN6eFFvcGw3dTlQT2kzVlgxN1FBX0ZVbDY2U2pQamo5bEJva2dPeEZUMWpzRFo5dHVNQ19jcVlXLW85VFpyNkxJSTgxblFSWGxyajhOSGpPVE9kT0E?oc=5",
-      "image_url": "",
-      "trend": "Tile Design & Trends",
-      "timestamp": 1781074800.0,
-      "summary": "What Professional Cleaners Use to Remove Dirt and Stains From Tile and Grout Fast&nbsp;&nbsp;The Spruce",
-      "query": "textured tiles interior design",
-      "sentiment": "neutral",
-      "priority": "low",
-      "local_image": "images/tile_design_and_trends_8.jpg"
+      "local_image": "images/tile_design_and_trends_7.jpg"
     }
   ],
   "Bath Fittings": [
@@ -246,7 +218,7 @@
       "image_url": "",
       "summary": "",
       "trend": "Bath Fittings",
-      "timestamp": 1781678026.8926408,
+      "timestamp": 1781689190.1567008,
       "sentiment": "neutral",
       "priority": "low",
       "local_image": "images/bath_fittings_0.jpg"
@@ -302,24 +274,10 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/6a04/81c2/fda2/da01/89bd/da21/slideshow/ceramics-forged-in-light-a-spatial-translation-of-circular-material-processes_1.jpg?1778680337&format=webp&width=640&height=580",
       "summary": "",
       "trend": "General Trend",
-      "timestamp": 1781678042.6517982,
+      "timestamp": 1781689207.4255872,
       "sentiment": "neutral",
       "priority": "medium",
       "local_image": "images/img_919d5341007c.jpg"
-    },
-    {
-      "title": "Fractal Analytics Gets 'BUY' Rating; Kajaria Ceramics Approves Buyback - Whalesbook",
-      "source": "Whalesbook",
-      "region": "India",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVzU0eDhnbHVDRFl4NnZnZFVzc3dBSlpkVDFwaGZfRWgxRDFOSWhYRnMxN283cTVQUUVBNkswY09PcmlFaTM4bjM3Y18xMDIweDR2N3ZZbElDNzl0TXlPZTNuUVR6WDVEb2ZkX2EtbkIyLTBRVXlyVzc2TDJBQkxBX1Jnd0NnNkl2am56V1o4VXN4bFhaYW5UNEZabXpVWTN3S3JtbHRBLWhvOEFQaWlsN3c3NVhUelQ0VkxTbGFDNlIxUWxKcXFtTjdtMHFYTEhNMFBhTWlwSnZxRWdoQnY2UE1XdDZxTkV1VXRtdjBLWDNHTzJOclBIUw?oc=5",
-      "image_url": "",
-      "trend": "General Trend",
-      "timestamp": 1781667870.0,
-      "summary": "Fractal Analytics Gets 'BUY' Rating; Kajaria Ceramics Approves Buyback&nbsp;&nbsp;Whalesbook",
-      "query": "Kajaria ceramics new collection",
-      "sentiment": "neutral",
-      "priority": "medium",
-      "local_image": "images/general_trend_3.jpg"
     },
     {
       "title": "Kajaria Ceramics Announces Buyback, Sona BLW Capex, Krishna Defence Order - Whalesbook",
@@ -336,6 +294,20 @@
       "local_image": "images/general_trend_2.jpg"
     },
     {
+      "title": "Stifel Says Mohawk’s Acquisition of Emil Ceramica Nearly Complete - FloorDaily.net",
+      "source": "FloorDaily.net",
+      "region": "Global",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUFPekVBZFdNakVWaU82WXRsLTVHY3FkTTg5WkxIMmZJYVZLZG9saVl5NWdZUXJVNndnX0RrNUhERnFya2tOdW1fMmo2QVpWbzNfWHZRcHBNOG1LdWVrRGs4andJNFZyRHZVTjUtSjBoLUNvRFhqRjFDdEJ3ZzRsUG5JWU1EMnpKRVRWSk1qUTBVLXN2eXVBWjd4dklCME9QWDNyTnF2V3JfMjNIN0xv?oc=5",
+      "image_url": "",
+      "trend": "General Trend",
+      "timestamp": 1781607893.0,
+      "summary": "Stifel Says Mohawk’s Acquisition of Emil Ceramica Nearly Complete&nbsp;&nbsp;FloorDaily.net",
+      "query": "Mohawk tile flooring news",
+      "sentiment": "neutral",
+      "priority": "medium",
+      "local_image": "images/general_trend_10.jpg"
+    },
+    {
       "title": "BG ‘artists’ asked to pick up paint brushes to create community mosaic for BG City Building - BG Independent News",
       "source": "BG Independent News",
       "region": "Global",
@@ -347,7 +319,7 @@
       "query": "mosaic tiles art design",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/general_trend_9.jpg"
+      "local_image": "images/general_trend_8.jpg"
     },
     {
       "title": "Morbi Ceramic Hub Restarts After Fuel Crisis - Whalesbook",
@@ -361,7 +333,7 @@
       "query": "vitrified tiles India market",
       "sentiment": "negative",
       "priority": "medium",
-      "local_image": "images/general_trend_6.jpg"
+      "local_image": "images/general_trend_5.jpg"
     },
     {
       "title": "From Mosaic Mondays to Sandy-Toed Sundays - OBA News",
@@ -373,20 +345,6 @@
       "timestamp": 1781517920.0,
       "summary": "From Mosaic Mondays to Sandy-Toed Sundays&nbsp;&nbsp;OBA News",
       "query": "mosaic tile art design news",
-      "sentiment": "positive",
-      "priority": "medium",
-      "local_image": "images/general_trend_13.jpg"
-    },
-    {
-      "title": "Kohler K-23525-BL Parallel 24\" Towel Bar | Ferguson Home - aviglianonews.it",
-      "source": "aviglianonews.it",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSEY1Z19XOWJBeXJzNXhPWjZEVVJ6ZENvdjQxWV9aam05aWdNY09ZaUtQQXdnWEwyRHBaRUFadFo1Wm9ZeEZGNW91b2NQczg2SlU5c3poYkdPZC1EYWpyQkYwUlQ1X3hJTUJJQ2tYSFhWZXFQNnhKTjVTZ3h1cTJFQ1FB?oc=5",
-      "image_url": "",
-      "trend": "General Trend",
-      "timestamp": 1781429166.0,
-      "summary": "Kohler K-23525-BL Parallel 24\" Towel Bar | Ferguson Home&nbsp;&nbsp;aviglianonews.it",
-      "query": "Kohler bathroom products news",
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/general_trend_12.jpg"
@@ -403,7 +361,7 @@
       "query": "Somany ceramics tiles news",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/general_trend_4.jpg"
+      "local_image": "images/general_trend_3.jpg"
     },
     {
       "title": "Small Talk: Ceramic artist Rhoda Kahler works with found objects - Daily Local",
@@ -417,7 +375,7 @@
       "query": "ceramic tile production news",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/general_trend_7.jpg"
+      "local_image": "images/general_trend_6.jpg"
     },
     {
       "title": "Villeroy & Boch announces two new appointments to its UK sales leadership team - KBBFocus",
@@ -445,7 +403,7 @@
       "query": "mosaic tiles art design",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/general_trend_8.jpg"
+      "local_image": "images/general_trend_7.jpg"
     },
     {
       "title": "Asian Granito approves NPR 3.47 Cr capital contribution in Nepovit - scanx.trade",
@@ -459,7 +417,7 @@
       "query": "Asian Granito India tiles",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/general_trend_5.jpg"
+      "local_image": "images/general_trend_4.jpg"
     },
     {
       "title": "Massive Tieton Mosaic project adds color and sparkle to Seattle-Tacoma airport - Yakima Herald-Republic",
@@ -473,7 +431,7 @@
       "query": "mosaic tiles art design",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/general_trend_10.jpg"
+      "local_image": "images/general_trend_9.jpg"
     }
   ],
   "Elevation Tiles": [
@@ -485,7 +443,7 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/6904/6695/f582/e27b/7538/0f1f/slideshow/favekers-tailor-made-tiled-facade-brings-personality-and-efficiency-to-the-new-muskiz-secondary-school_14.jpg?1761896099&format=webp&width=640&height=580",
       "summary": "",
       "trend": "Elevation Tiles",
-      "timestamp": 1781678042.6523743,
+      "timestamp": 1781689207.4261634,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/img_20577af213ac.jpg"
@@ -510,13 +468,13 @@
       "source": "ArchDaily Tiles",
       "region": "Global",
       "link": "",
-      "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/68a9/27a1/325f/9301/8cf9/900b/slideshow/reimagining-lisbons-azulejos-regenerative-biomaterial-tiles-from-the-tagus-river_1.jpg?1755916236&format=webp&width=640&height=580",
+      "image_url": "https://images.adsttc.com/media/images/68a9/27a1/325f/9301/8cf9/900b/newsletter/reimagining-lisbons-azulejos-regenerative-biomaterial-tiles-from-the-tagus-river_1.jpg?1755916236",
       "summary": "",
       "trend": "Eco-Friendly & Sustainability",
-      "timestamp": 1781678042.6526692,
+      "timestamp": 1781689207.4264648,
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/img_c52a5c72ebfd.jpg"
+      "local_image": "images/img_e77b59bd3635.jpg"
     }
   ],
   "Market & Industry News": [
@@ -532,7 +490,7 @@
       "query": "bath fittings India trends",
       "sentiment": "neutral",
       "priority": "high",
-      "local_image": "images/market_and_industry_news_19.jpg"
+      "local_image": "images/market_and_industry_news_20.jpg"
     },
     {
       "title": "Morbi PNG Demand Hits Record High; CNG Growth Remains Strong - Whalesbook",
@@ -546,7 +504,7 @@
       "query": "India tiles export news",
       "sentiment": "positive",
       "priority": "high",
-      "local_image": "images/market_and_industry_news_13.jpg"
+      "local_image": "images/market_and_industry_news_14.jpg"
     },
     {
       "title": "Morbi PNG Demand Ne TodDi Sabhi Record; CNG Bhi Zoron Par! - Whalesbook",
@@ -560,7 +518,21 @@
       "query": "morbi tiles Gujarat news",
       "sentiment": "positive",
       "priority": "high",
-      "local_image": "images/market_and_industry_news_17.jpg"
+      "local_image": "images/market_and_industry_news_18.jpg"
+    },
+    {
+      "title": "Kajaria Ceramics schedules investor meet on Jun 22-23 in Mumbai - scanx.trade",
+      "source": "scanx.trade",
+      "region": "India",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMXF5d180alExZjRSTzc0Q0tqWjNYUnhGZzRlR3hhTm1QNVkyejNnUklhZ1lZblpFYTFkTFVpc3dRaWN6ZjFZeEJ6aTlaU09uMEYwWDZNWWx6VjJjOXoxZnEwWnZvdnF1S0wzZHRkSGdIMnJibjEyX2JrR1BxOUFRSTVsV3R6SmZCNkpaVjMtT0dlbjEzTlg4NlRKa0dCZnRnUGhwZUhGUFh2OFBYLXByNnNqQzdfelFCUW94Mw?oc=5",
+      "image_url": "",
+      "trend": "Market & Industry News",
+      "timestamp": 1781685450.0,
+      "summary": "Kajaria Ceramics schedules investor meet on Jun 22-23 in Mumbai&nbsp;&nbsp;scanx.trade",
+      "query": "Kajaria ceramics new collection",
+      "sentiment": "neutral",
+      "priority": "medium",
+      "local_image": "images/market_and_industry_news_1.jpg"
     },
     {
       "title": "World Tile Sealant Epoxy - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
@@ -574,7 +546,7 @@
       "query": "India tiles import news",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_15.jpg"
+      "local_image": "images/market_and_industry_news_16.jpg"
     },
     {
       "title": "Kajaria Ceramics Ltd. Upgraded to Strong Buy on Robust Financials and Bullish Technicals - Markets Mojo",
@@ -588,7 +560,7 @@
       "query": "Kajaria ceramics new collection",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_3.jpg"
+      "local_image": "images/market_and_industry_news_4.jpg"
     },
     {
       "title": "World Lead-Free Colored Ceramic Frits - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
@@ -602,7 +574,7 @@
       "query": "India tiles export news",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_12.jpg"
+      "local_image": "images/market_and_industry_news_13.jpg"
     },
     {
       "title": "Exxaro Tiles Ltd Valuation Shifts Signal Renewed Price Attractiveness Amid Market Challenges - Markets Mojo",
@@ -616,7 +588,7 @@
       "query": "Orient Bell tiles news",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_8.jpg"
+      "local_image": "images/market_and_industry_news_9.jpg"
     },
     {
       "title": "Morbi's ceramic Kilns blaze again as fuel supply crisis eases - The Economic Times",
@@ -630,7 +602,7 @@
       "query": "ceramic tiles India industry news",
       "sentiment": "negative",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_11.jpg"
+      "local_image": "images/market_and_industry_news_12.jpg"
     },
     {
       "title": "Rigid Luxury Vinyl Tile (Lvt) Market Analysis By Application, - openPR.com",
@@ -658,7 +630,7 @@
       "query": "Somany ceramics tiles news",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_4.jpg"
+      "local_image": "images/market_and_industry_news_5.jpg"
     },
     {
       "title": "World Reusable Surface Insulation Tiles - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
@@ -672,7 +644,7 @@
       "query": "ceramic tiles global market news",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_21.jpg"
+      "local_image": "images/market_and_industry_news_22.jpg"
     },
     {
       "title": "1 in 5 Indian tile plants may shut due to West Asia war: Somany CEO | 'Production to rise, but it'll be consolidated' | Inshorts - Inshorts",
@@ -686,7 +658,7 @@
       "query": "Somany ceramics tiles news",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_5.jpg"
+      "local_image": "images/market_and_industry_news_6.jpg"
     },
     {
       "title": "One in five tile plants may shut as gas prices drive industry consolidation: Somany Ceramics CEO Abhishek | Interview - MSN",
@@ -700,7 +672,7 @@
       "query": "Somany tiles new launch",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_7.jpg"
+      "local_image": "images/market_and_industry_news_8.jpg"
     },
     {
       "title": "One in five tile plants may shut as gas prices drive industry consolidation: Somany Ceramics CEO Abhishek - land2capital.com",
@@ -714,7 +686,7 @@
       "query": "morbi ceramic cluster news",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_18.jpg"
+      "local_image": "images/market_and_industry_news_19.jpg"
     },
     {
       "title": "One in five tile plants may shut as gas prices drive industry consolidation: Somany Ceramics CEO Abhishek | Interview - Mint",
@@ -742,7 +714,7 @@
       "query": "RAK Ceramics India tiles",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_10.jpg"
+      "local_image": "images/market_and_industry_news_11.jpg"
     },
     {
       "title": "Sudarshan Stoneix Kishangarhs All Kind of Indian And Imported Marble, Granite Stone at Factory Price - The Tribune",
@@ -756,7 +728,7 @@
       "query": "India tiles import news",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_14.jpg"
+      "local_image": "images/market_and_industry_news_15.jpg"
     },
     {
       "title": "Kajaria Ceramics Ltd. Upgraded to Buy on Strong Financial and Technical Improvements - Markets Mojo",
@@ -770,7 +742,7 @@
       "query": "Kajaria ceramics new collection",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_2.jpg"
+      "local_image": "images/market_and_industry_news_3.jpg"
     },
     {
       "title": "Silica Flour Market Forecast Points Higher Toward 2035 Driven by Solar Glass and Ceramics Expansion - IndexBox",
@@ -784,7 +756,7 @@
       "query": "tile market growth forecast",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_22.jpg"
+      "local_image": "images/market_and_industry_news_23.jpg"
     },
     {
       "title": "Ceramic & Porcelain Stock (EGS3C111C019): valuation focus on a thin news day - AD HOC NEWS",
@@ -798,7 +770,7 @@
       "query": "global ceramic tile industry",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_24.jpg"
+      "local_image": "images/market_and_industry_news_25.jpg"
     },
     {
       "title": "Golden Cross Confirmed: Do Somany Ceramics Ltd's Other Technical Indicators Agree? - Markets Mojo",
@@ -812,7 +784,7 @@
       "query": "Somany ceramics tiles news",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_6.jpg"
+      "local_image": "images/market_and_industry_news_7.jpg"
     },
     {
       "title": "Kajaria Ceramics Ltd. Downgraded to Sell Amidst Deteriorating Technicals and Fair Valuation - Markets Mojo",
@@ -826,7 +798,7 @@
       "query": "Kajaria ceramics new collection",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_1.jpg"
+      "local_image": "images/market_and_industry_news_2.jpg"
     },
     {
       "title": "Ege Seramik Sanayi stock (TRAEGSER91D2): tiles producer in focus after recent trading and corporate - AD HOC NEWS",
@@ -840,7 +812,7 @@
       "query": "global ceramic tile industry",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_23.jpg"
+      "local_image": "images/market_and_industry_news_24.jpg"
     },
     {
       "title": "World Ceramics - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
@@ -854,34 +826,19 @@
       "query": "RAK Ceramics India tiles",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_9.jpg"
+      "local_image": "images/market_and_industry_news_10.jpg"
     },
     {
-      "title": "Reflecting On Business Services & Supplies Stocks’ Q1 Earnings: Interface (NASDAQ:TILE) - StockStory",
-      "source": "StockStory",
+      "title": "Mosaic Tiles Market Forecast 2026-2035: Growth Driven by Urbanization and Renovation Trends - News and Statistics - IndexBox",
+      "source": "GNews Ceramic Tiles",
       "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVmtCQmpYbmZXVlJEV2xGY3ZId0lHSFlINFktUWRmaHJrOTZCemtmbkZpZmtPejNWeWh5WEZqUVRTZ3k2UHhPaGU4bVZfbDlHMHdpcUVEazVReTZiQ25neG9ENVdfelp3bTRqSUpjT2xBUmFGRTJiYVI4ajRaZFRBRjlldkk4Qk0xLTBjSm0tVUFublZwN3FCQ3E0NERPVDNIRnh4cm9GMWlNajg0dU1CeXhuN25mR0x1Tm51NzR4ZWNfOXB4VDA3STZrSHJ6MVNyZWhKTTZNdE5Edm8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQnNGQXZQSDdWdnVMOHItaFFhOFRNd1F5OFpQeE9PMTRCS2ZIY0VKQUFRR0c0Rkp1QWw5WUp5UE10VGpCSGsyRmxrQnhGdlM5bkpkZ3JXUDhONU1tSGlfcTdobzF0dFRyaWUwc1ZlNUpDLXlOLU01SXNLcm81S0ZURi0zZFN1ekJMTkVlOXJMc2F3MkVUYmRQSmphU01oXzIzOFhLV0lLV2Z0ZG9HZmNaOWlDd2NWNzRKSWZHNnhSSGFHTm5tVnJsc1EzOEZ4bWthaTJMSHJwalhyYjlTOTBZ?oc=5",
       "image_url": "",
       "trend": "Market & Industry News",
-      "timestamp": 1781518690.0,
-      "summary": "Reflecting On Business Services & Supplies Stocks’ Q1 Earnings: Interface (NASDAQ:TILE)&nbsp;&nbsp;StockStory",
-      "query": "tile industry news today",
-      "sentiment": "neutral",
-      "priority": "low",
-      "local_image": "images/market_and_industry_news_20.jpg"
-    },
-    {
-      "title": "Temple built from six million reused tiles wins Brick Award 2026 - Dezeen",
-      "source": "Dezeen",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4X3lCMGV3S19ycnFXMGNZVjMwX3RXMEptcjg0U1c3cEpCTnJEdzF5TVlLbEdsdVlPSlcycHlxSUlNQ0MzZ3Nva29tT2xqTDZCTThyV3FmRnpBcDNQN2JsT2xqQ3EyX3dxZFMwZw?oc=5",
-      "image_url": "",
-      "trend": "Market & Industry News",
-      "timestamp": 1781506800.0,
-      "summary": "Temple built from six million reused tiles wins Brick Award 2026&nbsp;&nbsp;Dezeen",
-      "query": "Marazzi tiles new collection",
+      "timestamp": 1780776078.0,
+      "summary": "Mosaic Tiles Market Forecast 2026-2035: Growth Driven by Urbanization and Renovation Trends - News and Statistics&nbsp;&nbsp;IndexBox",
       "sentiment": "positive",
-      "priority": "low",
+      "priority": "medium",
       "local_image": "images/market_and_industry_news_28.jpg"
     },
     {
@@ -893,10 +850,10 @@
       "trend": "Market & Industry News",
       "timestamp": 1781494320.0,
       "summary": "Reflecting On Business Services & Supplies Stocks’ Q1 Earnings: Interface (NASDAQ:TILE)&nbsp;&nbsp;TradingView",
-      "query": "tile industry trends 2026",
+      "query": "tile industry news today",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/market_and_industry_news_25.jpg"
+      "local_image": "images/market_and_industry_news_21.jpg"
     },
     {
       "title": "Tiles Workshop LLC Announces July 2026 Turkish Lamp Studio Opening in Maryland-Virginia-Washington DC Region - USA Today",
@@ -924,10 +881,24 @@
       "query": "morbi tiles Gujarat news",
       "sentiment": "positive",
       "priority": "low",
-      "local_image": "images/market_and_industry_news_16.jpg"
+      "local_image": "images/market_and_industry_news_17.jpg"
     }
   ],
   "Sanitaryware": [
+    {
+      "title": "Sanitary Ware Is Redefining Modern Living Through Hygiene, Design, and Smart Innovation - vocal.media",
+      "source": "vocal.media",
+      "region": "India",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTdoY1F3U2RjVWRFOUxBOUo1MjJrRU4xRVZHTF9UVjlvbzcwbl8yN3JnTGNXX1lMMHMxMm9CS1VXLXpWLTVXSTRkTXEyYW5PM0h5M0IwcFV6aXpkQThVSzVyWkp1NFNGYzBKRkV4SEFsT1A1RVdYZEJnbFBQTHpIZFpKYW5kUlBQSEhlUWJILWw3YTExOEVZTG5UUXJ3Y2NLLWdRVHNUalVFaGVL?oc=5",
+      "image_url": "",
+      "trend": "Sanitaryware",
+      "timestamp": 1781678706.0,
+      "summary": "Sanitary Ware Is Redefining Modern Living Through Hygiene, Design, and Smart Innovation&nbsp;&nbsp;vocal.media",
+      "query": "sanitaryware India market news",
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/sanitaryware_3.jpg"
+    },
     {
       "title": "Can Cera Sanitaryware’s growth recovery continue? - Mint",
       "source": "Mint",
@@ -982,7 +953,7 @@
       "query": "Kohler bathroom products news",
       "sentiment": "positive",
       "priority": "low",
-      "local_image": "images/sanitaryware_3.jpg"
+      "local_image": "images/sanitaryware_4.jpg"
     }
   ],
   "New Collection Launch": [
@@ -1215,10 +1186,10 @@
       "title": "Accessories Bolster the Sale - Floor Covering Weekly",
       "source": "Floor Covering Weekly",
       "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN0lkS3FUREFqcnFKcGdVRDVWTG1wSTB5X3NXOXcySlBJaWJsbkxYY0VKUmo3Z3VlamxYOUt3MVZQN05iQkRUeDNfV3VxZ2RkVzFFVFNVME96R2g2OHcxVVgzOVVyanc1Tng1OVNLTFhoZWhCVTJacmthUW85Ul9YQ1hQTWlxYkhNeG5Z?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSU9QcnpBbEl3b29pWWQzSUlZNG5aSGpKYmpZcHJYWW9XSjd1Y0dTbk9TaW5VdWdsYlZLaXB5a3ZaXzBqdEhuT0RvSmhzanA5WFN0NWlkNEQxa0NLVjFkQlZWY19FNzl6UC1kWGJYVEFUWlFlUzlseFZmTy1hakNsRUg0R2pkWlhsOFhXTzJJUThVLU9TeTctbHk1QQ?oc=5",
       "image_url": "",
       "trend": "Floor Tiles",
-      "timestamp": 1781202049.0,
+      "timestamp": 1781205057.0,
       "summary": "Accessories Bolster the Sale&nbsp;&nbsp;Floor Covering Weekly",
       "query": "retail store tile flooring",
       "sentiment": "neutral",
@@ -1287,20 +1258,6 @@
   ],
   "Wood Look": [
     {
-      "title": "Floor & Decor Introduces NatureMatch, a New Private Label Line Bringing Authentic Stone and Wood-Look Materials to Any Space - Finviz",
-      "source": "Finviz",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN1hXTkt4Mm1uZ3haX1RaWk9admtOWlJkdVJ2dEw2SkhlYUxldVI2aEFzaDZWTkZpNGUwN0pGcWNBLWNTYlJTVnBoYTlfaThMVmJJNW9kNk1Hc25kREpTTHVnUXY0VEVNdUJpb1NIZ2JmOHZIY2dSVzlaUzBVZHMyTVNXOFpjTEdoWlQyRFBqTUFudVdoNjEyc0pqUVVIQTZoTjYwTGdFVF9sV0Z4TDNUekFmM2toQTEteG1YWENrX3UyTUdmcGFxcDdkeHF0ZmpmYTRrNkwzd0JvRTEyYXYweVZ6QnlKbWc?oc=5",
-      "image_url": "",
-      "trend": "Wood Look",
-      "timestamp": 1781098518.0,
-      "summary": "Floor & Decor Introduces NatureMatch, a New Private Label Line Bringing Authentic Stone and Wood-Look Materials to Any Space&nbsp;&nbsp;Finviz",
-      "query": "retail store tile flooring",
-      "sentiment": "positive",
-      "priority": "medium",
-      "local_image": "images/wood_look_1.jpg"
-    },
-    {
       "title": "Floor & Decor Introduces NatureMatch™, a New Private Label Line Bringing Authentic Stone and Wood-Look Materials to Any Space - Barchart.com",
       "source": "Barchart.com",
       "region": "Global",
@@ -1313,6 +1270,22 @@
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/wood_look_0.jpg"
+    }
+  ],
+  "Terrace & Outdoor Tiles": [
+    {
+      "title": "Surprisingly versatile, Hornbach’s Planked Wood Terrace tiles up the patio game - AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "region": "Global",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT2drOHZocmExRVhtNzFqRFF1VHczZ2V6MW5LOEI4NnZFeFNqaG8wSGRlRVlKMTlubVdZTGMwSGZfVDl5NkhoVm5Hd18wYkhQVkNUUVNMT3l4TUFSRV9pcGVscWxhZXVheDAtc2xKOHZLRENFeC1YT0o5Q1VLZTNBNVRsVURJbHVScHAwbnI3RGE3TmFHcWkwNnRzRU1HOTR4OWZFQmJaLUx1NnFGOHRVeE5EWGZOQVE5M3ZhX3pyZjRBbHpo?oc=5",
+      "image_url": "",
+      "trend": "Terrace & Outdoor Tiles",
+      "timestamp": 1781564909.0,
+      "summary": "Surprisingly versatile, Hornbach’s Planked Wood Terrace tiles up the patio game&nbsp;&nbsp;AD HOC NEWS",
+      "query": "outdoor tiles patio design",
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/terrace_and_outdoor_tiles_0.jpg"
     }
   ],
   "3D & Textured Tiles": [
@@ -1331,49 +1304,6 @@
       "local_image": "images/3d_and_textured_tiles_0.jpg"
     }
   ],
-  "Technology & Innovation": [
-    {
-      "title": "The UJI Altadia Chair in Ceramic Knowledge enhances scientific knowledge and knowledge transfer with the publication of the first volume of the \"Encyclopaedia of Ceramic Technology\" - EurekAlert!",
-      "source": "GNews Ceramic Tiles",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCR3JBUW5qQTZUOUsxbXBLUU9pNDYtZDdNR0hPeDROeEVOT0I5NlB5Q1ZsNFdsbFVqNjBsZGlwNDY2UTdHaGhEUlR5bm8yQ0dvUW5tQTRuRUx4b1Bn?oc=5",
-      "image_url": "",
-      "trend": "Technology & Innovation",
-      "timestamp": 1780470000.0,
-      "summary": "The UJI Altadia Chair in Ceramic Knowledge enhances scientific knowledge and knowledge transfer with the publication of the first volume of the \"Encyclopaedia of Ceramic Technology\"&nbsp;&nbsp;EurekAlert!",
-      "sentiment": "neutral",
-      "priority": "high",
-      "local_image": "images/technology_and_innovation_2.jpg"
-    },
-    {
-      "title": "Introducing the KOHLER WasteLAB DemiLav: A Handcrafted Expression of Material Innovation and Design - PR Newswire",
-      "source": "PR Newswire",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUVZvd1lJSEJDUjFJUEh6SnhKZzJRdzczRnlWT1RIYWlOUGx6ZjY1YkRPS2FiTUExeTFSMVo0d1UySUpibHhETTU0RzFrZ0lVcjh1QXNYSGZmbTYxV0lZclJiMjUwMXBySVZSZkFqanlkOWx2ck8xaVd3VGhoWC1UWFUxMDBwQ1JQeHBIQnFJV1h3a1RGYlp6bEJVOTRyZE95MVkxcHJEdkVybnpHdmFkdWdRNGhHVGwzWm5IelRqWXB6ek9hZUUtSEF1bVhpX3cyV1Y4WG5BbjBzM2x1eTVSYTNya1VxdGZRRWc?oc=5",
-      "image_url": "",
-      "trend": "Technology & Innovation",
-      "timestamp": 1781611380.0,
-      "summary": "Introducing the KOHLER WasteLAB DemiLav: A Handcrafted Expression of Material Innovation and Design&nbsp;&nbsp;PR Newswire",
-      "query": "Kohler bathroom products news",
-      "sentiment": "positive",
-      "priority": "medium",
-      "local_image": "images/technology_and_innovation_1.jpg"
-    },
-    {
-      "title": "GROHE to exhibit latest innovations at InstallerSHOW 2026 - KBBFocus",
-      "source": "KBBFocus",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeVo0TDIxV1dJUFE2Vm5RaXl4cm5ORmRyRkRkbEhFdEV2WTJJTjlxeEhQM1NsZVZNSFp5NnhZZlg2MFhURENSX0tzVzgxcGRrY1o5MWU5cUFfcWVFaHN4Qk45SXhKX20tS2ZoSEdBbDJzZktuYXA3dmlndTh6aHR4MEdDQkp6emtJQUdtT2x4WlRjQQ?oc=5",
-      "image_url": "",
-      "trend": "Technology & Innovation",
-      "timestamp": 1781176757.0,
-      "summary": "GROHE to exhibit latest innovations at InstallerSHOW 2026&nbsp;&nbsp;KBBFocus",
-      "query": "tile exhibition 2026 news",
-      "sentiment": "positive",
-      "priority": "medium",
-      "local_image": "images/technology_and_innovation_0.jpg"
-    }
-  ],
   "Exhibition & Events": [
     {
       "title": "Silver yo-yos, bacteria tiles and a floating exhibition: What to see at Copenhagen's biggest design event - Homes To Love",
@@ -1388,6 +1318,50 @@
       "sentiment": "positive",
       "priority": "high",
       "local_image": "images/exhibition_and_events_0.jpg"
+    }
+  ],
+  "Technology & Innovation": [
+    {
+      "title": "The UJI Altadia Chair in Ceramic Knowledge enhances scientific knowledge and knowledge transfer with the publication of the first volume of the \"Encyclopaedia of Ceramic Technology\" - EurekAlert!",
+      "source": "GNews Ceramic Tiles",
+      "region": "Global",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCR3JBUW5qQTZUOUsxbXBLUU9pNDYtZDdNR0hPeDROeEVOT0I5NlB5Q1ZsNFdsbFVqNjBsZGlwNDY2UTdHaGhEUlR5bm8yQ0dvUW5tQTRuRUx4b1Bn?oc=5",
+      "image_url": "",
+      "trend": "Technology & Innovation",
+      "timestamp": 1780470000.0,
+      "summary": "The UJI Altadia Chair in Ceramic Knowledge enhances scientific knowledge and knowledge transfer with the publication of the first volume of the \"Encyclopaedia of Ceramic Technology\"&nbsp;&nbsp;EurekAlert!",
+      "sentiment": "neutral",
+      "priority": "high",
+      "local_image": "images/technology_and_innovation_1.jpg"
+    },
+    {
+      "title": "Introducing the KOHLER WasteLAB DemiLav: A Handcrafted Expression of Material Innovation and Design - PR Newswire",
+      "source": "PR Newswire",
+      "region": "Global",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUVZvd1lJSEJDUjFJUEh6SnhKZzJRdzczRnlWT1RIYWlOUGx6ZjY1YkRPS2FiTUExeTFSMVo0d1UySUpibHhETTU0RzFrZ0lVcjh1QXNYSGZmbTYxV0lZclJiMjUwMXBySVZSZkFqanlkOWx2ck8xaVd3VGhoWC1UWFUxMDBwQ1JQeHBIQnFJV1h3a1RGYlp6bEJVOTRyZE95MVkxcHJEdkVybnpHdmFkdWdRNGhHVGwzWm5IelRqWXB6ek9hZUUtSEF1bVhpX3cyV1Y4WG5BbjBzM2x1eTVSYTNya1VxdGZRRWc?oc=5",
+      "image_url": "",
+      "trend": "Technology & Innovation",
+      "timestamp": 1781611380.0,
+      "summary": "Introducing the KOHLER WasteLAB DemiLav: A Handcrafted Expression of Material Innovation and Design&nbsp;&nbsp;PR Newswire",
+      "query": "Kohler bathroom products news",
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/technology_and_innovation_0.jpg"
+    }
+  ],
+  "Ceramic Tiles": [
+    {
+      "title": "Ceramic Tiles Market Size, Share, Growth, Analysis, Report, 2034 - Straits Research",
+      "source": "GNews Ceramic Tiles",
+      "region": "Global",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2QkJqQnpOY3ZNRTBOTXJ5dzFOc3pSSnVqYktabkpaSEJEd2s0VWZ3akN2aGZOTUE1MU5FNjhwcnpEQjJlNHY0QUpqdHYwRWZwSzVfVGh1RkNveHVMUzVpWnltX2tSdw?oc=5",
+      "image_url": "",
+      "trend": "Ceramic Tiles",
+      "timestamp": 1780470000.0,
+      "summary": "Ceramic Tiles Market Size, Share, Growth, Analysis, Report, 2034&nbsp;&nbsp;Straits Research",
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/ceramic_tiles_0.jpg"
     }
   ]
 }
