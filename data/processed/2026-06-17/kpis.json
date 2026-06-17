@@ -1,28 +1,27 @@
 {
-  "total_trends": 96,
-  "total_sources": 55,
+  "total_trends": 99,
+  "total_sources": 59,
   "by_category": {
     "Tile Design & Trends": 13,
     "Bath Fittings": 4,
-    "General Trend": 14,
+    "General Trend": 16,
     "Elevation Tiles": 1,
     "Eco-Friendly & Sustainability": 2,
-    "Market & Industry News": 29,
-    "Sanitaryware": 5,
-    "New Collection Launch": 6,
-    "Floor Tiles": 12,
+    "Market & Industry News": 28,
+    "Sanitaryware": 6,
+    "New Collection Launch": 7,
+    "Floor Tiles": 13,
     "Terrazzo": 1,
     "Marble & Quartz": 2,
     "Wood Look": 1,
     "Terrace & Outdoor Tiles": 1,
     "3D & Textured Tiles": 1,
     "Exhibition & Events": 1,
-    "Technology & Innovation": 2,
-    "Ceramic Tiles": 1
+    "Technology & Innovation": 2
   },
   "by_region": {
-    "India": 40,
-    "Global": 56
+    "India": 42,
+    "Global": 57
   },
   "by_source": {
     "Orient Bell": 1,
@@ -45,11 +44,15 @@
     "The Tribune": 1,
     "land2capital.com": 1,
     "Construction World": 1,
+    "Indian Chemical News": 1,
+    "Careers360": 1,
     "vocal.media": 2,
     "openPR.com": 3,
-    "Floor Covering News": 5,
+    "Floor Covering News": 6,
     "Tom's Hardware": 1,
     "TradingView": 1,
+    "Wccftech": 1,
+    "simplywall.st": 1,
     "Barchart.com": 2,
     "Statista": 1,
     "AD HOC NEWS": 3,
@@ -78,17 +81,17 @@
     "The Spruce": 1,
     "Dezeen Tiles RSS": 3,
     "Dezeen Bathrooms RSS": 1,
-    "GNews Ceramic Tiles": 3,
+    "GNews Ceramic Tiles": 1,
     "GNews Tile Design": 1
   },
   "by_priority": {
-    "medium": 64,
-    "low": 22,
+    "medium": 66,
+    "low": 23,
     "high": 10
   },
   "by_sentiment": {
-    "positive": 45,
-    "neutral": 49,
+    "positive": 46,
+    "neutral": 51,
     "negative": 2
   },
   "trending_up": [
