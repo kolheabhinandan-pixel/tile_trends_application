@@ -1,25 +1,25 @@
 {
-  "total_trends": 75,
-  "total_sources": 52,
+  "total_trends": 76,
+  "total_sources": 53,
   "by_category": {
-    "Tile Design & Trends": 12,
+    "Tile Design & Trends": 14,
     "Bath Fittings": 1,
     "General Trend": 16,
     "Elevation Tiles": 1,
     "Eco-Friendly & Sustainability": 3,
-    "Market & Industry News": 16,
-    "Sanitaryware": 6,
+    "Market & Industry News": 17,
+    "Sanitaryware": 5,
     "New Collection Launch": 6,
-    "Kitchen Tiles": 3,
     "Floor Tiles": 6,
+    "Kitchen Tiles": 2,
     "Exhibition & Events": 2,
     "Technology & Innovation": 1,
     "Large Format Tiles": 1,
     "Special Tiles": 1
   },
   "by_region": {
-    "India": 32,
-    "Global": 43
+    "India": 31,
+    "Global": 45
   },
   "by_source": {
     "Orient Bell": 1,
@@ -28,9 +28,9 @@
     "AD HOC NEWS": 3,
     "Whalesbook": 3,
     "scanx.trade": 3,
-    "MarketsMojo": 5,
+    "MarketsMojo": 3,
     "TipRanks": 1,
-    "Mint": 2,
+    "Mint": 3,
     "IndexBox": 4,
     "Business Standard": 1,
     "The Economic Times": 1,
@@ -39,9 +39,8 @@
     "Passionate In Marketing": 1,
     "SugerMint": 1,
     "Realty Plus Magazine": 1,
-    "Construction World": 1,
+    "Construction World": 2,
     "The Times of India": 1,
-    "MSN": 1,
     "Kitchen & Bath Design News": 1,
     "Floor Covering Weekly": 2,
     "Yahoo Finance": 1,
@@ -50,6 +49,7 @@
     "Floor Covering News": 4,
     "Barchart": 1,
     "The Baltic Times": 1,
+    "simplywall.st": 1,
     "Manufacturing Management": 1,
     "Livingetc": 3,
     "Designboom": 1,
@@ -73,15 +73,16 @@
     "Dwell": 1,
     "Trend Hunter": 1,
     "TwistedSifter": 1,
+    "GNews Tile Design": 1,
     "GNews India Tiles": 1
   },
   "by_priority": {
     "medium": 47,
-    "low": 19,
+    "low": 20,
     "high": 9
   },
   "by_sentiment": {
-    "positive": 40,
+    "positive": 41,
     "neutral": 33,
     "negative": 2
   },
@@ -92,7 +93,6 @@
     "Market & Industry News",
     "Sanitaryware",
     "New Collection Launch",
-    "Kitchen Tiles",
     "Floor Tiles"
   ]
 }
