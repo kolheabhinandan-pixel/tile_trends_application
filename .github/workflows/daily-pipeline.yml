@@ -41,4 +41,5 @@ jobs:
           git config --global user.email "kolhe.abhinandan@hrjohnsonindia.com"
           git add .
           git commit -m "Daily automated update" || echo "No changes"
+          git pull --rebase origin main
           git push
