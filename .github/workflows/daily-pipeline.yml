@@ -35,11 +35,13 @@ jobs:
       - name: Run Scheduler
         run: python scheduler.py --email-only
 
-      - name: Commit Changes
+     - name: Commit Changes
         run: |
           git config --global user.name "kolheabhinandan-pixel"
           git config --global user.email "kolhe.abhinandan@hrjohnsonindia.com"
-          git add .
-          git commit -m "Daily automated update" || echo "No changes"
-          git pull --rebase origin main
-          git push
+          git fetch origin main
+          git reset --soft origin/main
+          git add -A
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Daily automated update"
+          git push origin main
