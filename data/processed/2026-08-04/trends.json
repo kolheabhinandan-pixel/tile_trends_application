@@ -22,7 +22,7 @@
       "image_url": "https://images.orientbell.com/media/Homepage-Cat-Slider/Super Gloss Jeriba Quartzite Blue - 1200x1800.jpg",
       "summary": "",
       "trend": "Large Format Tiles",
-      "timestamp": 1785818416.4871836,
+      "timestamp": 1785826045.6936707,
       "sentiment": "negative",
       "priority": "medium",
       "local_image": "images/img_006364dc87db.jpg"
@@ -35,7 +35,7 @@
       "image_url": "https://images.orientbell.com/media/Homepage-Cat-Slider/PGVT Endless Statuario Marble - 1200x1800.jpg",
       "summary": "",
       "trend": "Large Format Tiles",
-      "timestamp": 1785818416.4869094,
+      "timestamp": 1785826045.6934965,
       "sentiment": "neutral",
       "priority": "medium",
       "local_image": "images/img_8370d0c302d1.jpg"
@@ -48,7 +48,7 @@
       "image_url": "https://images.orientbell.com/media/Homepage-Cat-Slider/Carving Sofita Marble Beige - 800x1600.jpg",
       "summary": "",
       "trend": "Large Format Tiles",
-      "timestamp": 1785818416.4863212,
+      "timestamp": 1785826045.6931424,
       "sentiment": "neutral",
       "priority": "medium",
       "local_image": "images/img_3d952e004ee4.jpg"
@@ -61,7 +61,7 @@
       "image_url": "https://images.orientbell.com/media/Homepage-Cat-Slider/PGVT ONYX PEARL - 800x1600.jpg",
       "summary": "",
       "trend": "Large Format Tiles",
-      "timestamp": 1785818416.4861813,
+      "timestamp": 1785826045.6930487,
       "sentiment": "neutral",
       "priority": "low",
       "local_image": "images/img_5154499a0623.jpg"
@@ -74,7 +74,7 @@
       "image_url": "https://images.orientbell.com/media/Homepage-Cat-Slider/PGVT Calacatta Bellissimo Marmi - 800x1600.jpg",
       "summary": "",
       "trend": "Large Format Tiles",
-      "timestamp": 1785818416.4860342,
+      "timestamp": 1785826045.692943,
       "sentiment": "neutral",
       "priority": "low",
       "local_image": "images/img_561f93ee2fc3.jpg"
@@ -82,14 +82,14 @@
   ],
   "Bath Fittings": [
     {
-      "title": "GROHE puts personalisation at the heart of shower design with Grohtherm Aqua Tiles - hoteldesigns.net",
-      "source": "hoteldesigns.net",
+      "title": "GROHE puts personalisation at the heart of shower design with Grohtherm Aqua Tiles - Hotel Designs",
+      "source": "Hotel Designs",
       "region": "Global",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcTRvRWUxZFR3R3hrczNyV1NjcGRPMDZKYlhBT0dLNG1zV2c1cHdENkdRU2ljenBoTUVRMmpaWWprRnFsZ1k2NTZJT2Jmemlab0FMbTRUTmZxaDZ3ZU50MHNyaXFUV3BOWm9lb1JmXzVjZndWaWJ0bERvYngxalNNaWhRb0N2T0ZvNWhQakVVZFFOd1F1c05fVGdKV1hOVFBkbTdUb1IwUGJOM1FOOGVDX0ZZSkxBYi1GbWQxYw?oc=5",
       "image_url": "",
       "trend": "Bath Fittings",
       "timestamp": 1785421381.0,
-      "summary": "GROHE puts personalisation at the heart of shower design with Grohtherm Aqua Tiles&nbsp;&nbsp;hoteldesigns.net",
+      "summary": "GROHE puts personalisation at the heart of shower design with Grohtherm Aqua Tiles&nbsp;&nbsp;Hotel Designs",
       "query": "spa bathroom tile luxury",
       "sentiment": "positive",
       "priority": "medium",
@@ -103,7 +103,7 @@
       "image_url": "",
       "summary": "",
       "trend": "Bath Fittings",
-      "timestamp": 1785818418.9416997,
+      "timestamp": 1785826048.1094987,
       "sentiment": "neutral",
       "priority": "low",
       "local_image": "images/bath_fittings_0.jpg"
@@ -118,10 +118,24 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/6a04/81c2/fda2/da01/89bd/da21/slideshow/ceramics-forged-in-light-a-spatial-translation-of-circular-material-processes_1.jpg?1778680337&format=webp&width=640&height=580",
       "summary": "",
       "trend": "General Trend",
-      "timestamp": 1785818436.3701682,
+      "timestamp": 1785826063.7959259,
       "sentiment": "neutral",
       "priority": "medium",
       "local_image": "images/img_919d5341007c.jpg"
+    },
+    {
+      "title": "RAK Ceramics' Leonardo De Muro on the Roberto Cavalli licensing tie-up and its luxury pivot - Gulf Business",
+      "source": "Gulf Business",
+      "region": "India",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWZXeXFUTW5DZW9ndmQzb3FNSlZhRjVSSllMNDZWdndGNTZ3T3FDTzR1LWxiRjdGQ0JQVGc1NTBtSlREMEJQLXNjYV9sazBQMmRmQVg5QUpWT2RBYmhqVzlEbjBHUHMwZHAtZmx0WUZfTWZTMUlkTTR0RUMwcW5JMjhtMDgxV1FhMEdLT3FzOE1WWFRIeFNNZllqS2lZQi1XdnB0TmRkSzNPa1hxUmFLbHB3?oc=5",
+      "image_url": "",
+      "trend": "General Trend",
+      "timestamp": 1785819910.0,
+      "summary": "RAK Ceramics' Leonardo De Muro on the Roberto Cavalli licensing tie-up and its luxury pivot&nbsp;&nbsp;Gulf Business",
+      "query": "RAK Ceramics India tiles",
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/general_trend_6.jpg"
     },
     {
       "title": "Kajaria Ceramics Profit Rises 56% As Price Hikes Aid Margins - Whalesbook",
@@ -152,18 +166,18 @@
       "local_image": "images/general_trend_3.jpg"
     },
     {
-      "title": "RAK Ceramics Recognised With Platinum Impact Seal By UAE National CSR Fund, Majra - menafn.com",
-      "source": "menafn.com",
+      "title": "RAK Ceramics Recognised With Platinum Impact Seal By UAE National CSR Fund, Majra - Menafn",
+      "source": "Menafn",
       "region": "India",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2dBX19FOGozVVlHbXU3ZlFxb2hDZ1lzSDdyT09Dekt0aUtHMnVGUS03NEw4a29NREd0NFJjUk5wZmZlUWt5alFVeHpNdnRVRGktUTFQMXF0MVNKUExnV3JLR1ZSZ3NIZHA5MUFyQXB2QjJIZTRxUEowN0tfdUlnWEdvdnMweG9Jek5MT0RPN1JhTk9zZFlMLVdmWHN4V3ZEUGh2QzVmNGI0ci1Kdm1B?oc=5",
       "image_url": "",
       "trend": "General Trend",
       "timestamp": 1785497449.0,
-      "summary": "RAK Ceramics Recognised With Platinum Impact Seal By UAE National CSR Fund, Majra&nbsp;&nbsp;menafn.com",
+      "summary": "RAK Ceramics Recognised With Platinum Impact Seal By UAE National CSR Fund, Majra&nbsp;&nbsp;Menafn",
       "query": "RAK Ceramics tiles new design",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/general_trend_8.jpg"
+      "local_image": "images/general_trend_10.jpg"
     },
     {
       "title": "Geberit AquaClean @Historic Hotel Palais Chotek, Vienna - THP News",
@@ -177,7 +191,7 @@
       "query": "spa bathroom tile luxury",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/general_trend_11.jpg"
+      "local_image": "images/general_trend_13.jpg"
     },
     {
       "title": "Kajaria Ceramics: नफ्यात तब्बल **56%** वाढ, कंपनीने केली मोठी घोषणा! - Whalesbook",
@@ -208,18 +222,32 @@
       "local_image": "images/general_trend_1.jpg"
     },
     {
-      "title": "RAK Ceramics recognised with Platinum Impact Seal by UAE National CSR Fund, Majra - Zawya",
-      "source": "Zawya",
+      "title": "RAK Ceramics recognised with Platinum Impact Seal by UAE National CSR Fund, Majra - zawya.com",
+      "source": "zawya.com",
       "region": "India",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd1ByTkJUeWw3eDRjY3pEQlpkWnBIMHFENzNvb0tfTkJCN1BBUlpVU1hCcFZsNDk3dHl1NElnUUhCbUtLV1RtZVljRks1ZGY0QVZfMjZzbzA3SWNkZEhFc1JFbXc4ajdxSUUtYTczbVVHYzkySkZGLUJjQnlIT3RydVJkdEx1VnE3X19xaF91d28zQnduR3JXeTJ6cnVNdlRkMF9uc2RDOUMtbDlTZk8tLXpZQ1RrU3NCc2xZMEJ0dWV4d1FJemVXMnM0NUZNS2NTb1d4czhCa0g?oc=5",
       "image_url": "",
       "trend": "General Trend",
       "timestamp": 1785488280.0,
-      "summary": "RAK Ceramics recognised with Platinum Impact Seal by UAE National CSR Fund, Majra&nbsp;&nbsp;Zawya",
+      "summary": "RAK Ceramics recognised with Platinum Impact Seal by UAE National CSR Fund, Majra&nbsp;&nbsp;zawya.com",
       "query": "RAK Ceramics India tiles",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/general_trend_6.jpg"
+      "local_image": "images/general_trend_7.jpg"
+    },
+    {
+      "title": "RAK Ceramics recognised with Platinum Impact Seal by UAE National CSR Fund, Majra - Zawya",
+      "source": "Zawya",
+      "region": "Global",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd1ByTkJUeWw3eDRjY3pEQlpkWnBIMHFENzNvb0tfTkJCN1BBUlpVU1hCcFZsNDk3dHl1NElnUUhCbUtLV1RtZVljRks1ZGY0QVZfMjZzbzA3SWNkZEhFc1JFbXc4ajdxSUUtYTczbVVHYzkySkZGLUJjQnlIT3RydVJkdEx1VnE3X19xaF91d28zQnduR3JXeTJ6cnVNdlRkMF9uc2RDOUMtbDlTZk8tLXpZQ1RrU3NCc2xZMEJ0dWV4d1FJemVXMnM0NUZNS2NTb1d4czhCa0g?oc=5",
+      "image_url": "",
+      "trend": "General Trend",
+      "timestamp": 1785488280.0,
+      "summary": "RAK Ceramics recognised with Platinum Impact Seal by UAE National CSR Fund, Majra&nbsp;&nbsp;Zawya",
+      "query": "sanitaryware global market news",
+      "sentiment": "neutral",
+      "priority": "medium",
+      "local_image": "images/general_trend_9.jpg"
     },
     {
       "title": "Orient Bell admits filing delay for Sameer Kamboj's exit - scanx.trade",
@@ -261,7 +289,7 @@
       "query": "textured tiles interior design",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/general_trend_7.jpg"
+      "local_image": "images/general_trend_8.jpg"
     },
     {
       "title": "French farmhouse renovation in Provence: expert tips for success - The Connexion",
@@ -275,7 +303,7 @@
       "query": "zellige tile moroccan design",
       "sentiment": "positive",
       "priority": "low",
-      "local_image": "images/general_trend_10.jpg"
+      "local_image": "images/general_trend_12.jpg"
     },
     {
       "title": "Mosaic seating project to come to Shippy Park in Pulaski - WLUK",
@@ -289,7 +317,7 @@
       "query": "mosaic tile art design news",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/general_trend_9.jpg"
+      "local_image": "images/general_trend_11.jpg"
     }
   ],
   "Elevation Tiles": [
@@ -301,7 +329,7 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/6904/6695/f582/e27b/7538/0f1f/slideshow/favekers-tailor-made-tiled-facade-brings-personality-and-efficiency-to-the-new-muskiz-secondary-school_14.jpg?1761896099&format=webp&width=640&height=580",
       "summary": "",
       "trend": "Elevation Tiles",
-      "timestamp": 1785818436.370878,
+      "timestamp": 1785826063.7964962,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/img_20577af213ac.jpg"
@@ -316,7 +344,7 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/68a9/27a1/325f/9301/8cf9/900b/slideshow/reimagining-lisbons-azulejos-regenerative-biomaterial-tiles-from-the-tagus-river_1.jpg?1755916236&format=webp&width=640&height=580",
       "summary": "",
       "trend": "Eco-Friendly & Sustainability",
-      "timestamp": 1785818436.3712187,
+      "timestamp": 1785826063.7967875,
       "sentiment": "neutral",
       "priority": "low",
       "local_image": "images/img_c52a5c72ebfd.jpg"
@@ -338,6 +366,20 @@
   ],
   "Market & Industry News": [
     {
+      "title": "NITCO Promoter Group Stake Rises To ~24% As Vivek Talwar Completes ₹216 Crore Warrant Conversion. - tripurastarnews.com",
+      "source": "tripurastarnews.com",
+      "region": "India",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSkVDZU9rWHNDMW16bFA1b0x5R1ZPUWhTZ2pVOFJjdlBUblJoNk1mTzZSVXVTRDQzblh5OWZISG1mWGJVb0gtbkh6X1hMTjhiUEhTaTVkM09qYnQxTEQ3MmdBUmlaT1Eya2lsZkV2aENJZ19DUWF5dzZWV2Y3d0ZLaWxWVkxmeHF0alFfOFdKc0ZlR1QxdVBsTmx0VF9xYUQ1UG8yYWFlX2Nzay1udk1pV01Ta254Z1ZDWno2bE5KZVJDaFg0RUxFTnBvRnR5ZXBP?oc=5",
+      "image_url": "",
+      "trend": "Market & Industry News",
+      "timestamp": 1785821800.0,
+      "summary": "NITCO Promoter Group Stake Rises To ~24% As Vivek Talwar Completes ₹216 Crore Warrant Conversion.&nbsp;&nbsp;tripurastarnews.com",
+      "query": "NITCO tiles India news",
+      "sentiment": "positive",
+      "priority": "high",
+      "local_image": "images/market_and_industry_news_12.jpg"
+    },
+    {
       "title": "Exxaro Tiles Standalone June 2026 Net Sales at Rs 73.79 crore, up 16.85% Y-o-Y - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "region": "India",
@@ -349,7 +391,7 @@
       "query": "Exxaro tiles India news",
       "sentiment": "neutral",
       "priority": "high",
-      "local_image": "images/market_and_industry_news_11.jpg"
+      "local_image": "images/market_and_industry_news_14.jpg"
     },
     {
       "title": "Exxaro Tiles Consolidated June 2026 Net Sales at Rs 85.22 crore, up 31.26% Y-o-Y - Moneycontrol.com",
@@ -363,7 +405,7 @@
       "query": "Exxaro tiles India news",
       "sentiment": "neutral",
       "priority": "high",
-      "local_image": "images/market_and_industry_news_12.jpg"
+      "local_image": "images/market_and_industry_news_15.jpg"
     },
     {
       "title": "Prism Johnson Buys Additional 8.5% Stake In Samini Ceramics For ₹15.31 Crore - Sahi",
@@ -388,10 +430,10 @@
       "trend": "Market & Industry News",
       "timestamp": 1785497595.0,
       "summary": "Kajaria Ceramics’ net profit rises 55% to ₹171 crore in Q1 FY27&nbsp;&nbsp;ET Realty",
-      "query": "Kajaria tiles latest news",
+      "query": "Kajaria ceramics new collection",
       "sentiment": "neutral",
       "priority": "high",
-      "local_image": "images/market_and_industry_news_1.jpg"
+      "local_image": "images/market_and_industry_news_8.jpg"
     },
     {
       "title": "Kajaria Ceramics Reports 56% YoY PAT Growth in Q1 FY27; Approves Rs 165 Crore Capacity Expansion - Dalal Street Investment Journal",
@@ -405,7 +447,7 @@
       "query": "Kajaria ceramics new collection",
       "sentiment": "positive",
       "priority": "high",
-      "local_image": "images/market_and_industry_news_9.jpg"
+      "local_image": "images/market_and_industry_news_10.jpg"
     },
     {
       "title": "Kajaria Ceramics Q1 FY27 Profit Surges 56% to Rs 155 Crore; Expands Capacity - Whalesbook",
@@ -419,7 +461,21 @@
       "query": "Kajaria tiles latest news",
       "sentiment": "positive",
       "priority": "high",
-      "local_image": "images/market_and_industry_news_3.jpg"
+      "local_image": "images/market_and_industry_news_2.jpg"
+    },
+    {
+      "title": "Earnings Beat: Kajaria Ceramics Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - simplywall.st",
+      "source": "simplywall.st",
+      "region": "India",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRFA5RzRaUkx5OU54bUdMa0tjRVZMUmc4Y1hIcTN4UVVrcHEtLUd2M0h4SDdzMkkxbEhwTjF4UlVkV1YtOGpjUXAwQjROS19zZTR4NXpoVGowOWptRXNHMWdiU3VGeXJ1UTZvMlNTQ3FfX3I1TEFqY25YOC1iZUxuMHJNcWRXYkNGV3ExY0FaX1pHb2tBRktya1FzcE9ENzB1eFVOOWFGTmxhVEUzOHVuMzZmak40TktmYlkybzZzelpwU21XOG5pMV9UUlFfVXcwQUtVdFJtWW1tY3pBckN6dWxrbXR6VUVaYnfSAeoBQVVfeXFMUERQOUc0WlJMeTlOeG1HTGtLY0VWTFJnOGNYSHEzeFFVa3BxLS1HdjNIeEg3czJJMWxIcE4xeFJVZFdWLThqY1FwMEI0Tktfc2U0eDV6aFRqMDlqbUVzRzFnYlN1RnlydVE2bzJTU0NxX19yNUxBamNuWDgtYmVMbjByTXFkV2JDRldxMWNBWl9aR29rQUZLcmtRc3BPRDcwdXhVTjlhRk5sYVRFMzh1bjM2ZmpONE5LZmJZMm82c3pacFNtVzhuaTFfVFJRX1V3MEFLVXRSbVltbWN6QXJDenVsa210elVFWmJ3?oc=5",
+      "image_url": "",
+      "trend": "Market & Industry News",
+      "timestamp": 1785817497.0,
+      "summary": "Earnings Beat: Kajaria Ceramics Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models&nbsp;&nbsp;simplywall.st",
+      "query": "Kajaria tiles latest news",
+      "sentiment": "neutral",
+      "priority": "medium",
+      "local_image": "images/market_and_industry_news_1.jpg"
     },
     {
       "title": "Kotak Securities Outlook: Kajaria Ceramics and Vedanta Aluminium Growth Targets - Whalesbook",
@@ -433,7 +489,7 @@
       "query": "Kajaria tiles latest news",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_4.jpg"
+      "local_image": "images/market_and_industry_news_3.jpg"
     },
     {
       "title": "Strong Housing Demand Helps India’s Tile and Marble Industry Weather West Asia Supply-Chain Disruptions - news.brgbuildingsolutions.com",
@@ -444,10 +500,10 @@
       "trend": "Market & Industry News",
       "timestamp": 1785787312.0,
       "summary": "Strong Housing Demand Helps India’s Tile and Marble Industry Weather West Asia Supply-Chain Disruptions&nbsp;&nbsp;news.brgbuildingsolutions.com",
-      "query": "ceramic tiles India industry news",
+      "query": "tile manufacturing India news",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_15.jpg"
+      "local_image": "images/market_and_industry_news_19.jpg"
     },
     {
       "title": "Kajaria Ceramics Q4 Results: Conference call audio uploaded for investors - scanx.trade",
@@ -461,7 +517,35 @@
       "query": "Indian ceramic industry news",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_19.jpg"
+      "local_image": "images/market_and_industry_news_22.jpg"
+    },
+    {
+      "title": "Zirconia Opacifier Market Asia-Pacific Ceramic Glaze Demand Fuels Expansion to 2035 - News and Statistics - IndexBox",
+      "source": "IndexBox",
+      "region": "India",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnFLRmNBbURkWE9lSWNDd2xmUjI1NGlTZGRkYkoyT2FLUmloZ3p5MUdDZ3RKUXVtSHpyTUhod29yNkxTM0N4aVZwSlMzTXdHQTVrY0dQb3lvSnk1Z0UzUENXVEJrS20zZ2ZMX09TRWdtZ19FSzRCQXRVU2ctckkwbVByTGUyTTd5ODdWclZpdXhHOG1jRWo0RWVaQS0xdGRXT1NuVjJoeFNVU1hLdHJ0bXZrNWZWNlFudlNn?oc=5",
+      "image_url": "",
+      "trend": "Market & Industry News",
+      "timestamp": 1785712277.0,
+      "summary": "Zirconia Opacifier Market Asia-Pacific Ceramic Glaze Demand Fuels Expansion to 2035 - News and Statistics&nbsp;&nbsp;IndexBox",
+      "query": "RAK Ceramics India tiles",
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/market_and_industry_news_13.jpg"
+    },
+    {
+      "title": "Rutile Powder Market Outlook to 2035 - IndexBox",
+      "source": "IndexBox",
+      "region": "India",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2M3NEWExFTmppeUs1NXBSYUMxY09UVFVISnRKUDgyYTVyTy1OaTlnMzRpbUdWcXZjZHFMdUJISU5xVm1hT3pUV05qWGZBamRGUDdIdXRIajQ0TWlJa3ZpQ2RwajNmZ3YtUGVndGVtR1lqdEUw?oc=5",
+      "image_url": "",
+      "trend": "Market & Industry News",
+      "timestamp": 1785705675.0,
+      "summary": "Rutile Powder Market Outlook to 2035&nbsp;&nbsp;IndexBox",
+      "query": "tile manufacturing India news",
+      "sentiment": "neutral",
+      "priority": "medium",
+      "local_image": "images/market_and_industry_news_20.jpg"
     },
     {
       "title": "Kajaria Ceramics targets ₹1,000 cr EBITDA, double-digit volume growth in FY27 - scanx.trade",
@@ -475,7 +559,7 @@
       "query": "Kajaria ceramics tiles new launch 2026",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_22.jpg"
+      "local_image": "images/market_and_industry_news_25.jpg"
     },
     {
       "title": "Edgestream Partners L.P. Makes New Investment in Interface, Inc. $TILE - MarketBeat",
@@ -489,7 +573,7 @@
       "query": "tile market growth forecast",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_21.jpg"
+      "local_image": "images/market_and_industry_news_24.jpg"
     },
     {
       "title": "A Cultural Journey into the Origins of Spain’s Ceramics Industry - Canadian Architect",
@@ -503,7 +587,7 @@
       "query": "ceramic tiles India industry news",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_14.jpg"
+      "local_image": "images/market_and_industry_news_17.jpg"
     },
     {
       "title": "Kajaria Ceramics Q1 FY27 slides: 20% revenue growth, margins hit 19.6% - Investing.com",
@@ -517,7 +601,7 @@
       "query": "ceramic tiles India industry news",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_13.jpg"
+      "local_image": "images/market_and_industry_news_16.jpg"
     },
     {
       "title": "Earnings call transcript: Kajaria Ceramics posts strong Q1 FY 2027 growth - Investing.com",
@@ -542,10 +626,10 @@
       "trend": "Market & Industry News",
       "timestamp": 1785492057.0,
       "summary": "Kajaria Ceramics Q1 Profit Jumps 55%, Revenue Rises To Rs 1,328 Cr&nbsp;&nbsp;BW Businessworld",
-      "query": "Kajaria tiles latest news",
+      "query": "Kajaria ceramics new collection",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_2.jpg"
+      "local_image": "images/market_and_industry_news_11.jpg"
     },
     {
       "title": "Kajaria Ceramics Q1 Consolidated Net Profit Rises To 1.69B Rupees As Revenue Touches 13B - Sahi",
@@ -573,7 +657,7 @@
       "query": "Kajaria ceramics tiles new launch 2026",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_23.jpg"
+      "local_image": "images/market_and_industry_news_26.jpg"
     },
     {
       "title": "Kajaria Ceramics Q1FY26 net profit rises 55% to ₹171cr on demand - scanx.trade",
@@ -587,7 +671,7 @@
       "query": "Kajaria ceramics tiles new launch 2026",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_24.jpg"
+      "local_image": "images/market_and_industry_news_27.jpg"
     },
     {
       "title": "Kajaria Ceramics Q1 FY27: Revenue up 20% to ₹1328 Cr - InvestyWise",
@@ -601,7 +685,21 @@
       "query": "floor tiles India design",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_20.jpg"
+      "local_image": "images/market_and_industry_news_23.jpg"
+    },
+    {
+      "title": "Kajaria Ceramics: Q1 '27 ਵਿੱਚ ਮੁਨਾਫਾ **56%** ਵਧਿਆ, **₹155** ਕਰੋੜ ਪਾਰ; ਸਮਰੱਥਾ ਵਧਾਉਣ ਦਾ ਐਲਾਨ - Whalesbook",
+      "source": "Whalesbook",
+      "region": "India",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQc1NGcEx0UWo1b3FfYVlqWHB1Qm9veGpvX3pzOGFDNlpIV205NWRaZzZNS2k4UzBmWWk0VGFORnNEbTNPdXk2MVBYc3VmT0h3ajBWcDU3dUM4aFpBb19fay00YVFVNFFBN3VVbUZVazRvZVBaSzFiZWpLTFZxSDhVczNmZTJVOEdlSjV2c0thOG1HaTktRlhfT2U0eTlQZU9ra2JfVlVFMkpIRkpxekQ1YUp4Z2l4OWI4a0h5Q1Z4YXZwbDRmSndyWmV3emQ5b25tLTY5Y0h1aUg2MHhlV0gxak9PVGpwLXRNWW02RFFCei1felU2YXhQUmNIUlRQbTVyb1hySGZyUFRaT2ZNT3c?oc=5",
+      "image_url": "",
+      "trend": "Market & Industry News",
+      "timestamp": 1785488798.0,
+      "summary": "Kajaria Ceramics: Q1 '27 ਵਿੱਚ ਮੁਨਾਫਾ **56%** ਵਧਿਆ, **₹155** ਕਰੋੜ ਪਾਰ; ਸਮਰੱਥਾ ਵਧਾਉਣ ਦਾ ਐਲਾਨ&nbsp;&nbsp;Whalesbook",
+      "query": "Kajaria tiles latest news",
+      "sentiment": "neutral",
+      "priority": "medium",
+      "local_image": "images/market_and_industry_news_5.jpg"
     },
     {
       "title": "Kajaria Ceramics Q1 FY27: कंपनीचा प्रॉफिट **55%** वाढला, रेव्हेन्यू **20%** ने भक्कम - Whalesbook",
@@ -615,7 +713,7 @@
       "query": "Kajaria tiles latest news",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_5.jpg"
+      "local_image": "images/market_and_industry_news_4.jpg"
     },
     {
       "title": "Kajaria Ceramics announces Q1 results and facility expansion - Business Upturn",
@@ -629,7 +727,7 @@
       "query": "vitrified tiles India market",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_16.jpg"
+      "local_image": "images/market_and_industry_news_18.jpg"
     },
     {
       "title": "Kajaria Ceramics accepts resignation of CHRO Ashish Goel effective July 27 - scanx.trade",
@@ -643,21 +741,7 @@
       "query": "Kajaria ceramics new collection",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_8.jpg"
-    },
-    {
-      "title": "Ashish Goel Resigns As Kajaria Ceramics CHRO After Five-Month Tenure - BW People",
-      "source": "BW People",
-      "region": "India",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ001RWl1bjF0RG9Gdzc0WHZ5S1c5VmFFdEQ5RkhDUVUxWVlGZTNRcnpUVmxZTGhzREUtT2NEZk5KakgtclZoYzFKYUZQV3AyX1FiQXN0Sll4MFBraTdhNHUwbkh5ZlhEOEVZTlQtWXJFeUJCdGx4UXdOM1J0Y1N6VGtKUEtQTXllc1hjUi1CelR0SmxnaHEzQjQyd3JkaEFrXzBwYWtXbkkzM2s?oc=5",
-      "image_url": "",
-      "trend": "Market & Industry News",
-      "timestamp": 1785230263.0,
-      "summary": "Ashish Goel Resigns As Kajaria Ceramics CHRO After Five-Month Tenure&nbsp;&nbsp;BW People",
-      "query": "Kajaria ceramics new collection",
-      "sentiment": "neutral",
-      "priority": "medium",
-      "local_image": "images/market_and_industry_news_10.jpg"
+      "local_image": "images/market_and_industry_news_9.jpg"
     },
     {
       "title": "Recycled Plastic Roofing Tiles Market Structure, Emerging Trends, And Leading Player Insights - openPR.com",
@@ -671,21 +755,7 @@
       "query": "India construction tiles demand",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/market_and_industry_news_18.jpg"
-    },
-    {
-      "title": "Housing Boom Keeps India's Tiles Industry Steady Amid West Asia Supply Disruptions - Realty Plus Magazine",
-      "source": "Realty Plus Magazine",
-      "region": "India",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMWRZSm52aVRRTjhYSHhrT0tXSFNRLXJ2dUZ3YlZNYm1rYnR4QUNUVnJwam9jamY2WVFQa2VWbUE2UTVIdFd0TGNIYVctWmhEY19LalVSUU9xMmtXLXdSSXhhV3gtV29jNlJkcWU0ejJjQ1dHcXF0ZGpBbXpKMFhCVVFKUmtlYXdyZzZKVnR2ejN1YXdPZFhYSUxwbFhSRGZldU9jNXNGN2tnOXBRc0ZERDNBekJPQ1U0MUFxV0tSS3RwLXVCWEJjSi1nYVhJWXZRMGFPNXhDSW5VYk0?oc=5",
-      "image_url": "",
-      "trend": "Market & Industry News",
-      "timestamp": 1785221179.0,
-      "summary": "Housing Boom Keeps India's Tiles Industry Steady Amid West Asia Supply Disruptions&nbsp;&nbsp;Realty Plus Magazine",
-      "query": "tile manufacturing India news",
-      "sentiment": "neutral",
-      "priority": "low",
-      "local_image": "images/market_and_industry_news_17.jpg"
+      "local_image": "images/market_and_industry_news_21.jpg"
     }
   ],
   "Tile Design & Trends": [
@@ -714,7 +784,7 @@
       "summary": "Porcelain Stoneware Tiles - Atelier / Casalgrande Padana&nbsp;&nbsp;ArchDaily",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/tile_design_and_trends_10.jpg"
+      "local_image": "images/tile_design_and_trends_9.jpg"
     },
     {
       "title": "Your Floor Just Became a Canvas Thanks to This Delightfully Whimsical Tile Trend - Better Homes & Gardens",
@@ -727,7 +797,7 @@
       "summary": "Your Floor Just Became a Canvas Thanks to This Delightfully Whimsical Tile Trend&nbsp;&nbsp;Better Homes & Gardens",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/tile_design_and_trends_9.jpg"
+      "local_image": "images/tile_design_and_trends_8.jpg"
     },
     {
       "title": "Interface's Surge Doesn't Necessitate A Downgrade Yet (NASDAQ:TILE) - Seeking Alpha",
@@ -783,7 +853,7 @@
       "query": "mosaic tile art design news",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/tile_design_and_trends_8.jpg"
+      "local_image": "images/tile_design_and_trends_7.jpg"
     },
     {
       "title": "Wood Is So Last Year—The Coolest Bathroom Baseboards Are Tile - domino.com",
@@ -797,7 +867,7 @@
       "query": "bathroom tile design trends",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/tile_design_and_trends_7.jpg"
+      "local_image": "images/tile_design_and_trends_6.jpg"
     },
     {
       "title": "Top 5 Premium Tile Companies in India for Commercial and Residential Space - The Hans India",
@@ -814,32 +884,18 @@
       "local_image": "images/tile_design_and_trends_0.jpg"
     },
     {
-      "title": "Premium Tile Companies in India for Luxury Homes (2026): Product and Brand Overview - tribuneindia.com",
-      "source": "tribuneindia.com",
+      "title": "Premium Tile Companies in India for Luxury Homes (2026): Product and Brand Overview - The Tribune",
+      "source": "The Tribune",
       "region": "India",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWnFZd0tKSjRHX3Y3M1NNZWMwX0xNV00xRUNqTnpmR2RkOTg0dXpoWkJIZFRRcThMQU1fekJ4S0hqRDFvOVFpeENDU1RPZFgzS3p1U3QyMmtsM2Q4Z1NvMEVaQlBHWmgwRVhFTWNYTmF0cUNwWldtcl9ZcVRXMXNZU2JaMnBmVU5qc09MNjBROEtxOExLSTJ4SDlubXJwY21NS1ZjamRSRk80Q3dVb2JiMldyemtJa3Fqczdjakluc3pjbml6VjNMTA?oc=5",
       "image_url": "",
       "trend": "Tile Design & Trends",
       "timestamp": 1785263725.0,
-      "summary": "Premium Tile Companies in India for Luxury Homes (2026): Product and Brand Overview&nbsp;&nbsp;tribuneindia.com",
+      "summary": "Premium Tile Companies in India for Luxury Homes (2026): Product and Brand Overview&nbsp;&nbsp;The Tribune",
       "query": "Asian Granito India tiles",
       "sentiment": "positive",
       "priority": "low",
       "local_image": "images/tile_design_and_trends_1.jpg"
-    },
-    {
-      "title": "Premium Tile Companies in India for Luxury Homes (2026): Product and Brand Overview - The Tribune",
-      "source": "The Tribune",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWnFZd0tKSjRHX3Y3M1NNZWMwX0xNV00xRUNqTnpmR2RkOTg0dXpoWkJIZFRRcThMQU1fekJ4S0hqRDFvOVFpeENDU1RPZFgzS3p1U3QyMmtsM2Q4Z1NvMEVaQlBHWmgwRVhFTWNYTmF0cUNwWldtcl9ZcVRXMXNZU2JaMnBmVU5qc09MNjBROEtxOExLSTJ4SDlubXJwY21NS1ZjamRSRk80Q3dVb2JiMldyemtJa3Fqczdjakluc3pjbml6VjNMTA?oc=5",
-      "image_url": "",
-      "trend": "Tile Design & Trends",
-      "timestamp": 1785263725.0,
-      "summary": "Premium Tile Companies in India for Luxury Homes (2026): Product and Brand Overview&nbsp;&nbsp;The Tribune",
-      "query": "large format tiles design trend",
-      "sentiment": "positive",
-      "priority": "low",
-      "local_image": "images/tile_design_and_trends_6.jpg"
     }
   ],
   "Ceramic Tiles": [
