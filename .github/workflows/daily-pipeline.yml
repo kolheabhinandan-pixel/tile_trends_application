@@ -1,41 +1,31 @@
 name: Daily Tile Trends Pipeline
-
 on:
   schedule:
     - cron: '30 1 * * *'
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Setup Python
         uses: actions/setup-python@v6
         with:
           python-version: '3.10'
-
       - name: Install Dependencies
         run: pip install -r requirements.txt
-
       - name: Run Bootstrap
         run: python bootstrap.py
-
       - name: Run Daily Pipeline
         run: python daily_pipeline.py
-
       - name: Run Scheduler
         run: python scheduler.py --email-only
-
-     - name: Commit Changes
+      - name: Commit Changes
         run: |
           git config --global user.name "kolheabhinandan-pixel"
           git config --global user.email "kolhe.abhinandan@hrjohnsonindia.com"
