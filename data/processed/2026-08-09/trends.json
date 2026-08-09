@@ -1,0 +1,77 @@
+{
+  "Tile Design & Trends": [
+    {
+      "title": "Best Tiles Company in India - Leading Tile Brand | Orientbell Tiles",
+      "source": "Orient Bell",
+      "region": "India",
+      "link": "https://www.orientbell.com/",
+      "image_url": "https://www.orientbell.com/twitterLogo.jpg",
+      "summary": "Orientbell is a leading tiles company in India with 48 years of trust, 2000+ stores and 4000+ tile designs with price. Try TriaLook 3D preview or shop tiles online today.",
+      "trend": "Tile Design & Trends",
+      "timestamp": 1786245529.2649097,
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/img_c13d05f6507a.jpg"
+    }
+  ],
+  "Bath Fittings": [
+    {
+      "title": "Faucets & Showers",
+      "source": "Cera Sanitaryware",
+      "region": "India",
+      "link": "https://www.cera-india.com/",
+      "image_url": "",
+      "summary": "",
+      "trend": "Bath Fittings",
+      "timestamp": 1786245531.740294,
+      "sentiment": "neutral",
+      "priority": "low",
+      "local_image": "images/bath_fittings_0.jpg"
+    }
+  ],
+  "General Trend": [
+    {
+      "title": "Ceramics Forged in Light: A Spatial Translation of Circular Material Processes",
+      "source": "ArchDaily Tiles",
+      "region": "Global",
+      "link": "",
+      "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/6a04/81c2/fda2/da01/89bd/da21/slideshow/ceramics-forged-in-light-a-spatial-translation-of-circular-material-processes_1.jpg?1778680337&format=webp&width=640&height=580",
+      "summary": "",
+      "trend": "General Trend",
+      "timestamp": 1786245549.198783,
+      "sentiment": "neutral",
+      "priority": "medium",
+      "local_image": "images/img_919d5341007c.jpg"
+    }
+  ],
+  "Elevation Tiles": [
+    {
+      "title": "Faveker’s Tailor-Made Tiled Facade Brings Personality and Efficiency to the New Muskiz Secondary School",
+      "source": "ArchDaily Tiles",
+      "region": "Global",
+      "link": "",
+      "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/6904/6695/f582/e27b/7538/0f1f/slideshow/favekers-tailor-made-tiled-facade-brings-personality-and-efficiency-to-the-new-muskiz-secondary-school_14.jpg?1761896099&format=webp&width=640&height=580",
+      "summary": "",
+      "trend": "Elevation Tiles",
+      "timestamp": 1786245549.199309,
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/img_20577af213ac.jpg"
+    }
+  ],
+  "Eco-Friendly & Sustainability": [
+    {
+      "title": "Reimagining Lisbon’s Azulejos: Regenerative Biomaterial Tiles from the Tagus River",
+      "source": "ArchDaily Tiles",
+      "region": "Global",
+      "link": "",
+      "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/68a9/27a1/325f/9301/8cf9/900b/slideshow/reimagining-lisbons-azulejos-regenerative-biomaterial-tiles-from-the-tagus-river_1.jpg?1755916236&format=webp&width=640&height=580",
+      "summary": "",
+      "trend": "Eco-Friendly & Sustainability",
+      "timestamp": 1786245549.199583,
+      "sentiment": "neutral",
+      "priority": "low",
+      "local_image": "images/img_c52a5c72ebfd.jpg"
+    }
+  ]
+}
