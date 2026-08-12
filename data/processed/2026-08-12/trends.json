@@ -1,0 +1,90 @@
+{
+  "Tile Design & Trends": [
+    {
+      "title": "Best Tiles Company in India - Leading Tile Brand | Orientbell Tiles",
+      "source": "Orient Bell",
+      "region": "India",
+      "link": "https://www.orientbell.com/",
+      "image_url": "https://www.orientbell.com/twitterLogo.jpg",
+      "summary": "Orientbell is a leading tiles company in India with 48 years of trust, 2000+ stores and 4000+ tile designs with price. Try TriaLook 3D preview or shop tiles online today.",
+      "trend": "Tile Design & Trends",
+      "timestamp": 1786506059.500038,
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/img_c13d05f6507a.jpg"
+    },
+    {
+      "title": "I IN clads Human Made store in handcrafted Korean celadon tiles with \"powerful presence\"",
+      "source": "Dezeen Tiles RSS",
+      "region": "Global",
+      "link": "https://www.dezeen.com/2026/08/09/i-in-human-made-store-korean-celadon-tiles/",
+      "image_url": "https://static.dezeen.com/uploads/2026/08/i-in-human-made-seoul_dezeen_2364_col_sq1-852x852.jpg",
+      "trend": "Tile Design & Trends",
+      "timestamp": 1786251638.0,
+      "summary": "Tokyo studio I IN combined handcrafted tiles with an industrial-style gridded ceiling and playful animal sculptures in a store for designer Nigo's Human Made brand in Seoul's Lotte Mall Jamsil. The lifestyle store, located inside a contemporary depar",
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/img_2c71fc400464.jpg"
+    }
+  ],
+  "Bath Fittings": [
+    {
+      "title": "Faucets & Showers",
+      "source": "Cera Sanitaryware",
+      "region": "India",
+      "link": "https://www.cera-india.com/",
+      "image_url": "",
+      "summary": "",
+      "trend": "Bath Fittings",
+      "timestamp": 1786506062.0913837,
+      "sentiment": "neutral",
+      "priority": "low",
+      "local_image": "images/bath_fittings_0.jpg"
+    }
+  ],
+  "General Trend": [
+    {
+      "title": "Ceramics Forged in Light: A Spatial Translation of Circular Material Processes",
+      "source": "ArchDaily Tiles",
+      "region": "Global",
+      "link": "",
+      "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/6a04/81c2/fda2/da01/89bd/da21/slideshow/ceramics-forged-in-light-a-spatial-translation-of-circular-material-processes_1.jpg?1778680337&format=webp&width=640&height=580",
+      "summary": "",
+      "trend": "General Trend",
+      "timestamp": 1786506120.1092331,
+      "sentiment": "neutral",
+      "priority": "medium",
+      "local_image": "images/img_919d5341007c.jpg"
+    }
+  ],
+  "Elevation Tiles": [
+    {
+      "title": "Faveker’s Tailor-Made Tiled Facade Brings Personality and Efficiency to the New Muskiz Secondary School",
+      "source": "ArchDaily Tiles",
+      "region": "Global",
+      "link": "",
+      "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/6904/6695/f582/e27b/7538/0f1f/slideshow/favekers-tailor-made-tiled-facade-brings-personality-and-efficiency-to-the-new-muskiz-secondary-school_14.jpg?1761896099&format=webp&width=640&height=580",
+      "summary": "",
+      "trend": "Elevation Tiles",
+      "timestamp": 1786506120.1097445,
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/img_20577af213ac.jpg"
+    }
+  ],
+  "Eco-Friendly & Sustainability": [
+    {
+      "title": "Reimagining Lisbon’s Azulejos: Regenerative Biomaterial Tiles from the Tagus River",
+      "source": "ArchDaily Tiles",
+      "region": "Global",
+      "link": "",
+      "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/68a9/27a1/325f/9301/8cf9/900b/slideshow/reimagining-lisbons-azulejos-regenerative-biomaterial-tiles-from-the-tagus-river_1.jpg?1755916236&format=webp&width=640&height=580",
+      "summary": "",
+      "trend": "Eco-Friendly & Sustainability",
+      "timestamp": 1786506120.1099758,
+      "sentiment": "neutral",
+      "priority": "low",
+      "local_image": "images/img_c52a5c72ebfd.jpg"
+    }
+  ]
+}

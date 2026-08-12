@@ -1,0 +1,30 @@
+{
+  "total_trends": 6,
+  "total_sources": 4,
+  "by_category": {
+    "Tile Design & Trends": 2,
+    "Bath Fittings": 1,
+    "General Trend": 1,
+    "Elevation Tiles": 1,
+    "Eco-Friendly & Sustainability": 1
+  },
+  "by_region": {
+    "India": 2,
+    "Global": 4
+  },
+  "by_source": {
+    "Orient Bell": 1,
+    "Cera Sanitaryware": 1,
+    "ArchDaily Tiles": 3,
+    "Dezeen Tiles RSS": 1
+  },
+  "by_priority": {
+    "medium": 4,
+    "low": 2
+  },
+  "by_sentiment": {
+    "positive": 3,
+    "neutral": 3
+  },
+  "trending_up": []
+}
