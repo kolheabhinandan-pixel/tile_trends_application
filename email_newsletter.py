@@ -36,8 +36,8 @@ SMTP_CONFIG = {
     "port": 587,
     "use_tls": True,
     "sender_email": "kolhe.abhinandan@hrjohnsonindia.com",
-    "sender_password": "kyyl hvzq mngn bhob",
-    "sender_name": "Tile Trends Intelligence",
+    "sender_password": "psqp xele sxau fprh",
+    "sender_name": "Tile trends",
 }
 
 
