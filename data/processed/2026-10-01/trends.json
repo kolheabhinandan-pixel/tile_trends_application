@@ -8,7 +8,7 @@
       "image_url": "https://www.orientbell.com/twitterLogo.jpg",
       "summary": "Orientbell is a leading tiles company in India with 48 years of trust, 2000+ stores and 4000+ tile designs with price. Try TriaLook 3D preview or shop tiles online today.",
       "trend": "Tile Design & Trends",
-      "timestamp": 1790839230.7183154,
+      "timestamp": 1790840289.5391324,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/img_c13d05f6507a.jpg"
@@ -83,14 +83,14 @@
       "local_image": "images/tile_design_and_trends_10.jpg"
     },
     {
-      "title": "Product Trends: Tile Gains Dimension - qualifiedremodeler.com",
+      "title": "Product Trends: Tile Gains Dimension - Qualified Remodeler",
       "source": "GNews Tile Design",
       "region": "Global",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xTF9iSGFnOGUzUXRMWklIRU1DY3I4cFUyOVFOTUFPQTZKZjBUbTB4aGVhMnk5bzBOZWVrN2Zwd1BhYWd6elNoY0thdHRybHc4czhBOVktNGpsSmVVV25iLU1yOE9CM0xTTW5heW54Q01qdFNOR09QX0FGcw?oc=5",
       "image_url": "",
       "trend": "Tile Design & Trends",
       "timestamp": 1789714800.0,
-      "summary": "Product Trends: Tile Gains Dimension&nbsp;&nbsp;qualifiedremodeler.com",
+      "summary": "Product Trends: Tile Gains Dimension&nbsp;&nbsp;Qualified Remodeler",
       "sentiment": "neutral",
       "priority": "medium",
       "local_image": "images/tile_design_and_trends_11.jpg"
@@ -271,7 +271,7 @@
       "image_url": "",
       "summary": "",
       "trend": "Bath Fittings",
-      "timestamp": 1790839235.0798542,
+      "timestamp": 1790840292.2909431,
       "sentiment": "neutral",
       "priority": "low",
       "local_image": "images/bath_fittings_0.jpg"
@@ -300,10 +300,24 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/6a04/81c2/fda2/da01/89bd/da21/slideshow/ceramics-forged-in-light-a-spatial-translation-of-circular-material-processes_1.jpg?1778680337&format=webp&width=640&height=580",
       "summary": "",
       "trend": "General Trend",
-      "timestamp": 1790839250.622383,
+      "timestamp": 1790840307.7658226,
       "sentiment": "neutral",
       "priority": "medium",
       "local_image": "images/img_919d5341007c.jpg"
+    },
+    {
+      "title": "LIXIL’s GROHE Bets on Premiumisation, Experiential Retail to Expand India Footprint - Indian Retailer",
+      "source": "Indian Retailer",
+      "region": "India",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWhMVzkxbjRHZzZEV2ttbnEwWWs4YTRFRHQzYjBpTVQyLUZScWw3TkFBdEdjRnhWYV9QUGNPMnEwUk9IM2M1UDllQ3YtRTRwZFgtdUN6VHpnMkpkWGF0R0Q3bkhYU0xwTkhQV3owdUNJY05lRnZKT1pQRE5pVmkzc21KVmdGVWhqcEVOTl9QVEpLNDFTcElkVG1OTVkwdnNvQmQ5cUZfYzJmaF9QTmU3dmJtOHhoQTBQS0xZY0FzZzR5NnFGb1E?oc=5",
+      "image_url": "",
+      "trend": "General Trend",
+      "timestamp": 1790840063.0,
+      "summary": "LIXIL’s GROHE Bets on Premiumisation, Experiential Retail to Expand India Footprint&nbsp;&nbsp;Indian Retailer",
+      "query": "bath fittings India trends",
+      "sentiment": "positive",
+      "priority": "medium",
+      "local_image": "images/general_trend_15.jpg"
     },
     {
       "title": "Regency Ceramics REGENCERAM 42nd AGM Resolutions FY26 - Kalkine India",
@@ -359,7 +373,7 @@
       "query": "ceramic tile production news",
       "sentiment": "neutral",
       "priority": "medium",
-      "local_image": "images/general_trend_15.jpg"
+      "local_image": "images/general_trend_16.jpg"
     },
     {
       "title": "GROHE SPA Aqua Sanctuary: Shaping the Future of Luxury Across Asia Pacific Through Personalized Water Wellbeing - PR Newswire",
@@ -373,7 +387,7 @@
       "query": "Grohe bath fittings news",
       "sentiment": "positive",
       "priority": "medium",
-      "local_image": "images/general_trend_19.jpg"
+      "local_image": "images/general_trend_20.jpg"
     },
     {
       "title": "Kajaria Ceramics Trading Window Closure October 2026 - Kalkine India",
@@ -457,7 +471,7 @@
       "query": "Kohler bathroom products news",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/general_trend_18.jpg"
+      "local_image": "images/general_trend_19.jpg"
     },
     {
       "title": "Varmora Granito Ltd Peer Comparison – Compare with Others - Value Research",
@@ -485,7 +499,7 @@
       "query": "spa bathroom tile luxury",
       "sentiment": "positive",
       "priority": "low",
-      "local_image": "images/general_trend_23.jpg"
+      "local_image": "images/general_trend_24.jpg"
     },
     {
       "title": "Varmora Granito shares climb nearly 5 pc in debut trade - Press Trust of India",
@@ -513,7 +527,7 @@
       "query": "Varmora tiles new collection",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/general_trend_21.jpg"
+      "local_image": "images/general_trend_22.jpg"
     },
     {
       "title": "Varmora Granito IPO Listing Today: GMP Signals Tepid Debut; Check Expected Price - NDTV Profit",
@@ -527,7 +541,7 @@
       "query": "Varmora tiles new collection",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/general_trend_20.jpg"
+      "local_image": "images/general_trend_21.jpg"
     },
     {
       "title": "Varmora Granito shares list at nearly 5% premium to IPO price - CNBC TV18",
@@ -555,7 +569,7 @@
       "query": "Varmora tiles new collection",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/general_trend_22.jpg"
+      "local_image": "images/general_trend_23.jpg"
     },
     {
       "title": "The Best Shower Squeegees of 2026, Tested and Reviewed - bobvila.com",
@@ -569,7 +583,7 @@
       "query": "textured tiles interior design",
       "sentiment": "positive",
       "priority": "low",
-      "local_image": "images/general_trend_16.jpg"
+      "local_image": "images/general_trend_17.jpg"
     },
     {
       "title": "Varmora Granito IPO Allotment Status Online - IPO Watch",
@@ -611,7 +625,7 @@
       "query": "Florim ceramics tiles news",
       "sentiment": "neutral",
       "priority": "low",
-      "local_image": "images/general_trend_17.jpg"
+      "local_image": "images/general_trend_18.jpg"
     },
     {
       "title": "Asian Granito India Stock Signals to Watch This Week - Univest",
@@ -637,7 +651,7 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/6904/6695/f582/e27b/7538/0f1f/slideshow/favekers-tailor-made-tiled-facade-brings-personality-and-efficiency-to-the-new-muskiz-secondary-school_14.jpg?1761896099&format=webp&width=640&height=580",
       "summary": "",
       "trend": "Elevation Tiles",
-      "timestamp": 1790839250.6231256,
+      "timestamp": 1790840307.766139,
       "sentiment": "positive",
       "priority": "medium",
       "local_image": "images/img_20577af213ac.jpg"
@@ -665,7 +679,7 @@
       "image_url": "https://snoopy.archdaily.com/images/archdaily/media/images/68a9/27a1/325f/9301/8cf9/900b/slideshow/reimagining-lisbons-azulejos-regenerative-biomaterial-tiles-from-the-tagus-river_1.jpg?1755916236&format=webp&width=640&height=580",
       "summary": "",
       "trend": "Eco-Friendly & Sustainability",
-      "timestamp": 1790839250.6234055,
+      "timestamp": 1790840307.7662964,
       "sentiment": "neutral",
       "priority": "low",
       "local_image": "images/img_c52a5c72ebfd.jpg"
@@ -784,7 +798,7 @@
       "query": "Cersaie tiles exhibition news",
       "sentiment": "positive",
       "priority": "high",
-      "local_image": "images/exhibition_and_events_9.jpg"
+      "local_image": "images/exhibition_and_events_8.jpg"
     },
     {
       "title": "AGROMAT presented a mosaic made of debris after Russian attacks at Cersaie 2026 - pragmatika.media",
@@ -798,7 +812,7 @@
       "query": "tile exhibition 2026 news",
       "sentiment": "neutral",
       "priority": "high",
-      "local_image": "images/exhibition_and_events_10.jpg"
+      "local_image": "images/exhibition_and_events_9.jpg"
     },
     {
       "title": "5 Washbasin Trends for 2027 Confirmed at Cersaie, Italy: The Latest in Bath Design - Archiproducts",
@@ -812,7 +826,7 @@
       "query": "tile design trends latest",
       "sentiment": "positive",
       "priority": "high",
-      "local_image": "images/exhibition_and_events_7.jpg"
+      "local_image": "images/exhibition_and_events_6.jpg"
     },
     {
       "title": "VitrA Tiles introduces ‘The Code’ concept and the New Codes of Design at Cersaie Fair - Khaleej Times",
@@ -857,20 +871,6 @@
       "local_image": "images/exhibition_and_events_4.jpg"
     },
     {
-      "title": "VitrA Tiles Introduces \"The Code\" concept and the New Codes of Design at Cersaie Fair - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWtfM1NyeHVsWjh2MWRPalFldlVPVFc3aGZDMXBNbUZ0eHhBYjdLbWVfMFdYWERzUHkwTFljY2lqVjk4V2ZwczN1ZDRidTVidS12aDV3enJJMGZYT3MzQXVqVDlmekRuekpiOUlwdXprUDBiUXNzUTJXdXA1dkdENEtfQkRFMkVXdWh6cThHR2x2WFhFc09kVHpvdW5ZZzhnSnc?oc=5",
-      "image_url": "",
-      "trend": "Exhibition & Events",
-      "timestamp": 1790334660.0,
-      "summary": "VitrA Tiles Introduces \"The Code\" concept and the New Codes of Design at Cersaie Fair&nbsp;&nbsp;Yahoo Finance",
-      "query": "tile manufacturing technology news",
-      "sentiment": "positive",
-      "priority": "high",
-      "local_image": "images/exhibition_and_events_6.jpg"
-    },
-    {
       "title": "Cersaie Fair Hosts VitrA Tiles’ Launch of “The Code” Concept and Fresh Design Codes - News Anyway",
       "source": "News Anyway",
       "region": "Global",
@@ -882,7 +882,7 @@
       "query": "marble look tiles design",
       "sentiment": "positive",
       "priority": "high",
-      "local_image": "images/exhibition_and_events_8.jpg"
+      "local_image": "images/exhibition_and_events_7.jpg"
     },
     {
       "title": "VitrA Tiles Introduces \"The Code\" concept and the New Codes of Design at Cersaie Fair | Media - eqs-news.com",
@@ -899,14 +899,14 @@
       "local_image": "images/exhibition_and_events_3.jpg"
     },
     {
-      "title": "VitrA Tiles Introduces \"The Code\" Concept and the New Codes of Design at Cersaie Fair - The Globe and Mail",
-      "source": "The Globe and Mail",
+      "title": "VitrA Tiles Introduces \"The Code\" Concept and the New Codes of Design at Cersaie Fair - Yahoo Finance",
+      "source": "Yahoo Finance",
       "region": "Global",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUGdrYVZqeFlRdjk1ME8xakhBcGZTdWlKenhQMjRQUHBWazdTWGNIQWVZQ0RxVklreGI3OVNXb2UyMFB5bG1ReWFIZUh6TkV6dUIxeERuc0pFUjhjcWUwZjUyaVVlbUtHMDhWMjVLa2FkZFEtYUkycnRwNFJnV1NSV1ZIcTJWVTI2R2w1VVJMZlp0UDAwRXBPLUJJT0RuVmVuV0tYeHZzdlhnWFBQLXByY09mV2lhR1FLc05NMnVGNmU5ektoazlPaG56OU10WHZ0M3RzemFhMV9teDVfbEtfVENVSVV0YjNfYmFJNDZvTnA3bmxibk5Z?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOakdtSk56SEVzQ29ZX012Mzl5NFBROEFxWGswS2tGSHZYNFFNNWxUbTNZZzEwYVJOSlBPSmQxc0ZFMlVkWWpGSFpVYmJ6eVVvWkZhZ1UyTEhHWWt3ZVp5cUJ4YV9Xam1QcE9ZOXFpY0ZrbnExTjkyWHZIWDJ5YTJUdV9ZQ3YySjBaaGpIbjUxVVRsM1N0dHpyeXNVUFNCcUFnTWJrbHdn?oc=5",
       "image_url": "",
       "trend": "Exhibition & Events",
-      "timestamp": 1790267520.0,
-      "summary": "VitrA Tiles Introduces \"The Code\" Concept and the New Codes of Design at Cersaie Fair&nbsp;&nbsp;The Globe and Mail",
+      "timestamp": 1790267400.0,
+      "summary": "VitrA Tiles Introduces \"The Code\" Concept and the New Codes of Design at Cersaie Fair&nbsp;&nbsp;Yahoo Finance",
       "query": "ceramic tiles global market news",
       "sentiment": "positive",
       "priority": "high",
@@ -923,7 +923,7 @@
       "summary": "A sneak peek from Cersaie&nbsp;&nbsp;IFDM - Interior Furniture Design Magazine",
       "sentiment": "positive",
       "priority": "high",
-      "local_image": "images/exhibition_and_events_11.jpg"
+      "local_image": "images/exhibition_and_events_10.jpg"
     },
     {
       "title": "SOMANY Ceramics Unveils EXPONENCE 2026 With ELITA 2.0 And SENSO 2.0 Collections - Everything Experiential",

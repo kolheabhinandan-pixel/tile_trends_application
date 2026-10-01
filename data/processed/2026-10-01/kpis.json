@@ -4,11 +4,11 @@
   "by_category": {
     "Tile Design & Trends": 15,
     "Bath Fittings": 5,
-    "General Trend": 25,
+    "General Trend": 26,
     "Elevation Tiles": 2,
     "Eco-Friendly & Sustainability": 1,
     "Market & Industry News": 7,
-    "Exhibition & Events": 12,
+    "Exhibition & Events": 11,
     "Technology & Innovation": 2,
     "Floor Tiles": 12,
     "Marble & Quartz": 3,
@@ -21,8 +21,8 @@
     "Large Format Tiles": 1
   },
   "by_region": {
-    "India": 40,
-    "Global": 62
+    "India": 41,
+    "Global": 61
   },
   "by_source": {
     "Orient Bell": 1,
@@ -43,14 +43,14 @@
     "Daily Monitor": 1,
     "Floor Covering Weekly": 9,
     "openPR.com": 5,
-    "The Globe and Mail": 1,
+    "Indian Retailer": 1,
+    "Yahoo Finance": 1,
     "Archiproducts": 5,
     "eqs-news.com": 1,
     "Nilepost": 1,
     "Menafn": 2,
     "GlobeNewswire": 1,
     "Khaleej Times": 1,
-    "Yahoo Finance": 1,
     "eurekamagazine.co.uk": 1,
     "Architecture & Design": 1,
     "Livingetc": 1,
@@ -85,9 +85,9 @@
     "GNews Tile Exhibition": 1
   },
   "by_priority": {
-    "medium": 51,
+    "medium": 52,
     "low": 35,
-    "high": 16
+    "high": 15
   },
   "by_sentiment": {
     "positive": 49,
