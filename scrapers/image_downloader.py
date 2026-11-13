@@ -60,6 +60,41 @@ def download_image(image_url, save_dir, filename=None):
         return None
 
 
+# After this many timeouts/errors, a source is skipped for the rest of the run
+MAX_SOURCE_FAILURES = 2
+CATEGORY_IMAGE_TIMEOUT = 5
+_source_failures = {}
+
+
+def _source_available(name):
+    return _source_failures.get(name, 0) < MAX_SOURCE_FAILURES
+
+
+def _record_failure(name, category, error):
+    _source_failures[name] = _source_failures.get(name, 0) + 1
+    logger.warning(f"{name} failed for {category}: {error}")
+    if not _source_available(name):
+        logger.warning(f"{name} is not responding - skipping it for the rest of this run")
+
+
+def _reuse_previous_image(filename, save_dir, filepath):
+    """Copy the same category image from the most recent earlier day, if any"""
+    import shutil
+    processed_root = os.path.dirname(os.path.dirname(os.path.abspath(save_dir)))
+    today = os.path.basename(os.path.dirname(os.path.abspath(save_dir)))
+    try:
+        days = sorted((d for d in os.listdir(processed_root) if d < today), reverse=True)
+    except OSError:
+        return None
+    for day in days[:30]:
+        candidate = os.path.join(processed_root, day, "images", filename)
+        if os.path.exists(candidate) and os.path.getsize(candidate) > 1000:
+            shutil.copyfile(candidate, filepath)
+            logger.info(f"✓ Reused {filename} from {day}")
+            return filepath
+    return None
+
+
 def fetch_category_image(category, save_dir, index=0):
     """Fetch a relevant image for a trend category using free image sources"""
     from config import CATEGORY_IMAGE_KEYWORDS
@@ -75,35 +110,40 @@ def fetch_category_image(category, save_dir, index=0):
         return filepath
 
     # Strategy 1: Try Unsplash source (redirects to random matching image)
-    try:
-        search_query = quote(keywords)
-        url = f"https://source.unsplash.com/800x600/?{search_query}"
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-        }
-        response = requests.get(url, headers=headers, timeout=15, allow_redirects=True)
-        if response.status_code == 200 and len(response.content) > 1000:
-            with open(filepath, 'wb') as f:
-                f.write(response.content)
-            logger.info(f"✓ Fetched Unsplash image for {category}")
-            return filepath
-    except Exception as e:
-        logger.warning(f"Unsplash failed for {category}: {e}")
+    if _source_available("Unsplash"):
+        try:
+            search_query = quote(keywords)
+            url = f"https://source.unsplash.com/800x600/?{search_query}"
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            }
+            response = requests.get(url, headers=headers, timeout=CATEGORY_IMAGE_TIMEOUT, allow_redirects=True)
+            if response.status_code == 200 and len(response.content) > 1000:
+                with open(filepath, 'wb') as f:
+                    f.write(response.content)
+                logger.info(f"✓ Fetched Unsplash image for {category}")
+                return filepath
+            _record_failure("Unsplash", category, f"HTTP {response.status_code}")
+        except Exception as e:
+            _record_failure("Unsplash", category, e)
 
     # Strategy 2: Try Picsum (random but consistent per seed)
-    try:
-        seed = hashlib.md5(f"{category}_{index}".encode()).hexdigest()[:8]
-        url = f"https://picsum.photos/seed/{seed}/800/600"
-        response = requests.get(url, timeout=15, allow_redirects=True)
-        if response.status_code == 200 and len(response.content) > 1000:
-            with open(filepath, 'wb') as f:
-                f.write(response.content)
-            logger.info(f"✓ Fetched Picsum image for {category}")
-            return filepath
-    except Exception as e:
-        logger.warning(f"Picsum failed for {category}: {e}")
+    if _source_available("Picsum"):
+        try:
+            seed = hashlib.md5(f"{category}_{index}".encode()).hexdigest()[:8]
+            url = f"https://picsum.photos/seed/{seed}/800/600"
+            response = requests.get(url, timeout=CATEGORY_IMAGE_TIMEOUT, allow_redirects=True)
+            if response.status_code == 200 and len(response.content) > 1000:
+                with open(filepath, 'wb') as f:
+                    f.write(response.content)
+                logger.info(f"✓ Fetched Picsum image for {category}")
+                return filepath
+            _record_failure("Picsum", category, f"HTTP {response.status_code}")
+        except Exception as e:
+            _record_failure("Picsum", category, e)
 
-    return None
+    # Strategy 3: Reuse the same category image from an earlier day
+    return _reuse_previous_image(filename, save_dir, filepath)
 
 
 def _get_extension(url):
